@@ -1,0 +1,12 @@
+
+                ※原日文攻略刊载于誠也の部屋。
+
+<font color="#fa0000">◆SAVE01</font>
+慰めないといけない
+<font color="#0000ff">　　END</font>
+
+<font color="#fa0000">◆SAVE01</font>开始
+そっとしておこう
+<font color="#0000ff">　　BAD END</font>
+
+              

@@ -1,0 +1,11 @@
+
+                強がる(素直に言う)
+<font color="#fa0000">◆SAVE01</font>
+もう、これ以上は我慢できない
+<font color="#0000ff">　　END</font>
+
+<font color="#fa0000">◆SAVE01</font>开始
+いや、もう１回くらい我慢できるはずだ
+<font color="#0000ff">　　BAD END</font>
+
+              

@@ -1,0 +1,42 @@
+
+                <span style="color:#FF0000;">存档X1</span>
+
+激しく責める
+
+肉体を責める
+
+肉体を責める
+
+<b><font size="2">拒む</font></b>
+
+<font color="#ff0000" size="2"><b>存档X2</b></font>
+
+<b><font size="2">行</font></b>い（不去）
+
+いや、まだ早い
+
+<b><font size="2">END(She is a Precious Mother)</font></b>
+
+<span style="color:#FF0000;"><b><font size="2">取档X2</font></b></span>
+
+<b><font size="2">行う</font></b>
+
+教祖に献上する
+
+<b><font color="#663300" size="2">END(She is a Dirty Lady)</font></b>
+
+<span style="color:#FF0000;"><b><font size="2">取档X1</font></b></span>
+
+精神的に追い込む
+
+精神を責める
+
+精神を責める
+
+<b><font size="2">互助の儀</font></b>
+
+<b><font size="2">受け入れる</font></b>
+
+<b><font color="#663300" size="2">END(She is Holy Woman)</font></b>
+
+              

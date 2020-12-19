@@ -1,0 +1,98 @@
+
+                １周目はさくらルート固定。★の選択肢は１周目は出現しないので無視してもOK。
+さくらルートEND後に追加選択肢が発生して、とうかルートへの分岐選択肢とさくらルート内の追加　　BADENDへの分岐選択肢が追加されます。
+
+<hr />
+<b>さくらルート、とうかルート</b>
+
+<font color="#fa0000">◆SAVE01</font>
+最後の気合で手を伸ばす
+<font color="#fa0000">◆SAVE02</font>
+ゆずをかばう！
+<font color="#fa0000">◆SAVE03</font>
+あたたかいミルクでも…;…;
+<font color="#ccccff">★さくら</font>
+<font color="#fa0000">◆SAVE04</font>
+まずは迫る触手をっ！！
+<font color="#ccccff">★さくらちゃんは背負って…;…;
+★ゆずはを引き寄せる
+★手を止める
+★小さく頷く</font>
+<font color="#fa0000">◆SAVE05</font>
+ジッと耐える
+<font color="#0000ff">　　さくらルートEND</font>
+
+<font color="#ff66cc">※さくらルートEND後に</font>
+<font color="#fa0000">◆SAVE03</font>开始
+あたたかいミルクでも…;…;
+とうか
+<font color="#fa0000">◆SAVE06</font>
+こ、これは…;…;しょ、処理をしないと…;…;
+<font color="#fa0000">◆SAVE07</font>
+小便の男の首を刎ねるっ！
+<font color="#fa0000">◆SAVE08</font>
+後ろに飛びのく！
+<font color="#0000ff">　　とうかルートEND</font>
+
+<hr />
+<b>BAD回収</b>
+
+<font color="#fa0000">◆SAVE01</font>开始
+力を込めて細剣を突き放つ
+<font color="#0000ff">　　BADEND1</font>
+
+<font color="#fa0000">◆SAVE02</font>开始
+足止めを頼む！
+<font color="#0000ff">　　BADEND2</font>
+
+<font color="#fa0000">◆SAVE03</font>开始
+冷たい水を少し…;…;
+<font color="#0000ff">　　BADEND3</font>
+
+<font color="#fa0000">◆SAVE04</font>开始
+本体のコアを狙って！！
+<font color="#0000ff">　　BADEND4</font>
+
+<font color="#fa0000">◆SAVE05</font>开始
+必死に抵抗する
+<font color="#0000ff">　　BADEND5</font>
+
+<font color="#fa0000">◆SAVE06</font>开始
+が、我慢だ…;…;
+<font color="#0000ff">　　BADEND6</font>
+
+<font color="#fa0000">◆SAVE07</font>开始
+まずは向こうのトレントを始末っ！
+<font color="#0000ff">　　BADEND7</font>
+
+<font color="#fa0000">◆SAVE08</font>开始
+防御っ！
+<font color="#0000ff">　　BADEND8</font>
+
+<font color="#ff66cc">※さくらルートEND後に</font>
+<font color="#fa0000">◆SAVE04</font>开始
+まずは迫る触手をっ！！
+<font color="#fa0000">◆SAVE09</font>
+さくらちゃんは背負って…;…;
+<font color="#fa0000">◆SAVE10</font>
+ゆずはを引き寄せる
+<font color="#fa0000">◆SAVE11</font>
+手を止める
+…;…;…;…;
+<font color="#0000ff">　　BADEND12</font>
+
+<font color="#fa0000">◆SAVE09</font>开始
+二人をのせる台車を取りに…;…;
+<font color="#0000ff">　　BADEND9</font>
+
+<font color="#fa0000">◆SAVE10</font>开始
+さくらを助け出す
+<font color="#0000ff">　　BADEND10</font>
+
+<font color="#fa0000">◆SAVE11</font>开始
+立ち止まる
+<font color="#0000ff">　　BADEND11</font>
+<hr />
+※原日文攻略刊载于誠也の部屋。
+
+              

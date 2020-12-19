@@ -1,0 +1,39 @@
+
+                因简单的操作和Q版的风格受某雪喜爱的同人作。。。
+因此特意截图做出本攻略。。。
+然后发现还是懒得不想干活，于是乎。。。
+郑重声明：
+本攻略为惯例的非详尽简单流程图文无责任攻略。。。OTL。。。
+正文：
+操作说明：（截图不够清晰，因为本来就这样，请各位将就着看吧。。。）
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image001.jpg" alt="" />
+指令：点击后会暂停游戏，单击在地图上设立方向指令，一次只能设一个。。。
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image002.jpg" alt="" />
+出发：让队伍开始前进
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image003.jpg" alt="" />
+替换：交换领队人物（基本没啥用。。。）
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image004.jpg" alt="" />
+血瓶：战斗中点击使用，按当前血量的百分比回复
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image005.jpg" alt="" />
+必杀：你懂得。。。
+战斗说明：
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image006.jpg" alt="" />
+红条为敌人血量，绿条为我方血量。。。
+左边是我方领队角色，右边是敌人。。。
+黄橙红三色格为能量，能使用三级不同的必杀。。。
+最右边是系统菜单。。。
+地图说明：
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image007.jpg" alt="" />
+怪物：遇见后触发战斗
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image008.jpg" alt="" />
+宝箱：随机获得血瓶，武器强化，防具强化之一（基本99%是血瓶，除非是限定宝箱）
+武器强化：当前领队的WP+1
+防具强化：当前领队的DP+1
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image009.jpg" alt="" />
+女神像：当前领队的全属性+1
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image010.jpg" alt="" />
+不可思议的泉水：体力和异常状态全恢复，体力上限增加
+<img src="https://img.2dfan.com/old_source/guide/ladynight/image011.jpg" alt="" />
+事件：随机触发以上各种效果其一，或者刷新当前地图的所有怪物
+
+              

@@ -1,0 +1,307 @@
+
+                 ;
+
+<b>共通</b>
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>悠姫の部屋に行ってみる
+			悠姫が着ているところを見てみたい
+			紗那の手伝い
+			紗那はよく似合ってるからいいけどな
+			先生がきれいだから見とれちゃって
+			琴梨にも似合うんじゃないかな？
+			琴梨を手伝う
+			デートだ
+			楽しい
+			やっぱり気になる
+			手早く迅速に準備
+			まかせてください
+			琴梨の腕がいいから
+			おまえはそれでじゅうぶんだ
+			琴梨を思い浮かべる
+			悠姫を手伝う
+			悠姫といっしょに帰る
+			【セーブ１】
+			気になる
+			悠姫を誘う
+			【セーブ２】（４回使用）</td>
+		</tr>
+		<tr align="center">
+			<th>各ルートへ</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<hr width="85%" />
+<a name="2"></a>
+
+<b>悠姫</b>
+ ;
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>悠姫
+			折衷案を出す
+			キレイなんだからいいじゃないか
+			定番のデートコース
+			【セーブ３】
+			今日はヘンなことがしたい！
+			押し倒す</td>
+		</tr>
+		<tr align="center">
+			<th>悠姫 ＥＮＤ１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ３から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>ヘンなことなんてしない！
+			悠姫を抱きしめる</td>
+		</tr>
+		<tr align="center">
+			<th>悠姫 ＥＮＤ２</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<hr width="85%" />
+<a name="3"></a>
+
+<b>紗那</b>
+ ;
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>紗那
+			元がいいから、なにを着ても似合う
+			紗那にまかせる
+			【セーブ４】
+			エッチ券をあげる
+			毛が好きだから</td>
+		</tr>
+		<tr align="center">
+			<th>紗那 ＥＮＤ１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ４から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>エッチ券を使う
+			紗那が好きだから</td>
+		</tr>
+		<tr align="center">
+			<th>紗那 ＥＮＤ２</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<hr width="85%" />
+<a name="4"></a>
+
+<b>琴梨</b>
+ ;
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>琴梨
+			琴梨にだって、ふたりにないものがある
+			やっぱりちょっとおかしいと思う
+			琴梨に決めてもらう
+			【セーブ５】
+			代わりに新しい服を買ってやる
+			誰が来ても関係ない</td>
+		</tr>
+		<tr align="center">
+			<th>琴梨 ＥＮＤ１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ５から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>拝み倒す
+			場所を変える</td>
+		</tr>
+		<tr align="center">
+			<th>琴梨 ＥＮＤ２</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<hr width="85%" />
+<a name="5"></a>
+
+<b>その他</b>
+ ;
+
+セーブ１から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>気にならない
+			悠姫を誘う
+			誰も選べない
+			親近感が沸いた
+			【セーブ６】
+			そんなことないです</td>
+		</tr>
+		<tr align="center">
+			<th>舞花 ＥＮＤ</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ６から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>先生は十分魅力的だ！</td>
+		</tr>
+		<tr align="center">
+			<th>ハーレム ＥＮＤ１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>誰も選べない
+			親近感が沸いた
+			先生は十分魅力的だ！</td>
+		</tr>
+		<tr align="center">
+			<th>ハーレム ＥＮＤ２</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<hr width="85%" />
+<a name="6"></a>
+
+<b>ＢＡＤ</b>
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>紗那の部屋に行ってみる
+			もう少し慎みを覚えろ
+			琴梨の手伝い
+			余計なことは言わない
+			おっぱいが好きなんです！
+			悠姫なら似合いそうだ
+			悠姫を手伝う
+			同窓会だ
+			かったるい
+			気のせいだろう
+			焦らずゆっくりと準備
+			まかせてください
+			先生はスタイルがいいから
+			おまえはそれでじゅうぶんだ
+			あかりを思い浮かべる
+			紗那を手伝う
+			琴梨といっしょに帰る
+			気にならない</td>
+		</tr>
+		<tr align="center">
+			<th>ＢＡＤ ＥＮＤ</th>
+		</tr>
+	</tbody>
+</table>
+
+              

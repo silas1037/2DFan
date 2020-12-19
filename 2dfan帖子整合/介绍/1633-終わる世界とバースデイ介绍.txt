@@ -1,0 +1,83 @@
+
+                
+——那天。世界真的会毁灭之类的，不会有任何人相信。不过，内心的深处，却是这样期望着——<strong>2012. 9.29 世界将就此终结——</strong>
+夏季即将结束的九月份。这个传言在互联网上波及开来，私下里在世界各处流传着。当然，肯定没人会就如此轻易地相信这种传言。不过虽然不信，但是内心里带着隐约不安感的人却是非常之多。“哪天真的不会发生什么事情吗？”，很多人都带着这样隐约的不安预期。
+主人公对这种狗屁传言完全没有兴趣。对他来说最重要的事情，就是替死去的基友守护她的妹妹而已……把他当成了死去基友的，偶然成为的妹。
+不过，在和预科学校一起就读的同学对此事的交流却逐渐演变成了一个名为“9.29对策协会”的私下组织的成立……这个组织的目的就是，研究目前正在互联网上流传的“世界毁灭”流言的真实性，并且拿出相应的应对策略。
+<strong>距离2012年9月29日还有<span id="day" style="color:#006600"></span>天<span id="hour" style="color:#006600"></span>小时<span id="mini" style="color:#006600"></span>分<span id="sec" style="color:#006600"></span>秒。</strong>而那天却也是死去的基友的忌日，以及“妹”的生日——
+人物介绍：
+主人公想要保护的临时的妹妹千ヶ崎 入莉 （ちがさき いり）
+<img src="https://img.2dfan.com/old_source/1204/1648_c_1.jpg" alt="千ヶ崎 入莉" />
+2年前死掉的基友的妹妹。因为天生弱视的关系，所以基本上看不到任何东西。虽然说并非完全失明，不过其视力却不能够用眼镜进行矫正。另外，因为痛失兄长的事情而受到打击，所以之后把主人公当成了自己死掉的哥哥，一直管主人公亲切地叫着“哥哥”。虽然视力和精神上有着这样那样的障碍，不过平时却是一副让人丝毫不会察觉到这些缺陷的天真阳光性格。
+主人公为了保护入莉脆弱的身心，一直在她的身边扮演着哥哥的角色。她目前随同主人公一起在公寓中生活，和主人公就读于同一学园，目前是一年级。
+“哥哥，今天的天气好吗？”
+<script type="text/javascript">
+var fnTimeCountDown = function(d, o){
+	var f = {
+		zero: function(n){
+			var n = parseInt(n, 10);
+			if(n > 0){
+				if(n <= 9){
+					n = "0" + n;	
+				}
+				return String(n);
+			}else{
+				return "00";	
+			}
+		},
+		dv: function(){
+			d = d || Date.UTC(2050, 0, 1);
+			var future = new Date(d), now = new Date();
+			var dur = Math.round((future.getTime() - now.getTime()) / 1000) + future.getTimezoneOffset() * 60, pms = {
+				sec: "00",
+				mini: "00",
+				hour: "00",
+				day: "00",
+				month: "00",
+				year: "0"
+			};
+			if(dur > 0){
+				pms.sec = f.zero(dur % 60);
+				pms.mini = Math.floor((dur / 60)) > 0? f.zero(Math.floor((dur / 60)) % 60) : "00";
+				pms.hour = Math.floor((dur / 3600)) > 0? f.zero(Math.floor((dur / 3600)) % 24) : "00";
+				pms.day = Math.floor((dur / 86400)) > 0? f.zero(Math.floor((dur / 86400))) : "00";
+				pms.month = Math.floor((dur / 2629744)) > 0? f.zero(Math.floor((dur / 2629744)) % 12) : "00";
+				pms.year = Math.floor((dur / 31556926)) > 0? Math.floor((dur / 31556926)) : "0";
+			}
+			return pms;
+		},
+		ui: function(){
+			if(o.sec){
+				o.sec.innerHTML = f.dv().sec;
+			}
+			if(o.mini){
+				o.mini.innerHTML = f.dv().mini;
+			}
+			if(o.hour){
+				o.hour.innerHTML = f.dv().hour;
+			}
+			if(o.day){
+				o.day.innerHTML = f.dv().day;
+			}
+			if(o.month){
+				o.month.innerHTML = f.dv().month;
+			}
+			if(o.year){
+				o.year.innerHTML = f.dv().year;
+			}
+			setTimeout(f.ui, 1000);
+		}
+	};	
+	f.ui();
+};
+var d = Date.UTC(2012, 8, 29, 0, 0);
+var obj = {
+     day: document.getElementById("day"),
+     sec: document.getElementById("sec"),
+     mini: document.getElementById("mini"),
+     hour: document.getElementById("hour")
+}
+fnTimeCountDown(d, obj);
+</script>
+
+              

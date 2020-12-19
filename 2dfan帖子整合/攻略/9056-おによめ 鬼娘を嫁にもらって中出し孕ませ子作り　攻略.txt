@@ -1,0 +1,89 @@
+
+                注：原日文攻略刊载于誠也の部屋。
+
+&mdash;&mdash;&mdash;<b>共通</b>&mdash;&mdash;&mdash;
+
+■もみじ(仕事尋)
+■帰宅
+■もみじ(破瓜)
+━━━━━━━━
+破瓜を済ませてない嫁候補を選ぶ。
+■うらら(破瓜)
+破瓜を済ませてない嫁候補を選ぶ。
+■みかさ(破瓜)
+━━━━━━━
+破瓜を済ませた嫁候補を選ぶ
+■もみじ
+川沿いに歩く。
+<font color="#fa0000">◆SAVE01</font>
+恥じらう君が好きだ。│＋
+━━━━━━━
+■うらら(仕事尋)
+破瓜を済ませた嫁候補を選ぶ。
+■うらら
+村はずれへ向かう。
+そんな君を振り向かせたい！│＋
+━━━━━━━
+■みかさ(仕事尋)
+破瓜を済ませた嫁候補を選ぶ。
+■みかさ
+山への道を行く。
+死ぬなんて許さない。│＋
+
+&mdash;&mdash;&mdash;<b>もみじ</b>&mdash;&mdash;&mdash;
+
+<font color="#fa0000">◆SAVE02</font>
+■もみじ
+素直に興味を持つ。│＋
+■もみじ
+<font color="#0000ff">　　もみじEND</font>
+
+&mdash;&mdash;&mdash;<b>うらら</b>&mdash;&mdash;&mdash;
+
+ ;
+
+<font color="#fa0000">◆SAVE02</font>开始
+■うらら
+そうなんだね？│＋
+■うらら
+<font color="#0000ff">　　うららEND</font>
+
+&mdash;&mdash;&mdash;<b>みかさ</b>&mdash;&mdash;&mdash;
+
+<font color="#fa0000">◆SAVE02</font>开始
+■みかさ
+僕を信じてよ。│＋
+■みかさ
+<font color="#0000ff">　　みかさEND</font>
+
+&mdash;&mdash;&mdash;<b>おきぬ</b>&mdash;&mdash;&mdash;
+
+ ;
+
+<font color="#fa0000">◆SAVE01</font>开始
+淫乱でもいいよ。
+■うらら(仕事尋)
+破瓜を済ませた嫁候補を選ぶ。
+■うらら
+村はずれへ向かう
+みかさが好きでも、かまわないよ。
+━
+■みかさ(仕事尋)
+破瓜を済ませた嫁候補を選ぶ。
+■みかさ
+山への道を行く。
+すぐに子作りしよう！
+■もみじ
+気づかないふりをする。
+<font color="#0000ff">　　おきぬEND</font>
+
+&mdash;&mdash;&mdash;<b>ハーレム</b>&mdash;&mdash;&mdash;
+
+<font color="#fa0000">◆SAVE02</font>开始
+■決められない
+■決められない
+■もみじ
+気づかないふりをする。
+<font color="#0000ff">　　ハーレムEND</font>
+
+              

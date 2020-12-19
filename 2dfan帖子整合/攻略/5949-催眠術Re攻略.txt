@@ -1,0 +1,511 @@
+
+                
+    “このまま手を広げずいこう”和“すべてを手に入れよう”这两个选项需要达成除了相沢裕未B和BAD END之外的3种结局后才会出现。
+    选择“すべてを手に入れよう”会直接进入后宫结局。
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td></td>
+            <th>篠原恵</th>
+            <th>青木彦造BAD</th>
+            <th>BADEND(CG无)</th>
+        </tr>
+        <tr>
+            <th>一日目</th>
+            <td colspan="3">村越と一緒に帰る
+                催眠術をかけない</td>
+        </tr>
+        <tr>
+            <th>ニ日目</th>
+            <td colspan="3">篠原恵を捜す&#12288; 1-01
+            </td>
+        </tr>
+        <tr>
+            <th>三日目</th>
+            <td colspan="3">篠原恵を捜す&#12288; 1-02
+            </td>
+        </tr>
+        <tr>
+            <th>四日目</th>
+            <td>村越の後を追う
+                <strong>村越を止める</strong>&#12288; 1-03
+                村越を部屋に入れる</td>
+            <td colspan="2">村越の後を追う
+                <strong>そのまま見ている</strong>&#12288; 6-01
+                村越に同意する</td>
+        </tr>
+        <tr>
+            <th>五日目</th>
+            <td><strong>このまま手を広げずいこう</strong>
+            </td>
+            <td>とりあえず帰る</td>
+            <td>篠原恵を捜す</td>
+        </tr>
+        <tr>
+            <th rowspan="2">END</th>
+            <td>
+                1-04, 1-05, 1-06,
+                1-07, 1-08, 1-09
+            </td>
+            <td>
+                5-05
+                中で待たせてもらう&#12288; 5-06, 5-07
+            </td>
+        </tr>
+        <tr>
+            <th>マタニティ結婚式</th>
+            <th>祖父の欲望</th>
+        </tr>
+    </tbody>
+</table>
+
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td></td>
+            <th>伊吹涼子</th>
+            <th>伊吹涼子BAD-A</th>
+            <th>相沢裕未B</th>
+        </tr>
+        <tr>
+            <th>一日目</th>
+            <td colspan="3">村越と一緒に帰る
+                催眠術をかけない</td>
+        </tr>
+        <tr>
+            <th>ニ日目</th>
+            <td colspan="2">
+                伊吹涼子を捜す&#12288; 1-10
+                
+                <strong>優しく声をかける</strong>
+            </td>
+            <td>伊吹涼子を捜す&#12288; 1-10
+                
+                <strong>キーワードを言う</strong>
+            </td>
+        </tr>
+        <tr>
+            <th>三日目</th>
+            <td colspan="2">
+                5-08
+                伊吹涼子を捜す&#12288; 1-12
+            </td>
+            <td>
+                5-08
+                伊吹涼子を捜す&#12288; 1-12
+            </td>
+        </tr>
+
+        <tr>
+            <th>四日目</th>
+            <td>
+                村越の後を追う
+                そのまま見ている&#12288; 5-09
+                村越を殴る&#12288; 2-01
+                
+                <strong>村越を部屋に入れる</strong>
+                
+            </td>
+            <td>
+                村越の後を追う
+                そのまま見ている&#12288; 5-09
+                村越を殴る&#12288; 2-01
+                
+                <strong>さっさと追い返す</strong>&#12288; 6-12
+                
+            </td>
+            <td>
+                村越の後を追う
+                村越に声をかける&#12288;5-09*
+                2-01
+                さっさと追い返す&#12288; 6-12
+                
+            </td>
+        </tr>
+
+        <tr>
+            <th>五日目</th>
+            <td><strong>このまま手を広げずいこう</strong>
+            </td>
+            <td>伊吹涼子が……&#12288; 6-02
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <th rowspan="2">END</th>
+            <td>
+                2-02, 2-03, 2-05, 2-06,
+                2-04, 2-07, 2-08, 2-09
+            </td>
+            <td>
+                6-03, 6-04
+            </td>
+
+
+            <td>
+                3-10
+            </td>
+        </tr>
+        <tr>
+            <th>伊吹家の母娘</th>
+            <th>タロウくんと</th>
+            <th>偽りと真実の愛</th>
+        </tr>
+    </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td></td>
+            <th>青木ゆかり</th>
+            <th>ゆかり&;裕未</th>
+            <th>相沢裕未BAD</th>
+        </tr>
+        <tr>
+            <th>一日目</th>
+            <td colspan="3">村越と一緒に帰る
+                催眠術をかける&#12288; 2-10
+            </td>
+        </tr>
+        <tr>
+            <th>ニ日目</th>
+            <td>
+                帰宅する
+                
+                <strong>裕未ちゃんの方に</strong>
+            </td>
+
+            <td colspan="2">
+                帰宅する
+                
+                <strong>キーワードを言う</strong>&#12288; 2-11
+            </td>
+        </tr>
+
+        <tr>
+            <th>三日目</th>
+            <td>
+                5-08
+                とりあえず帰る
+                催眠術をかける&#12288; 2-11
+            </td>
+
+            <td colspan="2">
+                5-08
+                とりあえず帰る
+                催眠術をかける&#12288; 3-11
+            </td>
+        </tr>
+
+        <tr>
+            <th>四日目</th>
+            <td>
+                2-12
+                村越を部屋に入れる
+                
+            </td>
+            <td>
+                2-12
+                
+                <strong>村越を部屋に入れる</strong>
+                
+            </td>
+            <td>
+                2-12
+                
+                <strong>さっさと追い返す</strong>&#12288; 6-12
+                
+            </td>
+        </tr>
+
+        <tr>
+            <th>五日目</th>
+            <td><strong>このまま手を広げずいこう</strong>
+            </td>
+            <td><strong>このまま手を広げずいこう</strong>
+            </td>
+            <td>相沢裕未が……&#12288; 7-02
+            </td>
+        </tr>
+        <tr>
+            <th rowspan="2">END</th>
+            <td>
+                3-01, 3-02
+            </td>
+            <td>
+                3-12, 4-01, 4-02
+            </td>
+            <td>
+                7-03, 6-11, 7-04
+            </td>
+        </tr>
+        <tr>
+            <th>妊婦ゆかり</th>
+            <th>妊娠姉妹</th>
+            <th>裕未への贈り物</th>
+        </tr>
+    </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td></td>
+            <th>名波奈々子A</th>
+            <th>名波奈々子B</th>
+            <th>篠原恵BAD-A</th>
+        </tr>
+        <tr>
+            <th>一日目</th>
+            <td colspan="3">
+                まだ用事があるから
+                名波奈々子を捜す&#12288; 4-03
+            </td>
+        </tr>
+        <tr>
+            <th>ニ日目</th>
+            <td>
+                名波奈々子を捜す&#12288; 4-04
+                
+                <strong>このままシゴかせ続ける</strong>
+                
+            </td>
+            <td colspan="2">
+                名波奈々子を捜す&#12288; 4-04
+                
+                <strong>意識だけ元に戻す</strong>
+                
+            </td>
+        </tr>
+
+        <tr>
+            <th>三日目</th>
+            <td>
+                5-08
+                名波奈々子を捜す&#12288; 4-05
+                
+                <strong>彼女にしたい</strong>
+                
+            </td>
+
+            <td>
+                5-08
+                名波奈々子を捜す&#12288; 4-05
+                
+                <strong>辱めてやりたい</strong>
+            </td>
+            <td>
+                5-08
+                篠原恵を捜す&#12288; 1-01
+            </td>
+        </tr>
+
+        <tr>
+            <th>四日目</th>
+            <td>無視する&#12288; 4-06
+            </td>
+            <td>
+                4-12
+                村越を部屋に入れる
+                
+            </td>
+            <td>
+                村越の後を追う
+                そのまま見ている&#12288; 5-09
+                村越を殴る&#12288; 1-03
+                6-08b
+                
+            </td>
+        </tr>
+
+        <tr>
+            <th>五日目</th>
+            <td>&#12288;</td>
+            <td>&#12288;</td>
+            <td>篠原恵が……&#12288; 5-10
+            </td>
+        </tr>
+        <tr>
+            <th rowspan="2">END</th>
+            <td>
+                4-07, 4-08, 4-09, 4-10, 4-11
+            </td>
+            <td>
+                5-01, 5-02, 5-03
+            </td>
+            <th>彼女の食生活</th>
+        </tr>
+        <tr>
+            <th>同棲生活</th>
+            <th>スポーツ診断</th>
+        </tr>
+    </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td></td>
+            <th>青木ゆかりBAD</th>
+            <th>相沢裕未A</th>
+            <th>村越進太BAD</th>
+        </tr>
+        <tr>
+            <th>一日目</th>
+            <td colspan="3">
+                まだ用事があるから
+                伊吹涼子を捜す&#12288; 1-10
+            </td>
+        </tr>
+
+        <tr>
+            <th>ニ日目</th>
+            <td colspan="2">
+                伊吹涼子を捜す
+                
+                <strong>ナマイキなタワシ</strong>&#12288; 1-11
+            </td>
+            <td>
+                伊吹涼子を捜す
+                
+                <strong>素直に掃除をする</strong>&#12288;1-11*</td>
+        </tr>
+
+        <tr>
+            <th>三日目</th>
+            <td>
+                5-08
+                とりあえず帰る
+                
+                <strong>催眠術をかける</strong>&#12288; 2-10
+            </td>
+
+            <td>
+                5-08
+                とりあえず帰る
+                
+                <strong>やめておく</strong>&#12288; 3-03
+            </td>
+            <td>
+                5-08
+                篠原恵を捜す&#12288; 1-01
+            </td>
+        </tr>
+
+        <tr>
+            <th>四日目</th>
+            <td>
+                2-12, 6-08a
+            </td>
+            <td>
+                2-12, 3-04
+            </td>
+            <td>無視して教室へ向かう
+                6-08b
+            </td>
+        </tr>
+
+        <tr>
+            <th>五日目</th>
+            <td>&#12288;</td>
+            <td><strong>このまま手を広げずいこう</strong>
+            </td>
+            <td>(<strong>※各结局分歧点</strong>)</td>
+        </tr>
+        <tr>
+            <th rowspan="2">END</th>
+            <td>
+                6-09, 6-10
+            </td>
+            <td>
+                3-05, 3-06, 3-07, 3-08, 3-09
+            </td>
+        </tr>
+        <tr>
+            <th>出産記録</th>
+            <th>可愛い彼女たち</th>
+        </tr>
+    </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <th colspan="6">村越進太5日目的分歧点开始
+            </th>
+        </tr>
+        <tr>
+            <td>&#12288;</td>
+            <th>篠原恵BAD-B</th>
+            <th>伊吹涼子BAD-B</th>
+            <th>名波奈々子BAD</th>
+            <th colspan="2">ゆかり&;裕未BAD</th>
+        </tr>
+        <tr>
+            <th>五日目</th>
+            <td>篠原恵が……
+                5-11
+            </td>
+            <td>伊吹涼子が……
+                6-05
+            </td>
+            <td>名波奈々子が……
+                7-08, 7-09
+            </td>
+            <td>青木ゆかりが……
+                6-07
+            </td>
+            <td>相沢裕未が……
+                7-01
+            </td>
+        </tr>
+        <tr>
+            <th>END</th>
+            <td>
+                5-12
+            </td>
+            <td>
+                6-06
+            </td>
+            <td>
+                7-10
+            </td>
+            <td colspan="2">
+                7-05, 7-06, 7-07
+            </td>
+        </tr>
+        <tr>
+            <th>&#12288;</th>
+            <th>肉便器、恵</th>
+            <th>涼子の悪夢</th>
+            <th>二人の破滅</th>
+            <th colspan="2">妊娠報告撮影</th>
+        </tr>
+    </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <th colspan="2">任意路线中选「このまま手を広げずいこう」开始
+            </th>
+        </tr>
+        <tr>
+            <td>&#12288;</td>
+            <th>后宫 END</th>
+        </tr>
+        <tr>
+            <th>五日目</th>
+            <td>すべてを手に入れよう&#12288; 5-04
+            </td>
+        </tr>
+        <tr>
+            <th>&#12288;</th>
+            <th>俺の女たち</th>
+        </tr>
+    </tbody>
+</table>
+              

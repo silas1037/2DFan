@@ -1,0 +1,3 @@
+
+                個別END<br><br>◆SAVE01<br>眠っている男を殺害する<br>◆SAVE02<br>夏花とともに逃げる<br>自分を食べればいいと言う<br>心々乃を止める<br>◆SAVE03<br>この部屋に残る<br>◆SAVE04<br>メイドを信用する<br>客人の女の話に乗る<br>◆SAVE05<br>何らか行動を起こす<br>◆SAVE06<br>館の男を殺す<br>◆SAVE07<br>愛夢の部屋を捜す<br>◆SAVE08<br>何か協力できることを探す<br><br>TRUE END<br><br>◆SAVE05开始<br>この場で大人しく待つ<br><br>脱出 END1<br><br>◆SAVE08开始<br>みあの指示に従う<br><br>脱出 END2+復讐 END<br><br>BAD、场景回收<br><br>◆SAVE01开始<br>これでは殺せないと夏花を説得する<br>目を閉じて誰かを選ぶ　<br>愛夢の血を手に入れる<br>自分達だけで実行する<br><br>美亜＆永遠生 BAD END1<br><br>◆SAVE04开始<br>客人の女の話に乗る<br><br>美亜＆永遠生 BAD END2<br><br>◆SAVE02开始<br>みあを捜す<br><br>未读场景回收结束(夏花)<br><br>◆SAVE03开始<br>厨房に隠れる<br><br>未读场景回收结束(心々乃)<br><br>◆SAVE06开始<br>愛夢と話す<br><br>美亜 BAD END<br><br>◆SAVE07开始<br>食料貯蔵庫へと向かう<br><br>美亜＆愛夢 BAD END<br><br>原日文攻略刊载于誠也の部屋。<br>
+              

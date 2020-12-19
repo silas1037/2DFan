@@ -1,0 +1,17 @@
+
+                <a href="https://pan.baidu.com/s/14WMVKjp95O6kE_BOXCDW7A">m3xs</a>
+
+吐槽：表跟我说你用了那么多年的度犬都不知道怎么下。另外，别抱怨老子为何不发资源板块，老子只能回答你，在资源板块发帖也要求相应的权限，这一点我也很无奈，要怨就怨管理员处世不周吧。
+
+说明：本全卡存档是在全CG存档的基础上进行补全的，懒得看RP硬刷卡的玩家 推荐使用。
+
+<div class="control-group well well-small">
+存档适用于Package版（パッケージ版）。
+
+默认情况下，存档位置如下：
+
+　　Windows 7/8/10
+　　　C:\Users\你的用户名\AppData\Roaming\sonora\僕の未来は、恋と課金と。\savedata\
+
+注：使用启动菜单上的【セーブフォルダを開く】可以打开存档所在路径。
+

@@ -1,0 +1,27 @@
+
+                <p align="left">第二个选项是日语汉字问题的答案，因此不翻译
+
+<p align="left">◆SAVE01
+长×;宽×;高
+こころみる
+去洗澡
+
+<p align="left">⇒;BAD END01
+
+<p align="left">◆SAVE01开始
+半径×;半径×;圆周率×;高
+かえりみる
+◆SAVE02
+假装去洗澡
+
+<p align="left">⇒;BAD END02
+
+<p align="left">※以上全部END后
+◆SAVE02开始
+去洗澡
+
+<p align="left">奈留 END
+
+ ;
+
+              

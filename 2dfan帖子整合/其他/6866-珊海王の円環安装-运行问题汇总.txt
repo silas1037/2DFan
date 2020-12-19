@@ -1,0 +1,3 @@
+
+                1、安装到一半弹出乱码报错退出请转日文区域，重启电脑后再次安装。2、运行时报 "<span style="font-weight: bold;">DirectXGraphicsオブジェクトの生成に失敗しました</span>" 错误，崩溃退出・「描画間隔」-->;「ﾘﾌﾚｯｼｭﾚｰﾄ無視」<br>・「3Dｵﾌﾟｼｮﾝ」-->;「なし」<br><br>应该就可以顺利进入游戏了（如果依然启动失败，尝试更新DirectX到9.0c……）。3、游戏中每隔几分钟？就弹出资料损坏的警告（如下图）<img src="https://img.2dfan.com/uploads/intro/1/d744da891c48e2301f356c7a23282db5.png" style="width: 358px;">确保你的游戏安装路径为全英文即可。已经安装过游戏的可以卸载掉（记得保留存档……）用LE重装。<br>附LE下载地址：<a target="_blank" href="https://github.com/xupefei/Locale-Emulator/releases">https://github.com/xupefei/Locale-Emulator/releases</a><br><br>
+              

@@ -1,0 +1,20 @@
+
+                響
+SAVE1踏みとどまるSAVE2思いなおす慰める響SAVE3ヘアピンを渡す
+響 END
+響
+SAVE3开始渡さない
+響 BADEND
+巡
+SAVE1开始受け入れる思いなおす慰めない巡SAVE4花を捨てない
+巡 END
+巡
+SAVE4开始花を捨てる
+巡 BADEND
+七生
+SAVE2开始行ってしまう慰めない七生さんSAVE5一歩踏み出す
+七生 END
+七生
+SAVE5开始出て行かない
+七生 BADEND
+              

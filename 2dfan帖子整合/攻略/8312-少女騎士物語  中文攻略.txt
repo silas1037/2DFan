@@ -1,0 +1,56 @@
+
+                <strong>美樱</strong>
+
+ ;
+
+制止美樱
+
+其他的人也被邀请的话
+
+向美樱解释
+
+SAVE【1】
+
+什么也不说
+
+注视
+
+<strong>美樱END</strong>
+
+ ;
+
+SAVE 1开始
+
+适时的提供援手
+
+对不起，有点无理
+
+SAVE 2
+
+帮忙学生会
+
+<strong>END</strong>
+
+ ;
+
+SAVE  ;2开始
+
+拒绝帮忙
+
+SAVE【3】
+
+「試合の運びの注意」だけにとどめる
+
+<strong>诺艾尔END</strong>
+
+ ;
+
+<strong>丽莎</strong>
+
+SAVE 3开始
+
+莉萨骑士想要的话
+
+<strong>莉萨END</strong> ;  ;  ;
+
+              

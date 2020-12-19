@@ -1,0 +1,78 @@
+
+                <table bgcolor="#ffffff" border="1" bordercolor="#66ccff" cellspacing="0" height="40" width="800">
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="400"><b>メイン</b></td>
+			<td align="center" valign="top" width="400"><b>調教系(道具、排泄)</b></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="400"><input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉に飲んでもらう(音葉に顔射ぶっかけ)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />優しく指導
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<font color="#ff0000">◆セーブ01</font>
+			<input type="checkbox" />心配する
+			<input type="checkbox" />やっぱり気になる　
+			<input type="checkbox" />音葉に飲んでもらう(音葉に顔射ぶっかけ)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<font color="#ff0000">◆セーブ02</font>
+			<input type="checkbox" />琴姉のことを調べる
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉かな　
+			
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<font color="#0000ff">姉妹妊娠END</font></td>
+			<td align="left" valign="top" width="400">
+			<font color="#ff0000">◆セーブ02</font>から
+			<input type="checkbox" />調べない
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />見ない
+			<input type="checkbox" />見ない
+			<input type="checkbox" />たぶん琴姉
+			<font color="#0000ff">姉妹調教END1</font>
+			
+			<font color="#ff0000">◆セーブ01</font>から
+			<input type="checkbox" />姉さんなら心配ない
+			<input type="checkbox" />なら気にしない
+			<input type="checkbox" />音葉に飲んでもらう(音葉に顔射ぶっかけ)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />調べない
+			
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />琴姉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />音葉に中出し(外に射精)
+			<input type="checkbox" />排泄を見る(見ない)
+			<input type="checkbox" />排泄を見る(見ない)
+			<input type="checkbox" />排泄を見る(見ない)
+			<input type="checkbox" />たぶん琴姉
+			<input type="checkbox" />排泄を見る(見ない)
+			<input type="checkbox" />排泄を見る(見ない)
+			<font color="#0000ff">姉妹調教END2 ;</font>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+              

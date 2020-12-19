@@ -1,0 +1,112 @@
+
+                主线
+
+◆SAVE01
+魔法少女になる
+静かに探す
+◆SAVE02
+杖でつく
+◆SAVE03
+女の子を助けたい
+◆SAVE04
+呼び止める
+◆SAVE05
+積極的に攻める
+◆SAVE06
+確かめる
+◆SAVE07
+我に返る
+◆SAVE08
+魔法を打つ
+助けに行く
+◆SAVE09
+隠れる
+◆SAVE10
+石を投げる
+◆SAVE11
+急所を狙う
+◆SAVE12
+二人で魔法を打つ
+
+TRUE END
+
+BAD回收１
+
+◆SAVE01开始
+ならない
+
+BAD END1
+
+◆SAVE02开始
+蹴り飛ばす
+
+BAD END2
+
+◆SAVE03开始
+一人は淋しい
+
+BAD END3
+
+◆SAVE04开始
+見送る
+
+BAD END4
+
+◆SAVE05开始
+待つ
+
+BAD END5
+
+◆SAVE06开始
+後回し
+身を任せる
+
+BAD END6
+
+◆SAVE07开始
+身を任せる
+
+BAD END7
+
+BAD回收２
+
+◆SAVE08开始
+体勢を立て直す
+
+BAD END8
+
+◆SAVE09开始
+攻める
+
+BAD END9
+
+◆SAVE10开始
+魔法の杖を突き刺す
+
+BAD END10
+
+◆SAVE11开始
+逃げる
+◆SAVE13开始
+レンに思いを馳せる
+
+BAD END11
+
+◆SAVE13开始
+眠る
+
+BAD END12
+
+◆SAVE12开始
+一人で魔法を打つ
+◆SAVE14
+永遠の后
+
+BAD END13
+
+◆SAVE14开始
+永遠の使い魔
+
+BAD END14
+
+              

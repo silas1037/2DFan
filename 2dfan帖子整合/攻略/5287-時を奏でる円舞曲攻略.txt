@@ -1,0 +1,12 @@
+
+                ミント
+ミントツーヤセレーネツーヤsave point 1ミントsave point 2ミントミントsave point 3ミントミント
+ツーヤ
+load point 2ツーヤツーヤツーヤツーヤ
+セレーネ
+load point 1セレーネセレーネセレーネsave point 4セレーネセレーネ
+ミント・ツーヤ
+load point 3ツーヤツーヤ
+ツーヤ・セレーネ
+load point 4ツーヤツーヤ
+              

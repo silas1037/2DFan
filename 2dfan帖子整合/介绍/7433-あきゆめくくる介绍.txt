@@ -1,0 +1,32 @@
+
+                故事简介：
+并不普通的我们的普通的恋爱喜剧
+在近未来，住着一群被嵌入了人工DNA“;XNA”;而拥有了特殊能力的人。
+     而在其中，又有6名被政府判断为极度危险的少年少女。
+     …;…;换句话说也就是我们，被命转入市里新设立的学校就读。
+
+政府向我们提出的解除软禁的条件很简单，从学校毕业而已。
+但要从这ルルラン学园毕业的条件却是高度的机密。
+     追寻着若干的线索，我们得出了一个推论。
+
+这个条件就是&mdash;&mdash;上演恋爱喜剧。
+比如偶然看见了女生的胖次？
+     比如撞上嘴刁面包上学的女生？
+     比如一起吃便当，比如拥有奇怪性格的妹妹？
+
+&mdash;&mdash;但所谓“;恋爱喜剧”;，究竟又是什么呢？
+这是一个除了人以外的一切都在不断循环同样一天的疯狂世界。
+     以这样的世界为舞台，本世纪最初也是最后的“;量子力学恋爱喜剧”;即将开幕。
+
+PV动画：
+
+    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="400" width="500">
+        <param name="scale" value="exactfit" />
+        <param name="allowFullScreen" value="true" />
+        <param name="quality" value="high" />
+        <param name="movie" value="http://www.tudou.com/v/BbyuCX4nDec/&;resourceId=0_04_05_99/v.swf" />
+        <embed allowfullscreen="true" height="400" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" scale="exactfit" src="http://www.tudou.com/v/BbyuCX4nDec/&;resourceId=0_04_05_99/v.swf" type="application/x-shockwave-flash" width="500"></embed>
+    </object>
+
+
+              

@@ -1,0 +1,385 @@
+
+                <table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ａ　Ｅｎｄ　Ｖｅｒ．　０．１/Ｃｌｏｖｅｒ </td>
+    </tr>
+    <tr>
+      <td width="50%">New Game </td>
+      <td>Login </td>
+    </tr>
+    <tr>
+      <td rowspan="2">夢幻の回廊 </td>
+      <td align="center"> save point 1 </td>
+    </tr>
+    <tr>
+      <td>あどけなさを残す少年だった </td>
+    </tr>
+    <tr>
+      <td>もうひとり </td>
+      <td>見たことを話す </td>
+    </tr>
+    <tr>
+      <td>であい　は　はじけて </td>
+      <td>学校の前で見かけた子だ </td>
+    </tr>
+    <tr>
+      <td>ひみつ　の　いいこと </td>
+      <td>プレートについてつっこむ </td>
+    </tr>
+    <tr>
+      <td>いきる　ちから </td>
+      <td>世話を焼く理由を訊ねる </td>
+    </tr>
+    <tr>
+      <td>おすのか　たたくのか </td>
+      <td>新規のアカウントを作る </td>
+    </tr>
+    <tr>
+      <td rowspan="2">たずねよ　さらば…… </td>
+      <td align="center"> save point 2 </td>
+    </tr>
+    <tr>
+      <td>サミ、つまり篠塚真佐実だ </td>
+    </tr>
+    <tr>
+      <td>まゆみ　つきゆみ　とし　を　へて </td>
+      <td>朔夜を連れて行くことにした </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ａ　Ｂａｄ　Ｅｎｄ　１/Ｒ </td>
+    </tr>
+    <tr>
+      <td rowspan="3">たずねよ　さらば…… </td>
+      <td align="center"> load point 2 </td>
+    </tr>
+    <tr>
+      <td>ユミ、つまり篠塚真佑実だ </td>
+    </tr>
+    <tr>
+      <td align="center"> save point 3 </td>
+    </tr>
+    <tr>
+      <td>まゆみ　つきゆみ　とし　を　へて </td>
+      <td>どうしても連れて行くことはできない </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｅｎｄ　Ｖｅｒ．　０．１/Ｉｓｈｔａｒ </td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="50%">夢幻の回廊 </td>
+      <td align="center"> load point 1 </td>
+    </tr>
+    <tr>
+      <td>仲間を従えた妙齢の女性だった </td>
+    </tr>
+    <tr>
+      <td>ｉｎｔｒａｎｅｔ </td>
+      <td>ここはリーダーの度量を見せねば </td>
+    </tr>
+    <tr>
+      <td>ｄｏｍａｉｎ </td>
+      <td>それとなく仲間に相談する </td>
+    </tr>
+    <tr>
+      <td rowspan="4">ｓｃａｎ </td>
+      <td>ののしる </td>
+    </tr>
+    <tr>
+      <td>わめく </td>
+    </tr>
+    <tr>
+      <td>泣く </td>
+    </tr>
+    <tr>
+      <td>色目を使う </td>
+    </tr>
+    <tr>
+      <td>ｆｉｒｅｗａｌｌ </td>
+      <td>みんなに協力してもらう </td>
+    </tr>
+    <tr>
+      <td rowspan="3">ｃｏｄｅｂｒｅａｋ </td>
+      <td>浩介に送らせる </td>
+    </tr>
+    <tr>
+      <td align="center"> save point 4 </td>
+    </tr>
+    <tr>
+      <td>きっと、明日になれば </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｂａｄ　Ｅｎｄ　１/Ｍａｇｄａｌｅｎｅ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｃｏｄｅｂｒｅａｋ </td>
+      <td align="center"> load point 4 </td>
+    </tr>
+    <tr>
+      <td>なんだか気になる </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｚｅｒｏ－ｄａｙ </td>
+      <td align="center"> save point 5 </td>
+    </tr>
+    <tr>
+      <td>やはり危険は冒せない </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｂａｄ　Ｅｎｄ　２/《Ｃｏｄｅ》 </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｚｅｒｏ－ｄａｙ </td>
+      <td align="center"> load point 5 </td>
+    </tr>
+    <tr>
+      <td>みんなの覚悟を受け入れよう </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｓｐａｇｈｅｔｔｉ－ｃｏｄｅ </td>
+      <td align="center"> save point 6 </td>
+    </tr>
+    <tr>
+      <td>ここは手を引こう </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｂａｄ　Ｅｎｄ　３/Ｅｑｕｅｓ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｓｐａｇｈｅｔｔｉ－ｃｏｄｅ </td>
+      <td align="center"> load point 6 </td>
+    </tr>
+    <tr>
+      <td>みんなを信じる </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｐａｒｔｉｔｉｏｎ </td>
+      <td align="center"> save point 7 </td>
+    </tr>
+    <tr>
+      <td>二手に分かれよう </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｂａｄ　Ｅｎｄ　４/Ｐａｒａｄｉｓｅ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｐａｒｔｉｔｉｏｎ </td>
+      <td align="center"> load point 7 </td>
+    </tr>
+    <tr>
+      <td>全員一緒に行こう </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｃ　Ｅｎｄ　Ｖｅｒ．　０．１/《Ｈｅ》 </td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="50%">夢幻の回廊 </td>
+      <td align="center"> load point 1 </td>
+    </tr>
+    <tr>
+      <td>孤独にたたずむ妙齢の女性だった </td>
+    </tr>
+    <tr>
+      <td>世界 </td>
+      <td>声をかけてみる </td>
+    </tr>
+    <tr>
+      <td rowspan="2">剛毅 </td>
+      <td align="center"> save point 8 </td>
+    </tr>
+    <tr>
+      <td>よし、エルを助け出そう </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｃ　Ｂａｄ　Ｅｎｄ　１/Ｅｘａｂｙｔｅ　ｃｒｙｓｔａｌ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">剛毅 </td>
+      <td align="center"> load point 8 </td>
+    </tr>
+    <tr>
+      <td>今はそのときではない気がする </td>
+    </tr>
+    <tr>
+      <td rowspan="2">運命の輪 </td>
+      <td align="center"> save point 9 </td>
+    </tr>
+    <tr>
+      <td>やめて、エンリル！ </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｄ　Ｅｎｄ　Ｖｅｒ．　０．１/Ｃｏｎｃｌｕｓｉｏｎ </td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="50%">夢幻の回廊 </td>
+      <td align="center"> load point 1 </td>
+    </tr>
+    <tr>
+      <td>屈強な男性だった </td>
+    </tr>
+    <tr>
+      <td>フレンドリー </td>
+      <td>女を問いただす </td>
+    </tr>
+    <tr>
+      <td rowspan="2">フォックス・ホール </td>
+      <td align="center"> save point 10 </td>
+    </tr>
+    <tr>
+      <td>エアを信じる </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｄ　Ｂａｄ　Ｅｎｄ　１/Ｅａ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">フォックス・ホール </td>
+      <td align="center"> load point 10 </td>
+    </tr>
+    <tr>
+      <td>情報は正しい。しかし…… </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ジャム </td>
+      <td align="center"> save point 11 </td>
+    </tr>
+    <tr>
+      <td>そうかもしれない </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｄ　Ｂａｄ　Ｅｎｄ　２/Ｌｏｓｔ　ｗｏｒｌｄ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ジャム </td>
+      <td align="center"> load point 11 </td>
+    </tr>
+    <tr>
+      <td>そんなはずはない </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ウォー・トゥ・ザ・ナイフ </td>
+      <td align="center"> save point 12 </td>
+    </tr>
+    <tr>
+      <td>集中攻撃 </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｄ　Ｂａｄ　Ｅｎｄ　３/Ｅｎｌｉｌ </td>
+    </tr>
+    <tr>
+      <td rowspan="4">ウォー・トゥ・ザ・ナイフ </td>
+      <td align="center"> load point 12 </td>
+    </tr>
+    <tr>
+      <td>一撃を狙う </td>
+    </tr>
+    <tr>
+      <td align="center"> save point 13 </td>
+    </tr>
+    <tr>
+      <td>夢月は死んだ </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｅ　Ｂａｄ　Ｅｎｄ　２/Ｓｏｌｉｔｕｄｅ </td>
+    </tr>
+    <tr>
+      <td width="50%">New Game </td>
+      <td>Defrag </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ａｉｒｓｃａｐｅ </td>
+      <td align="center"> save point 14 </td>
+    </tr>
+    <tr>
+      <td>そうだ </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｅ　Ｂａｄ　Ｅｎｄ　１/Ｉｎｓａｎｉｔｙ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ａｉｒｓｃａｐｅ </td>
+      <td align="center"> load point 14 </td>
+    </tr>
+    <tr>
+      <td>………… </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ａ　Ｅｎｄ　Ｖｅｒ．　１．０/Ｓｕｎｓｅｔ </td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="50%">まゆみ　つきゆみ　とし　を　へて </td>
+      <td align="center"> load point 3 </td>
+    </tr>
+    <tr>
+      <td>朔夜を連れて行くことにした </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ａ　Ｂａｄ　Ｅｎｄ　２/Ｎｅｗ　ｍｏｏｎ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">まゆみ　つきゆみ　とし　を　へて </td>
+      <td align="center"> load point 3 </td>
+    </tr>
+    <tr>
+      <td>どうしても連れて行くことはできない </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｅｎｄ　Ｖｅｒ．　１．０/Ｎｅｔｈｅｒ　ｗｏｒｌｄ </td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="50%">ｐａｒｔｉｔｉｏｎ </td>
+      <td align="center"> load point 7 </td>
+    </tr>
+    <tr>
+      <td>全員一緒に行こう </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｂｌｕｅ－ｓｃｒｅｅｎ </td>
+      <td align="center"> save point 15 </td>
+    </tr>
+    <tr>
+      <td>渡さないほうがいい </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ｒｏｕｔｅ：Ｂ　Ｂａｄ　Ｅｎｄ　５/Ｒｏｓａｒｉｏ </td>
+    </tr>
+    <tr>
+      <td rowspan="2">ｂｌｕｅ－ｓｃｒｅｅｎ </td>
+      <td align="center"> load point 15 </td>
+    </tr>
+    <tr>
+      <td>ロザリオを渡す </td>
+    </tr>
+  </tbody>
+</table>
+
+              

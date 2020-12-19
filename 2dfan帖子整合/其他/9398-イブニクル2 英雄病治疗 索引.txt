@@ -1,0 +1,474 @@
+
+                英雄病
+
+◆英雄病从发病到痊愈为止的流程◆
+
+１．英雄病的发病
+２．在ホスピス(诊所)对未知的英雄病进行研究，然后弄清楚痊愈所必需的素材
+３．寻找隐藏在世界的某处的痊愈所必须的英雄病的素材
+４．在ホスピス(诊所)进行痊愈治疗
+
+要抑制疾病的症状，需要对相应疾病进行应急治疗或者痊愈治疗。
+
+应急治疗…;可在冒险途中的任意地方从ステータス(状态)画面进行简单的应急治疗。
+但是，需要在发病后经过一定次数的战斗后才能进行应急治疗。
+虽然经过应急治疗后，症状会得到暂时的缓解，但英雄病深度
+一旦达到１００％就会旧病复发。
+
+痊愈治疗…;已进行过痊愈治疗的疾病将不会再度复发。
+满足治疗条件时，可在ホスピス(诊所)进行痊愈治疗(该治疗模式需要相应英雄病的治疗素材)。
+
+ ; ; ; 痊愈治疗奖励
+ ; ; ; 每痊愈治疗一种疾病，都会得到相应的痊愈治疗奖励以及1张カルテ(病历卡)。
+ ; ; ; 可从攻击力、命中率之类的ステータス(能力值)中任选一项能力値进行提升。
+ ; ; ; 但对各项ステータス(能力值)以奖励形式进行加点提升也是有次数上限的。
+
+在拥有一定数量的カルテ(病历卡)的状态下回到自家后，可阅览相应的新娘事件(基本上每过一章都会出现相应数量的新娘事件，所以请务必多对英雄病进行痊愈治疗，某些新娘事件还会给你好东西呢)。
+
+<h1>--------------------------------------------------------------------------------
+英雄病一览(不排除存在个别错漏之处，汝等若能加以指正，吾辈也会尽快修正之)</h1>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:
+ collapse;width:332pt" width="442">
+	<colgroup>
+		<col style="mso-width-source:userset;mso-width-alt:4416;width:104pt" width="138" />
+		<col style="mso-width-source:userset;mso-width-alt:4256;width:100pt" width="133" />
+		<col style="mso-width-source:userset;mso-width-alt:5472;width:128pt" width="171" />
+	</colgroup>
+	<tbody>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;width:104pt" width="138">英雄病</td>
+			<td class="xl63" style="border-left:none;width:100pt" width="133">痊愈治疗所需素材</td>
+			<td class="xl63" style="border-left:none;width:128pt" width="171">素材所在地</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ショック中毒</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">太陽の欠片</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的エス镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ロリコソ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">熟成海苔巻き</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在レフトハンド自宅的东北方的海角找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ドラゴンクレスト</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ファイフ餡</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的シンラン镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">レッド症候群</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">青黄茸</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的ホワイト(白镇)附近找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">久眠病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">グリーンブル</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在グリーンスクエア南端的東屋附近找到。</td>
+		</tr>
+		<tr height="36" style="mso-height-source:userset;height:27.0pt">
+			<td class="xl63" height="54" rowspan="2" style="height:40.5pt;border-top:
+  none;width:104pt" width="138">空腹病</td>
+			<td class="xl65" rowspan="2" style="border-bottom:.5pt solid black;
+  border-top:none;width:100pt" width="133">エメラルドブルーブル</td>
+			<td class="xl63" rowspan="2" style="border-top:none;width:128pt" width="171">主线剧情素材：在ブルーサークル镇附近达到光头伪神官后自然会掉落。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">K型中二病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">不思議ちゃん</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ブッダ镇买到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">おっぱい病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">スレンダーオイル</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的シンラン镇西北方的大黑石附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">S型中二病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ジト目という木の実</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ブッダ镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">熱中症</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ピタ稗</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ブッダ镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">わんこ症候群</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ぶどうの実</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的エス镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">悪魔の右手</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">みどり14才</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在レフトハンド領的自家西北方的农田里找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ハニハニ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ハニーの死体</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ハニーの集落找到。</td>
+		</tr>
+		<tr height="72" style="height:54.0pt">
+			<td class="xl63" height="72" style="height:54.0pt;border-top:none;
+  width:104pt" width="138">成人病</td>
+			<td class="xl64" style="border-top:none;border-left:none">Mキャンセラー</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">从宗教大陸（排水后）的ブッダ镇往南按顺时针方向走到戦士の丘的西北端附近即可找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">井戸コロリ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">さだこ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的シンラン镇附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">顰ケツ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ヒップエレキ板</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的ブラック(黑镇)附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">放置症</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">飴ロイドβ;</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ブッダ镇买到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">大寒気</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">キーマ湯</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的シンラン镇附近找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="36" rowspan="2" style="height:27.0pt;border-top:
+  none;width:104pt" width="138">一毛良枝</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">キュー</td>
+			<td class="xl63" rowspan="2" style="border-top:none;width:128pt" width="171">可在蔵握領秋区域的南方小岛上找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  border-left:none;width:100pt" width="133">ティー胡桃</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ド近眼</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ラブベリー</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的エス镇附近找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">ムシ歯</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133"><span style="mso-spacerun:yes"> ;</span>コンジョウ水</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的シンラン镇西北方的大黑石附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ハニホー</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ハニ殺し</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ハニーの集落附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">エイジ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">黒ウナギ徹子</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ブッダ镇南方的海底找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">イカナゴ症候群</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">くぎゅう煮</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ヒナアラレ镇买到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">P型中二病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">バブミ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在前往宗教大陸的ブッダ镇的途中找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">外反子趾</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ゴムテープ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領冬区域的セキシキ镇北边的大怪兽的右侧找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">屈殺炎</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">オークの木</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的エス镇东南方找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ひまん</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">半熟々卵</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在宗教大陸的ハニーの集落付近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">Y型中二病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ツインテール</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">宗教大陸的ハニーの集落附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">胆石</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">火花草</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ハニーの集落西南方的海里找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">湯尿病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ペプチドン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的フジ山附近找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">関節タニマチ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">スモウの塩</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ウツシヨ镇买到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">水の虫</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">タムシZ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的冬区域的裂缝附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">神の左手</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">カズオ梅</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的秋区域的中间找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">乳はぎ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">鬼王丸</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在カクリヨ镇附近的鳥居(也就是红色门拱)旁找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">風邪皇帝</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">富士ももりんご</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的秋区域的フジ山東側找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">風麟</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">生ガキ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的カクリヨ镇附近找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">知恵熱</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">コテツ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在大监狱附近找到</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">大食い症</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">味彩の花</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的ウツシヨ镇东南方的雨地帯找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">心臓ムシ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ハトムギ粉</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：貌似自动找到的样子。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">白色病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">赤シダ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在賢者の庵附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">マイプラズマ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">雪中行軍花</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">从セキシキ镇往北走到尽头即可找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">かゆかゆ病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">恋々炭</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在大监狱内找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ノロマ病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">赤いイカナゴ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在蔵握領的秋区域的フジ山西側找到</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ネットリ依存症</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">シビアの実</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的イエロー(黄镇)東側找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">腋臭症</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">みょ～ばん</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的溶岩地帯找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">さびしんぼう</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">潮パン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領东海岸找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ざっくり腰</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133"><span style="mso-spacerun:yes"> ;</span>ロキンミソ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的ブラック(黑镇)买到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">にゃんこ症候群</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">カカオマスオ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ハイライン領的パールハーバー镇附近找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">脳内出血</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ヒロポン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領西岸找到。(从イエロー黄镇西側的大荒野往南走。)</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">追い銭</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ちょ金魚</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在イエロー(黄镇)西侧与大荒野桥接在一起的小岛上找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">ぜんそく</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">まったり岩塩</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在アジモフ領的ホワイト(白镇)西边找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">チュパカブラ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">酸味レモン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在アジモフ領的ホワイト(白镇)东边的城堡里找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">グルグルテン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ジャポニッカ米</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在有高达驻守的那座金字塔内找到。</td>
+		</tr>
+		<tr height="72" style="height:54.0pt">
+			<td class="xl63" height="72" style="height:54.0pt;border-top:none;
+  width:104pt" width="138">ホルモーン</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">万華</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在イエロー(黄镇)西侧与大荒野桥接在一起的小岛上找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">百六十肩</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">湿布昆布</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在パールハーバー镇东边的海の家附近找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">肝濃変</td>
+			<td class="xl64" style="border-top:none;border-left:none">初恋ピーチ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在パールハーバー镇东边的海の家附近找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">ぢ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133"><span style="mso-spacerun:yes"> ;</span>エッチ軟膏</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在カラーの里买到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">うし症候群</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">うし肉のたれ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在赛牛场弄到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">常在戦場</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">アロハアロマ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">パールハーバー镇往南一直走即可找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">石化病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">未知</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：自动治愈</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">緑化病改</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">青玉粉</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在カラーの里弄到。</td>
+		</tr>
+		<tr height="72" style="height:54.0pt">
+			<td class="xl63" height="72" style="height:54.0pt;border-top:none;
+  width:104pt" width="138">無口病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">四つ葉のマンドラゴ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可从森の野営地进入东边的森林后，往东北方的マンドラゴ畑里找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">緑化病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133"><span style="mso-spacerun:yes"> ;</span>白いポスカラ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在パールハーバー镇附近的缆车周围找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">心配性</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">よーでるたまねぎ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ツクダニ镇附近的农田找到。</td>
+		</tr>
+		<tr height="36" style="height:27.0pt">
+			<td class="xl63" height="36" style="height:27.0pt;border-top:none;
+  width:104pt" width="138">十日酔い</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">大しじみ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ヒダリダム镇西边找到。</td>
+		</tr>
+		<tr height="18" style="height:13.5pt">
+			<td class="xl63" height="18" style="height:13.5pt;border-top:none;
+  width:104pt" width="138">身体こり</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">温泉饅頭</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">可在ヒナアラレ镇买到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">サルモゲラ菌</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">聖女の石</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在ヒナアラレ镇东部的洞窟深处找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">拳将炎</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">ダムリンゴ</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在ヒナアラレ镇西侧的大坝门前找到。</td>
+		</tr>
+		<tr height="54" style="height:40.5pt">
+			<td class="xl63" height="54" style="height:40.5pt;border-top:none;
+  width:104pt" width="138">けほけほ病</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:100pt" width="133">光海苔</td>
+			<td class="xl63" style="border-top:none;border-left:none;width:128pt" width="171">主线剧情素材：可在タクワン镇北部的洞窟内找到。</td>
+		</tr>
+	</tbody>
+</table>
+
+              

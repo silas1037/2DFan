@@ -1,0 +1,22 @@
+
+                <strong>注：在第三个选择支处选择【不接受】的话会进入END2(TRUE)</strong>
+
+<strong>回忆</strong>
+
+<strong>无可奈何同意（这里可以随便选无影响）</strong>
+
+<strong>接受</strong>
+
+<strong>END1</strong>
+
+<strong>重新选择</strong>
+
+<strong>不接受</strong>
+
+<strong>END2(TRUE)</strong>
+
+ ;
+
+ ;
+
+              

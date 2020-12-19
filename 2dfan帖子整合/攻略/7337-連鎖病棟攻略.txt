@@ -1,0 +1,751 @@
+
+                <table border="1" cellpadding="3" width="350">
+  <tbody>
+    <tr>
+      <th colspan="2">＜共通１＞</th>
+    </tr>
+    <tr>
+      <td width="40">1日目</td>
+      <td>【一般病室】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】</td>
+    </tr>
+    <tr>
+      <td>2日目</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜QuickSave１＞</font></b>※回収（H无）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜QuickLoad１＞</font></b></td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【診察室前廊下】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td>3日目</td>
+      <td>【一般病室】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（里香）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【調剤薬局】－（レイ）</td>
+    </tr>
+    <tr>
+      <td>4日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（亜紀、春菜、里香）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（レイ）※H</td>
+    </tr>
+    <tr>
+      <td>5日目</td>
+      <td>【売店】－（レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE１＞</font></b>※春菜分岐</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（妊婦（真央））</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（美佐子、結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【院長室】－（美佐子、院長）</td>
+    </tr>
+    <tr>
+      <td>6日目</td>
+      <td>【喫茶店】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【調剤薬局】－（レイ）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td>7日目</td>
+      <td>【小児科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀）※H</td>
+    </tr>
+    <tr>
+      <td>8日目</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（美佐子、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【散歩道】－（院長）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（亜紀）※H</td>
+    </tr>
+    <tr>
+      <td>9日目</td>
+      <td>【売店】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜QuickSave２＞</font></b>※回収（H无）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜QuickLoad２＞</font></b></td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（亜紀）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【清里病院玄関】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td>10日目</td>
+      <td>【一般病室】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（美佐子、結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【調剤薬局】－（レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【一般病室】－（亜紀、レイ）※H</td>
+    </tr>
+    <tr>
+      <td>11日目</td>
+      <td>【産婦人科】－（亜紀、里香）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【診察室前廊下】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（亜紀、春菜、里香、隆雄）※H</td>
+    </tr>
+    <tr>
+      <td>12日目</td>
+      <td>【散歩道】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（結衣、千夏）</td>
+    </tr>
+    <tr>
+      <td>13日目</td>
+      <td>【待合室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（美佐子、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（亜紀）※H</td>
+    </tr>
+    <tr>
+      <td>14日目</td>
+      <td>【外科】</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀、美佐子）</td>
+    </tr>
+    <tr>
+      <td>15日目</td>
+      <td>【特別個室】－（美佐子、結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【散歩道】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（美佐子、結衣）※H</td>
+    </tr>
+    <tr>
+      <td>16日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE２＞</font></b>※亜紀、美佐子、BAD分岐</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellpadding="3" width="350">
+  <tbody>
+    <tr>
+      <th colspan="2">＜亜紀＞</th>
+    </tr>
+    <tr>
+      <td width="40"> ;</td>
+      <td><b><font color="#ff9999">＜SAVE２开始＞</font></b>※从共通１的分岐</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子、亜紀）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、隆雄）</td>
+    </tr>
+    <tr>
+      <td>17日目</td>
+      <td>【ナースステーション】－（里香、春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>18日目</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀、美佐子、妊婦（真央））※H</td>
+    </tr>
+    <tr>
+      <td>19日目</td>
+      <td>【診察室前廊下】－（亜紀、真央）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【診察室前廊下】－（院長）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子、亜紀）※H</td>
+    </tr>
+    <tr>
+      <td>20日目</td>
+      <td>【清里病院玄関】</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td>21日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <th colspan="2">＜亜紀ＥＮＤ＞※ＥＮＤ３</th>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellpadding="3" width="350">
+  <tbody>
+    <tr>
+      <th colspan="2">＜美佐子＞</th>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE２开始＞</font></b>※从共通１的分岐</td>
+    </tr>
+    <tr>
+      <td>16日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、隆雄）</td>
+    </tr>
+    <tr>
+      <td>17日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>18日目</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（亜紀、美佐子、妊婦（真央））※H</td>
+    </tr>
+    <tr>
+      <td>19日目</td>
+      <td>【ナースステーション】－（里香、春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【診察室前廊下】－（院長）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td>20日目</td>
+      <td>【診察室前廊下】－（亜紀、真央）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、春菜）</td>
+    </tr>
+    <tr>
+      <th colspan="2">＜美佐子ＥＮＤ＞※ＥＮＤ１</th>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellpadding="3" width="350">
+  <tbody>
+    <tr>
+      <th colspan="2">＜春菜＞</th>
+    </tr>
+    <tr>
+      <td width="40"> ;</td>
+      <td><b><font color="#ff9999">＜SAVE１开始＞</font></b>※从共通１的分岐</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【散歩道】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【院長室】－（美佐子、院長）</td>
+    </tr>
+    <tr>
+      <td>6日目</td>
+      <td>【喫茶店】－（亜紀）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td>7日目</td>
+      <td>【小児科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（春菜、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>8日目</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【院長室】－（結衣、院長）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜、レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>9日目</td>
+      <td>【診察室前廊下】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE３＞</font></b>※回収用</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【産婦人科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>10日目</td>
+      <td>【散歩道】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（美佐子、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>11日目</td>
+      <td>【産婦人科】－（亜紀、里香）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（美佐子、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【繁華街】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>12日目</td>
+      <td>【待合室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【売店】－（レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（結衣、千夏）</td>
+    </tr>
+    <tr>
+      <td>13日目</td>
+      <td>【売店】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【一般病室】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>14日目</td>
+      <td>【外科】</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【一般病室】－（春菜、美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>15日目</td>
+      <td>【特別個室】－（美佐子、結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（美佐子、結衣）※H</td>
+    </tr>
+    <tr>
+      <td>16日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE４＞</font></b>
+      ※回収分岐（美佐子回想４２番）。回収路线参照</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜、美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（春菜、亜紀）</td>
+    </tr>
+    <tr>
+      <td>17日目</td>
+      <td>【ナースステーション】－（春菜、里香）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【散歩道】－（春菜、美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>18日目</td>
+      <td>【売店】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【待合室】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>19日目</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【喫茶店】－（美佐子）※H</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【ナースステーション】－（春菜、美佐子）※H</td>
+    </tr>
+    <tr>
+      <td>20日目</td>
+      <td>【内科】－（隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【清里病院玄関】－（レイ）</td>
+    </tr>
+    <tr>
+      <td>21日目</td>
+      <td>【特別個室】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【診察室前廊下】－（院長）</td>
+    </tr>
+    <tr>
+      <th colspan="2">＜春菜ＥＮＤ＞※ＥＮＤ２</th>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td><b><font color="#ff9999">＜SAVE３开始＞</font></b></td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（レイ）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【外科】－（美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【小児科】－（春菜）※H</td>
+    </tr>
+    <tr>
+      <td>10日目</td>
+      <td>【散歩道】－（結衣）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【内科】－（美佐子、隆雄）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【特別個室】－（結衣、美佐子）</td>
+    </tr>
+    <tr>
+      <td> ;</td>
+      <td>【入院病棟廊下】－（春菜、レイ）※H</td>
+    </tr>
+    <tr>
+      <th colspan="2">＜回収終了＞</th>
+    </tr>
+  </tbody>
+</table>
+
+              

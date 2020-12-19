@@ -1,0 +1,10 @@
+
+                
+日本是大陆的东边的一个岛国，正处在群雄割据的战国时代。
+诨号“鬼畜”的想横行这片土地的兰斯，带着奴隶シィル来到了这里。
+温泉旅行？
+不是酱紫的，虽然也会去温泉，但兰斯的目的是把日本各式各样美丽的女性（公主、女仆、巫女、女忍、村姑－_－）纳入后宫。尤其是势力最大的织田家的香姬。
+兰斯作为一国之主，统一全日本的战争序幕拉开了……
+人物介绍：
+点击图片中各势力范围的图标可直接跳转到相应势力的介绍！<IMG style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" height=410 src="https://img.2dfan.com/old_source/0611/310_map.jpg" width=550 useMap=#Map border=0> <MAP name=Map><AREA shape=RECT alt=北条家 coords=113,283,212,343 href="310_2.html#houjyou"><AREA shape=RECT alt=北条家 coords=405,168,479,263 href="310_2.html#houjyou"><AREA shape=RECT alt=上杉家 coords=312,126,423,164 href="310_1.html#uesugi"><AREA shape=RECT alt=武田家 coords=355,178,401,245 href="310_1.html#takeda"><AREA shape=RECT alt=天志家 coords=247,314,286,350 href="310_2.html#tenshi"><AREA shape=RECT alt=天志家 coords=231,230,264,289 href="310_2.html#tenshi"><AREA shape=RECT alt=原家 coords=295,293,324,324 href="310_1.html#hara"><AREA shape=RECT alt=伊賀家 coords=268,245,294,309 href="310_1.html#iga"><AREA shape=RECT alt=徳川家 coords=335,247,367,281 href="310_2.html#tokugawa"><AREA shape=RECT alt=織田家 coords=298,236,334,273 href="310_1.html#oda"><AREA shape=RECT alt=足利家 coords=256,193,342,230 href="310_1.html#ashikaga"><AREA shape=RECT alt=種子島家 coords=207,173,252,220 href="310_2.html#tanegashima"><AREA shape=RECT alt=毛利家 coords=97,194,188,265 href="310_2.html#mouri"></MAP>
+              

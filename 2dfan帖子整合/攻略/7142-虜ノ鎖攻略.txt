@@ -1,0 +1,3 @@
+
+                学園路线<br><br>◆SAVE01<br>学生会室へ行く。<br>◆SAVE02<br>必ず話すからしばらく待って。と正直に言う。<br>◆SAVE03<br>気が抜けないので、ひとまず好意だけ受け取る。<br>◆SAVE04<br>断固拒否する。<br><br>未緒 END1<br><br>◆SAVE04开始<br>我慢できないので誓う。<br><br>未緒 END2<br><br>◆SAVE02开始<br>嘘ではぐらかす。<br><br>凛香 END<br><br>◆SAVE03开始<br>好意に甘えて膝枕してもらう。<br>このみ END<br>※安装了DLC后，从标题画面的【GALLERY】开始<br>■群男パッチ<br>■従順パッチ<br><br>自宅路线<br><br>◆SAVE01开始<br>病院へ行く。<br>◆SAVE05<br>理由は言えないけど今日はダメだと断る。<br>◆SAVE06<br>命令を守り、我慢する。<br>◆SAVE07<br>希望を信じて我慢する。<br><br>未緒 END3<br><br>◆SAVE07开始<br>我慢出来ずに逃げ出す。<br><br>未緒 END4<br><br>◆SAVE05开始<br>嘘をついてごまかして断る。<br>結衣 END<br><br>◆SAVE06开始<br>やはり自分が身代わりになる。<br><br>栞 END原日文攻略刊载于誠也の部屋。<br>
+              

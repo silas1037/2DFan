@@ -1,0 +1,19 @@
+
+                 最低配置:
+
+    操作系统:Windows 7
+
+    处理器:Intel Core2 Duo
+
+    内存:2 GB RAM
+
+    图形:Intel 3000HD
+
+    DirectX 版本:9.0
+
+    存储空间:需要 3600 MB 可用空间
+
+    声卡:Direct Sound
+
+
+              

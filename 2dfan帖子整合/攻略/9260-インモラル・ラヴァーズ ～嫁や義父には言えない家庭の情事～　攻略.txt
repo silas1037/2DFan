@@ -1,0 +1,37 @@
+
+                <font color="#fa0000">◆SAVE 01</font>
+家に残ることにした
+<font color="#fa0000">◆SAVE 02</font>
+お義母さんを手伝うことにした
+お義母さんにお願いする
+時間を置いてみることにする
+<font color="#fa0000">◆SAVE 03</font>
+やんわりと断る
+誘いに乗らない
+<font color="#0000ff">　　八重子END</font>
+
+<font color="#fa0000">◆SAVE 03</font>开始
+風呂に入る
+誘いに乗る
+<font color="#0000ff">　　八重子＆七海END</font>
+
+<font color="#fa0000">◆SAVE 02</font>开始
+七海ちゃんのところへ行くことにした
+あとで、直接七海ちゃんと話す
+風呂に入る
+誘いに乗る
+<font color="#0000ff">　　七海END</font>
+
+<font color="#fa0000">◆SAVE 01</font>开始
+一緒に散歩することにした
+お義母さんにお願いする
+江美さんにも相談してみよう
+風呂に入る
+浴室の鍵をかける
+誘いに乗らない
+ドアを開ける前に声をかける
+<font color="#0000ff">　　ノーマルEND(回収有)</font>
+
+※原日文攻略刊载于誠也の部屋。
+
+              

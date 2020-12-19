@@ -1,0 +1,360 @@
+
+                注：因某S最近时间极度透支，所以攻略主要从日站攻略翻译而来，并未像往常一般，加入了某S的剧情杂糅之类的福利品。本攻略预计要1周左右才可施工完毕。
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <caption>
+  ※按难易度排序，黄色背景的为主线任务
+  </caption>
+  <tbody>
+    <tr>
+      <td bgcolor="#999999" colspan="5"><strong>■难易度0～10</strong></td>
+    </tr>
+    <tr>
+      <td bgcolor="#cccccc">No.</td>
+      <td bgcolor="#cccccc">任务名</td>
+      <td bgcolor="#cccccc">难度</td>
+      <td bgcolor="#cccccc">名声</td>
+      <td bgcolor="#cccccc" width="100%">内容</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">025</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">閃きの穴に住む文豪</td>
+      <td bgcolor="#ffffaa">2</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">10</td>
+      <td bgcolor="#ffffaa">初始任务，顺着跑就可以一路通关。
+        女性怪物：きゃんきゃん</td>
+    </tr>
+    <tr>
+      <td bgcolor="#cccccc" nowrap="nowrap">013</td>
+      <td bgcolor="#cccccc" nowrap="nowrap">アリスの館</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">纯事件任务</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">036</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">コパンドンCITY</td>
+      <td bgcolor="#ffffaa">0</td>
+      <td bgcolor="#ffffaa">5</td>
+      <td bgcolor="#ffffaa">纯事件任务</td>
+    </tr>
+    <tr>
+      <td bgcolor="#cccccc" nowrap="nowrap">016</td>
+      <td bgcolor="#cccccc" nowrap="nowrap">酒場でスカウト</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">根据任务进行，会多次发生。
+        プリマ・ホノノマン、他加入</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">083</td>
+      <td nowrap="nowrap">葡萄狩りと葡萄ごはん</td>
+      <td>3</td>
+      <td>10</td>
+      <td>事件战斗×5</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">086</td>
+      <td nowrap="nowrap">街道のヤンキー</td>
+      <td>4</td>
+      <td>10</td>
+      <td>因地图过大，所以最好按路进行速战速决。通关后，魂の枷入手。途中遇到的帐篷和洞穴前虽然有事件点，但是和本任务无关。
+        
+        帐篷前事件点的选择
+        拾って読む→过版后，<strong>行商人ペッタン死亡</strong>
+        読まない→过版后，アホ毛入手
+        
+        兰斯LV15以上时？进入第三张图时会发生和バード＆マチルダ的战斗。（同一地图的话。其他任务也会发生？）</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">026</td>
+      <td nowrap="nowrap">原稿回収と人捜し</td>
+      <td>4</td>
+      <td>10</td>
+      <td>第1张地图：右下
+        第2张地图：上右→事件战斗（回合限制有点变态，不行的话可以考虑从旁边的脱出点回城）
+        
+        第3张地图：最里面ドエススキー所在处的选项
+        強引に奪う→<strong>ドエススキー死亡</strong>
+        奪わない→貌似不会发生啥</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">033</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">カラー事件</td>
+      <td bgcolor="#ffffaa">5</td>
+      <td bgcolor="#ffffaa">3</td>
+      <td bgcolor="#ffffaa">战斗后的选项
+        当然、取らない→主线剧情条件
+        クリスタル取っちゃう→<strong>イージス死亡</strong>＆クリスタル入手</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">087</td>
+      <td nowrap="nowrap">ヤンキーゴーホーム</td>
+      <td>6</td>
+      <td>5</td>
+      <td>条件：086中ペッタン死亡。进入图3右端洞中，顺着路走并击倒最后的boss后过版。
+        
+        兰斯LV15以上时？进入第三张图时会发生和バード＆マチルダ的战斗。（同一地图的话。其他任务也会发生？）</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">098</td>
+      <td nowrap="nowrap">武器を捨てたハニー</td>
+      <td>8</td>
+      <td>10</td>
+      <td>武器仅可使用空手和棍棒。战斗事件1回后结束。
+        女性怪物：97チハ</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">069</td>
+      <td nowrap="nowrap">アマズサ組演習場</td>
+      <td>9</td>
+      <td>10</td>
+      <td>カラー宛の恋文选择后发生？
+        在里面获得耳狩りブーメラン后结束。</td>
+    </tr>
+    <tr>
+      <td bgcolor="#999999" colspan="5" nowrap="nowrap"><strong>■难易度11～20</strong></td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">066</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">カラー宛の恋文</td>
+      <td bgcolor="#ffffaa">11</td>
+      <td bgcolor="#ffffaa">20</td>
+      <td bgcolor="#ffffaa">达成必要条件：イージス生存。（死亡会导致任务途中失败。
+        
+        迷路走错门的话，会导致被传送回起始点，但是也会触发クルックー・モフス的迷你事件（貌似是随机出现）
+        
+        第1张地图进入上方最远端的门、第2张地图向左走就能进入村子。选择「立ち去る」之后，观看右侧地蔵事件后，返回アマズサ众人所在地，会发生事件。
+        
+        战斗后，再次来到村子，会发生事件→再次前往地蔵处，任务完成（目前阶段前往村子会触发战斗，所以请务必注意）
+        
+        ※如果战胜了イージス，アマズサ相关事件会被略去，不过并没什么特别意义。
+        
+        女性怪物：97チハ</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">116</td>
+      <td nowrap="nowrap">チハ戦車大隊</td>
+      <td>11</td>
+      <td>15</td>
+      <td>事件战斗×5后过版。无遭遇战。结局会依据哪一边被击倒的人多而变化。
+        
+        97チハ胜利→だんぼーる装甲×2入手
+        ヤンキー胜利→何もなし
+        
+        配置（固定）
+        <table border="0" cellspacing="1" bgcolor="#666666">
+          <tbody>
+            <tr>
+              <td nowrap="nowrap">　　　　チハ
+                
+                チハ
+                ヤン
+                
+                ヤン　　チハ</td>
+              <td valign="center" nowrap="nowrap">橋
+                ヤン</td>
+              <td nowrap="nowrap">チハ　　　　ヤン
+                S地点
+                
+                ヤン　チハ　チハ
+                
+                ヤン</td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">067</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">カラーの村侵入</td>
+      <td bgcolor="#ffffaa">12</td>
+      <td bgcolor="#ffffaa">10</td>
+      <td bgcolor="#ffffaa">只有战斗</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">068</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">セックスを求めて</td>
+      <td bgcolor="#ffffaa">0</td>
+      <td bgcolor="#ffffaa">3</td>
+      <td bgcolor="#ffffaa">纯事件任务</td>
+    </tr>
+    <tr>
+      <td bgcolor="#cccccc" nowrap="nowrap">030</td>
+      <td bgcolor="#cccccc" nowrap="nowrap">忍法不能治療</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">3</td>
+      <td bgcolor="#cccccc">纯事件任务</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">017</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">土壌汚染をなんとか</td>
+      <td bgcolor="#ffffaa">10</td>
+      <td bgcolor="#ffffaa">10</td>
+      <td bgcolor="#ffffaa">事件战斗×4后结束
+        通关后，フロストバイ中出现捕獲ロープ
+        
+        一次过版后，再次挑战时，在緑星和ロッキー对话的话，结束后ロッキー・バンク会加入</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">096</td>
+      <td nowrap="nowrap">イカマンの求婚</td>
+      <td>12</td>
+      <td>10</td>
+      <td>第2张地图：十字路向下到达目的地。是否有打倒挡路的イカマン会对最后的结果产生影响。
+        
+        击败了イカマン→啥也不会发生
+        没击败イカマン→バーナード・セラミテ加入</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">121</td>
+      <td nowrap="nowrap">マルグリッド迷宮1層</td>
+      <td>13</td>
+      <td>20</td>
+      <td>GOAL地点发生战斗事件→进入内部后，通关
+        
+        不带兰斯探索的话，以下地点志津香（緑星）会出现→对话后，魔想志津香会在通关后加入
+        
+        女性怪物：きゃんきゃん、97チハ
+        
+        <table border="0" cellspacing="1" width="100%" bgcolor="#666666">
+          <tbody>
+            <tr>
+              <td width="25%" nowrap="nowrap">START</td>
+              <td></td>
+              <td width="25%" nowrap="nowrap"></td>
+              <td></td>
+              <td width="25%" nowrap="nowrap"></td>
+              <td></td>
+              <td width="25%" nowrap="nowrap"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" nowrap="nowrap">　</td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+              <td bgcolor="#000000"></td>
+              <td nowrap="nowrap">志津香</td>
+              <td></td>
+              <td nowrap="nowrap">GOAL</td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" nowrap="nowrap">　</td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+              <td bgcolor="#000000"></td>
+              <td nowrap="nowrap">クグの破片A</td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" nowrap="nowrap">　</td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+              <td bgcolor="#000000"></td>
+              <td bgcolor="#000000" nowrap="nowrap"></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">099</td>
+      <td nowrap="nowrap">収穫の季節</td>
+      <td>14</td>
+      <td>10</td>
+      <td>选择条件：マホコLV20。队伍不可变更。4回战斗（也包括通常遭遇战）后，左边发生事件战斗→击败后通关。</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">089</td>
+      <td nowrap="nowrap">アイドル魔法使い</td>
+      <td>15</td>
+      <td>20</td>
+      <td>第1张地图：上方的门进入
+        第2张地图：战斗事件×2
+        第3张地图：上方以及右下方事件后通关
+        
+        通关后，任务016「酒場でスカウト」中カパーラ・ウーチ加入</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">060</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">ライオンマインド</td>
+      <td bgcolor="#ffffaa">15</td>
+      <td bgcolor="#ffffaa">20</td>
+      <td bgcolor="#ffffaa">第1张地图：左下通路进入→事件选择
+        破坏路障→战斗→腐烂的尸体会变为敌人登场，击败后会触发任务062「ゾンビルーム」。
+        离开此地（或者不理事件）→通关后，任务061「チーターマインド」触发
+        
+        ※另外，女子厕所前的敌人是固定的（やもりん和きゃんきゃん），所以想抓的话会很方便。
+        
+        第2张地图：下方道路前端发生事件→右转进入第3张地图
+        
+        第3张地图：第二个房间内有回复点→战斗时间后，从那里向上进入最里面的选项。选择「立ち去る」的话，发生事件。右下的区域似乎没有什么东西。
+        
+        （等级够高，可以在此将其击败的话，此处的事件会被省略，不过似乎没特别意义）
+        
+        再次进入第1张地图的话，技能恢复和遭遇战都没有了。不过进入第4张地图后面会有遭遇战。再次进入到アルカネーゼ所在地，战斗胜利后即可通关。
+        
+        通关后，アルカネーゼ・ライズ加入
+        女性怪物：やもりん</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">045</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">公園散歩</td>
+      <td bgcolor="#ffffaa">0</td>
+      <td bgcolor="#ffffaa">3</td>
+      <td bgcolor="#ffffaa">クルックー・モフス加入</td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffaa" nowrap="nowrap">018</td>
+      <td bgcolor="#ffffaa" nowrap="nowrap">お城の売り込み</td>
+      <td bgcolor="#ffffaa">0</td>
+      <td bgcolor="#ffffaa">10</td>
+      <td bgcolor="#ffffaa">纯事件任务</td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">070</td>
+      <td nowrap="nowrap">カラーの森再び</td>
+      <td>14</td>
+      <td>10</td>
+      <td>第2张地图：カラー村会发生事件→稍微后退一点会触发事件→观看后再次进入村子→事件后三度入村，从门里面进入第3张地图
+        
+        第3张地图：向下方探索会触发事件战斗，之后通关
+        通关后，イージス・カラー加入</td>
+    </tr>
+    <tr>
+      <td bgcolor="#cccccc" nowrap="nowrap">034</td>
+      <td bgcolor="#cccccc" nowrap="nowrap">記憶喪失の娘</td>
+      <td bgcolor="#cccccc">0</td>
+      <td bgcolor="#cccccc">3</td>
+      <td bgcolor="#cccccc">纯事件任务</td>
+    </tr>
+  </tbody>
+</table>
+
+              

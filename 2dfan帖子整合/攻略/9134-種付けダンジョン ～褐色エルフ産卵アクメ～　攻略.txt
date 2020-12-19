@@ -1,0 +1,24 @@
+
+                ※原日文攻略刊载于誠也の部屋。
+
+<font color="#fa0000">◆SAVE01</font>
+麻痺能力の付与
+<font color="#fa0000">◆SAVE02</font>
+スピードで翻弄
+まずはトラップを仕掛ける
+言い聞かせる
+<font color="#0000ff">　　END</font>
+
+
+<font color="#fa0000">◆SAVE01</font>开始
+魔法耐性能力の付与
+パワーで力押し
+数に物を言わせる
+任せてみよう
+<font color="#0000ff">　　BAD END</font>
+
+<font color="#fa0000">◆SAVE02</font>开始
+パワーで力押し
+<font color="#0000ff">シーン回収後終了</font>
+
+              

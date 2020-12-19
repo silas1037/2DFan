@@ -1,0 +1,45 @@
+
+                <ul class="breadcrumb">
+	<li class="active">游戏简介 <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/2">大图书馆</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/3">卖火柴的小女孩</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/4">爱丽丝梦游仙境</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/5">怪盗绅士鲁邦</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/6">西游记</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/7">竹取物语</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/8">浮士德</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/9">印斯茅斯之影</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/10">？？？</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/11">其他角色</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9082/page/12">CG鉴赏</a></li>
+</ul>
+
+前言
+
+19年的DMM画师大乱炖作品之2，其1为<a href="https://www.2dfan.com/subjects/7744" target="_blank">ソーサレス＊アライヴ！</a>。
+不过本作毕竟多人都接触过CGN，HCG都画得颇为到位。
+基设就跟02年的神作<a href="https://www.2dfan.com/subjects/3241" target="_blank">暗与帽子与书之旅人</a>几乎一致，但其系统做出了当年理想中的效果。
+多达21位可攻略角色，不过因为故事割裂严重，每个人分到的剧本比例稍微令人担忧。
+官网搬空，这次也将CG对白全部翻译了。
+<strong>另外本作有个衍生VTUBER企划《辉夜姬频道》，会在竹取物语分页的辉夜姬下方陆续更新。</strong>
+
+<img alt="" src="https://img.2dfan.com/uploads/intro/2891/b6c28c6a351aeb08a740867b460a4a83.jpg-watermark" style="width: 710px; height: 502px;" />
+
+故事介绍
+
+主人公・咏斗在回过神时，发现自己赫然伫立在一所庄严的异界大图书馆内。
+明明刚刚自己还身处学园的小图书馆里&mdash;&mdash;
+
+此时一名少女出现在他的面前，自称是这所图书馆馆长的她说道，
+这里收藏、并管理着古今中外的各种故事集，
+然而一旦藏书破损的话，其对应的现实世界的物语也会被消灭。
+
+「如何，你要试试成为这个图书馆的管理员吗？」
+
+此后，身为守护大图书馆的新人“;司书”;，咏斗需要逐个进入物语的世界里探查，
+接下来他将要面对的是，和无数个物语内的登场人物的邂逅，并挖掘出令物语出现骚动的黑幕、以及图书馆所潜藏的真实。
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-parent="#accordion" data-toggle="collapse" href="#collapse01">OP视频（点击展开）</a>
+

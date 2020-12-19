@@ -1,0 +1,422 @@
+
+                日文攻略登于愚者之馆
+
+标★的选项请自行选择，回收CG
+
+<b>１周目</b>
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１日目午前</td>
+			<td>倉庫（ジーナ）
+			道場（槐）
+			戻ってみる
+			城門前（ソフィア）
+			城壁上（ユーナ）
+			後宮入り口（キーン）
+			井戸（クリオール）
+			図書館（チェルシー）
+			闘技場（イリア）
+			王座前（ハッカリー）
+			中庭（アネイリン）</td>
+		</tr>
+		<tr>
+			<td>１日目昼</td>
+			<td>【セーブ１】
+			気づかれぬようその場を離れる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＣＧ（着替え）回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１日目昼</td>
+			<td>気にせず皇女の前に出ていく</td>
+		</tr>
+		<tr>
+			<td>１日目午後</td>
+			<td>教会（アネイリン）
+			道場（槐）
+			道場（紫）
+			★このままに紫に任せてみる
+			城壁上（トリスティーナ）
+			倉庫（クリオール）
+			闘技場（チェルシー）
+			リリカの部屋を訪ねてみる</td>
+		</tr>
+		<tr>
+			<td>１日目夜</td>
+			<td>【セーブ２】
+			ダムゼルに明け渡す
+			コンウォール国</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＣＧ（ダムゼル）回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１日目夜</td>
+			<td>ゼトロに明け渡す
+			コンウォール国
+			正直に言う
+			いや。ここは魔力を回復するのが先決だ！</td>
+		</tr>
+		<tr>
+			<td>２日目朝</td>
+			<td>【セーブ３】
+			魔力を回復する
+			★このまま飲ませる
+			★まだだ！まだ犯りたい！
+			★このまま射精する！</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想05を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ３から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>２日目朝</td>
+			<td>疲れたので寝る
+			【セーブ４】
+			このままサセるか？</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想06を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ４から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>２日目朝</td>
+			<td>断固拒否だ！！
+			身体を触らせるのはマズイ！誤魔化そう
+			【セーブＡ】</td>
+		</tr>
+		<tr>
+			<td>２日目午前</td>
+			<td>後宮入り口（クリオール）
+			闘技場（イリア）
+			城壁上
+			破壊工作を行う
+			教会（アネイリン）
+			城壁上
+			城門前（ソフィア）</td>
+		</tr>
+		<tr>
+			<td>２日目昼</td>
+			<td>【セーブＢ】
+			討たれる前に反撃せねば！</td>
+		</tr>
+		<tr>
+			<td>２日目午後</td>
+			<td>自室（クリオール）
+			ここで休む
+			しばらくここで休む
+			倉庫（ハッカリー）
+			兵士達を眠らす
+			倉庫（ジーナ）
+			襲う
+			城壁上（ユーナ）
+			優しく接する
+			井戸
+			やめておく
+			井戸
+			後宮入り口（キーン）</td>
+		</tr>
+		<tr>
+			<td>２日目夕方</td>
+			<td>必死に誤魔化す
+			このまま進む
+			しばらく静かにして落ち着く</td>
+		</tr>
+		<tr>
+			<td>２日目夜</td>
+			<td>ダムゼルに明け渡す
+			【セーブ５】
+			コンウォール国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想26を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ５から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>２日目夜</td>
+			<td>ミクラガルド国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr>
+			<td>３日目朝</td>
+			<td>震える幼いワレメで放出</td>
+		</tr>
+		<tr>
+			<td>３日目午前</td>
+			<td>中庭（イナーシャ）
+			井戸（ジーナ）
+			城門前（ソフィア）
+			未亡人の店を訪れる
+			【セーブＣ】
+			覗かずに、しばらく時間を潰してから再訪する
+			踏み込む
+			★このまま中へ！
+			自室（ハッカリー）
+			倉庫
+			城壁上
+			破壊工作を行う
+			入らない</td>
+		</tr>
+		<tr>
+			<td>３日目昼</td>
+			<td>【セーブ６】
+			人影を追ってみる</td>
+		</tr>
+		<tr>
+			<td>３日目夜</td>
+			<td>ダムゼルに明け渡す
+			【セーブ７】（２回使用）
+			ミクラガルド国
+			★このままアナルをブチ犯す！
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想56を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ７から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目夜</td>
+			<td>ヒの国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想67を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ７から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目夜</td>
+			<td>デメシア国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想61を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ６から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目昼</td>
+			<td>構わずに部屋に戻る</td>
+		</tr>
+		<tr>
+			<td>３日目午後</td>
+			<td>井戸（ジーナ）
+			図書館（マリカ）
+			中庭（リリカ）
+			道場（槐）
+			犯ってやる！
+			図書館
+			破壊工作を行う
+			中庭（アネイリン）
+			【セーブ８】
+			一気に犯るっ！！</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想44を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ８から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目午後</td>
+			<td>ここは様子見で</td>
+		</tr>
+		<tr>
+			<td>３日目夕方</td>
+			<td>犯す</td>
+		</tr>
+		<tr>
+			<td>３日目夜</td>
+			<td>ゼトロに明け渡す
+			【セーブ９】（２回使用）
+			ミクラガルド国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想53を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ９から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目夜</td>
+			<td>ヒの国
+			（戦闘に勝利すること）</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">回想66を回収</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ９から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目夜</td>
+			<td>デメシア国
+			（戦闘に勝利すること）
+			【セーブ１０】
+			斬るっ！</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">魔王復活（ＢＡＤ）ＥＮＤ</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１０から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目夜</td>
+			<td>斬れ…;ない…;…;</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">魔王＋クビワンＥＮＤ</th>
+		</tr>
+	</tbody>
+</table>
+
+
+
+              

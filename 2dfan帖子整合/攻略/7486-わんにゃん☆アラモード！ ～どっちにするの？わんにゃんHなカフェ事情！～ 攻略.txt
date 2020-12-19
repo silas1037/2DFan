@@ -1,0 +1,117 @@
+
+                <table bgcolor="#ffffff" border="1" bordercolor="#66ccff" cellspacing="0" height="40" width="800">
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="266"><b>猫花 鈴音</b></td>
+			<td align="center" valign="top" width="266"><b> ;猫泊 真琴</b></td>
+			<td align="center" valign="top" width="266"><b>猫条 ひなな</b></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■鈴音 ;
+			先輩とがいいな。
+			■鈴音 ;
+			先輩にしよう。
+			<font color="#ff0000">◆セーブ02</font>
+			■鈴音
+			■鈴音
+			<font color="#0000ff">鈴音END</font>
+			
+			<font color="#ff0000">◆セーブ02</font>から
+			■しのの
+			■しのの
+			■しのの
+			■鈴音
+			<font color="#0000ff">シーン回収後終了</font></td>
+			<td align="left" valign="top" width="266"> ;<font color="#ff0000">◆セーブ01</font>から
+			■真琴
+			真琴とがいいな。
+			■真琴
+			真琴にしよう。
+			<font color="#ff0000">◆セーブ03</font>
+			■真琴
+			■真琴
+			<font color="#0000ff">真琴END</font>
+			
+			<font color="#ff0000">◆セーブ03</font>から
+			■華
+			■華
+			■華
+			■真琴
+			<font color="#0000ff">シーン回収後終了</font></td>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■ひなな ;
+			ひなとがいいな。
+			■ひなな
+			ひなにしよう。
+			<font color="#ff0000">◆セーブ04</font>
+			■ひなな
+			■ひなな
+			<font color="#0000ff">ひななEND</font>
+			
+			<font color="#ff0000">◆セーブ04</font>から
+			■道代
+			■道代
+			■道代
+			■ひなな
+			<font color="#0000ff">シーン回収後終了</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="266"><b> ;犬甲斐 しのの</b></td>
+			<td align="center" valign="top" width="266"><b> ;犬多 華</b></td>
+			<td align="center" valign="top" width="266"><b> ;犬山 道代</b></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■しのの
+			ののとがいいな。
+			■しのの
+			ののにしよう。
+			■しのの
+			■しのの
+			<font color="#0000ff">しののEND</font></td>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■華
+			華とがいいな。
+			■華
+			華にしよう。
+			■華
+			■華
+			<font color="#0000ff">華END</font></td>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■道代
+			道代さんとがいいな。
+			■道代
+			道代さんにしよう。
+			■道代
+			■道代
+			<font color="#0000ff">道代END</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="266"><b> ;猫玉 瑠偉</b></td>
+			<td align="center" valign="top" width="266"><b> ;文子・豆柴</b></td>
+			<td align="center" valign="top" width="266"><b> ;</b></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■文子
+			先輩とがいいな。
+			■文子
+			真琴にしよう。
+			■文子
+			■文子
+			<font color="#0000ff">文子END</font></td>
+			<td align="left" valign="top" width="266"><font color="#ff0000">◆セーブ01</font>から
+			■瑠偉
+			先輩とがいいな。
+			■瑠偉
+			真琴にしよう。
+			■瑠偉
+			■瑠偉
+			<font color="#0000ff">瑠偉END</font></td>
+			<td align="center" valign="top"><a href="http://dlsoft.dmm.co.jp/detail/scfbht_0005/uitachibana-001" target="_blank" title=" 【割引】 【独占】 わんにゃん☆アラモード！ ?どっちにするの？わんにゃんHなカフェ事情！?"><img src="http://pics.dmm.co.jp/digital/pcgame/scfbht_0005/scfbht_0005pl.jpg" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+              

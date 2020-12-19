@@ -1,0 +1,42 @@
+
+                经过实验的结果<br>
+  发现有些选项可以自由<br>所以才会有不太一样的攻略<br>
+  <span style="color:#FF0000">红字</span>代表会影响路线和结局<br><br>起身<br>妳几岁？<br>还有其它的能力吗？<br>真的是妖怪吗？<br>
+  <span style="color:#FF0000">拒绝少年的提议</span><br>【save１】<br><br>
+刀子
+save１开始<br>
+  <span style="color:#FF0000">前去找刀子学姊</span><br>去学长姐的教室<br>请她帮忙<br>
+  <span style="color:#FF0000">协助调查摔角社</span><br>
+  <span style="color:#FF0000">与会长一起回去</span><br>【save２】<br>
+  <span style="color:#FF0000">射在外面</span><br>回想起学生会的大家＊回收美羽CG<br>
+  <span style="color:#FF0000">接受逢难 </span>
+  刀子 ＥＮＤ１ <br><br>save２开始<br>
+  <span style="color:#FF0000">射在里面</span><br>将刀子的脸烙印在眼中<br>【save３】<br>
+  <span style="color:#FF0000">攻击逢难</span>
+ＢＡＤ ＥＮＤ <br><br>save３开始<br>
+  <span style="color:#FF0000">接受逢难</span>
+刀子 ＥＮＤ２<br><br>
+  托妮雅
+save１开始<br>
+  <span style="color:#FF0000">前去找托妮雅</span><br>去学长姐的教室<br>自己突破<br>
+  <span style="color:#FF0000">协助调查美术部</span><br>
+  <span style="color:#FF0000">与托妮雅一起回去</span><br>她应该回自己的家里去<br>先吃铃的便当＊Ａ<br>
+  打给铃＊Ｂ
+托妮雅 ＥＮＤ <br><br>选过ＡorＢ其中一项就达成３Ｐ条件<br>若无达成３Ｐ条件，则回收伊绪ＣＧ<br><br>
+  薫
+不照刀子和托妮雅攻略选项便可开启<br>也就是红字选项混合刀子和托妮雅的选<br><br>待在熏的旁边<br>既然是这种事、就跟女性们确认<br>
+  询问眼前的女性＊回收熏＆零奈ＣＧ
+薫 ＥＮＤ <br><br>
+  铃
+攻略完其它角色后在游戏选单的开始来玩<br><br>不起身<br>妳几岁？<br>还有其它的能力吗？<br>真的是妖怪吗？<br>
+  <span style="color:#FF0000">拒绝少年的提议</span><br>前去找小樱等人＊回收小樱＆美羽ＣＧ<br>去学弟妹的教室<br>自己突破<br>
+  <span style="color:#FF0000">留在这里打杂</span><br>
+  <span style="color:#FF0000">与小樱及美羽一起回家</span><br>拜托美羽<br>去小樱那里＊回收小樱ＣＧ(欢乐会时要找小樱)<br>【save４】<br>
+  <span style="color:#FF0000">不使用炽天使之薬</span>
+铃 ＥＮＤ１<br><br>save４开始<br>
+  <span style="color:#FF0000">使用炽天使之薬</span><br>【save５】<br>
+  <span style="color:#FF0000">可以</span>
+铃 ＥＮＤ２<br><br>save５开始<br>
+  <span style="color:#FF0000">不行 </span>
+铃 ＥＮＤ３
+              

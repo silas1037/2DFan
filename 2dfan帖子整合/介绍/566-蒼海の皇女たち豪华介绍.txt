@@ -1,0 +1,19 @@
+
+                
+系统介绍：
+本作品为<a href="/htmldata/info/51.html" target="_blank">Eushully</a>的马甲Anastasia将于3月份推出的一款有关U艇战的ADV。游戏以第二次世界大战为架空舞台，主要描绘男主角带领艇上的众女水兵们进行潜艇战的故事。
+作为艇长的你，战斗时的主要任务就是在限定时间内，使用画面下方的各种指令来操控你的U艇，比如：发射鱼雷击沉敌舰，规避敌方投下来的深水炸弹等（貌似我在指令中看到了对空的选项，这条似乎很扯蛋……）。游戏使用了3D电影和幻灯式的切入慢放来表现一些重要的场面，如鱼雷发射和潜艇上浮等。
+<img src="https://img.2dfan.com/old_source/0801/581_s_1.jpg" alt="蒼海の皇女たち的战斗界面" />
+在通常的ADV部分，游戏画面会切换到潜艇内部的剖面图上，你可以选择移动到想攻略角色的舱室内来提高她对你的信赖度。
+故事简介：
+加入了为了争夺地下资源和两块大陆所包围的内海而爆发的全面战争的ノーデンフェルト国，将女性作为宝贵的战斗力，编入了人员短缺的潜水艇编队。
+经过大幅改装的精锐艇ウルディアーナ，因为艇员全部为女性而受到了国内外的瞩目。
+其实，这样做实际上是因为不想在高伤亡率的潜艇战当中消耗宝贵的士兵，而是使用在陆上战中所俘获地饱受摧残、士气低落的俘虏做艇员。我们的主角アアル，作为新任艇长，来到了这艘艇上。
+在海军司令部派来的督察的监视下，アアル率领着这些可怜的士兵们，出海开始了他漫长的无限制潜艇战之旅……
+图：主角所指挥的U型潜艇，Uldiana号
+<img src="https://img.2dfan.com/old_source/0801/581_s_2.jpg" alt="ウルディアーナ号" />
+演示动画：
+很另类的主题曲……不过很好听~~最后パウラ叼着雪茄的拉风镜头让我想起了黑礁里的Revy（还真有些神似……）不过其中的潜对潜很脑残，估计Eushully的人看U571这类好莱坞脑残片看多了。
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Z93U65QVr2g&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Z93U65QVr2g&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+              

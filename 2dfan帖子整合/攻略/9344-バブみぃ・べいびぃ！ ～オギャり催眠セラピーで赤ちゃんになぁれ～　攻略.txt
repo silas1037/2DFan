@@ -1,0 +1,14 @@
+
+                ※游戏在路线分歧后的剧本很短。
+
+<font color="#fa0000">◆SAVE01</font>
+姉妹に甘えたい
+
+<font color="#0000ff">　　END1</font>
+
+<font color="#fa0000">◆SAVE01</font>开始
+ひとりで頑張りたい
+
+<font color="#0000ff">　　END2 (BAD)</font>
+
+              

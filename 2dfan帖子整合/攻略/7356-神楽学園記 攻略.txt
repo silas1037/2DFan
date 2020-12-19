@@ -1,0 +1,889 @@
+
+                <table width="400">
+	<tbody>
+		<tr>
+			<td colspan="2">嵐山いぶきEND＆CG回収など</td>
+		</tr>
+		<tr>
+			<td rowspan="2" width="35%">サトリ</td>
+			<td>秋月小春</td>
+		</tr>
+		<tr>
+			<td>何で知ってるの？</td>
+		</tr>
+		<tr>
+			<td rowspan="3">聞き込み開始</td>
+			<td>デボスズメのぬいぐるみ</td>
+		</tr>
+		<tr>
+			<td>王冠をかぶった大きな熊のぬいぐるみ</td>
+		</tr>
+		<tr>
+			<td>うさぎと熊のぬいぐるみ</td>
+		</tr>
+		<tr>
+			<td rowspan="3">雷道なずな</td>
+			<td>右</td>
+		</tr>
+		<tr>
+			<td>下</td>
+		</tr>
+		<tr>
+			<td>殺す</td>
+		</tr>
+		<tr>
+			<td rowspan="2">犬神との対決</td>
+			<td>裂ク</td>
+		</tr>
+		<tr>
+			<td>跳躍</td>
+		</tr>
+		<tr>
+			<td>屋上で情報交換</td>
+			<td>近松桃子に関して響に聞く</td>
+		</tr>
+		<tr>
+			<td rowspan="3">崇の証言</td>
+			<td>帰宅</td>
+		</tr>
+		<tr>
+			<td>遊びに行こう</td>
+		</tr>
+		<tr>
+			<td>遊んだ後</td>
+		</tr>
+		<tr>
+			<td>小春、侵入作戦に就く</td>
+			<td>なずな達の後を追う</td>
+		</tr>
+		<tr>
+			<td rowspan="3">桃子との戦い</td>
+			<td align="center">save point A</td>
+		</tr>
+		<tr>
+			<td>話し合える？</td>
+		</tr>
+		<tr>
+			<td>そうだ、懐中電灯</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">桃子との戦い</td>
+			<td>
+			<center>load point A</center>
+			</td>
+		</tr>
+		<tr>
+			<td>話し合える？</td>
+		</tr>
+		<tr>
+			<td>逃げないと</td>
+		</tr>
+		<tr>
+			<td>怪しい気配</td>
+			<td>体育館に向かう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">江坂先生との戦い</td>
+			<td>投擲</td>
+		</tr>
+		<tr>
+			<td>罠</td>
+		</tr>
+		<tr>
+			<td>距離を…;</td>
+		</tr>
+		<tr>
+			<td rowspan="4">雷獣との戦い</td>
+			<td align="center">save point B</td>
+		</tr>
+		<tr>
+			<td>殺す</td>
+		</tr>
+		<tr>
+			<td>殺す</td>
+		</tr>
+		<tr>
+			<td>殺す</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="6">雷獣との戦い</td>
+			<td>
+			<center>load point B</center>
+			</td>
+		</tr>
+		<tr>
+			<td>ハッタリだ</td>
+		</tr>
+		<tr>
+			<td>守る</td>
+		</tr>
+		<tr>
+			<td>情報の秘匿</td>
+		</tr>
+		<tr>
+			<td>読まれる訳には…;</td>
+		</tr>
+		<tr>
+			<td>パスワード</td>
+		</tr>
+		<tr>
+			<td>プレゼントの下見</td>
+			<td>繁華街へ行く</td>
+		</tr>
+		<tr>
+			<td>弁当と乙女の意地</td>
+			<td>野菜サンドを評価してみる</td>
+		</tr>
+		<tr>
+			<td rowspan="4">沙希との対決</td>
+			<td align="center">save point C</td>
+		</tr>
+		<tr>
+			<td>啜ル</td>
+		</tr>
+		<tr>
+			<td>啜ル</td>
+		</tr>
+		<tr>
+			<td>啜ル</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">沙希との対決</td>
+			<td>
+			<center>load point C</center>
+			</td>
+		</tr>
+		<tr>
+			<td>令</td>
+		</tr>
+		<tr>
+			<td rowspan="5">沙希と天邪鬼</td>
+			<td align="center">save point D</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="6">沙希と天邪鬼</td>
+			<td>
+			<center>load point D</center>
+			</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td>左に回り込む</td>
+		</tr>
+		<tr>
+			<td>右フック</td>
+		</tr>
+		<tr>
+			<td>足下を崩せば</td>
+		</tr>
+		<tr>
+			<td>足下を崩せば</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="6">沙希と天邪鬼</td>
+			<td>
+			<center>load point D</center>
+			</td>
+		</tr>
+		<tr>
+			<td>頭を攻撃</td>
+		</tr>
+		<tr>
+			<td>左に回り込む</td>
+		</tr>
+		<tr>
+			<td>右フック</td>
+		</tr>
+		<tr>
+			<td>足下を崩せば</td>
+		</tr>
+		<tr>
+			<td>左フック</td>
+		</tr>
+		<tr>
+			<td rowspan="2">偽装カップル解消</td>
+			<td align="center">save point 1</td>
+		</tr>
+		<tr>
+			<td>小春のモノになる</td>
+		</tr>
+		<tr>
+			<td rowspan="4">行動選択</td>
+			<td align="center">save point E</td>
+		</tr>
+		<tr>
+			<td>とりあえず単独で行動</td>
+		</tr>
+		<tr>
+			<td>小春が心配だ</td>
+		</tr>
+		<tr>
+			<td>仲間を待とう</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="4">行動選択</td>
+			<td>
+			<center>load point E</center>
+			</td>
+		</tr>
+		<tr>
+			<td>小春が心配だ</td>
+		</tr>
+		<tr>
+			<td>なずなはどうしているだろう</td>
+		</tr>
+		<tr>
+			<td>仲間を待とう</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="4">行動選択</td>
+			<td>
+			<center>load point E</center>
+			</td>
+		</tr>
+		<tr>
+			<td>とりあえず単独で行動</td>
+		</tr>
+		<tr>
+			<td>いぶきの様子を見に行こう</td>
+		</tr>
+		<tr>
+			<td>仲間を待とう</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="4">行動選択</td>
+			<td>
+			<center>load point E</center>
+			</td>
+		</tr>
+		<tr>
+			<td>小春が心配だ</td>
+		</tr>
+		<tr>
+			<td>なずなはどうしているだろう</td>
+		</tr>
+		<tr>
+			<td>いぶきの様子を見に行こう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">木霊との戦い</td>
+			<td>手加減</td>
+		</tr>
+		<tr>
+			<td>お手並み拝見</td>
+		</tr>
+		<tr>
+			<td>音で攻撃</td>
+		</tr>
+		<tr>
+			<td rowspan="2">行動選択</td>
+			<td>教室を見て回ろう</td>
+		</tr>
+		<tr>
+			<td>適当にぶらつこう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">ザシキワラシ様の正体</td>
+			<td>試されている？</td>
+		</tr>
+		<tr>
+			<td>ヤバイっしょ</td>
+		</tr>
+		<tr>
+			<td>吹雪</td>
+		</tr>
+		<tr>
+			<td rowspan="4">崇との戦い</td>
+			<td align="center">save point F</td>
+		</tr>
+		<tr>
+			<td>邪魔者</td>
+		</tr>
+		<tr>
+			<td>邪魔者</td>
+		</tr>
+		<tr>
+			<td>邪魔者</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">崇との戦い</td>
+			<td>
+			<center>load point F</center>
+			</td>
+		</tr>
+		<tr>
+			<td>吹雪</td>
+		</tr>
+		<tr>
+			<td>友達</td>
+		</tr>
+		<tr>
+			<td>学園祭開始</td>
+			<td>いぶきを探す</td>
+		</tr>
+		<tr>
+			<td>学園長室の謎</td>
+			<td>屋上に向かう</td>
+		</tr>
+		<tr>
+			<td rowspan="4">学園長との戦い</td>
+			<td align="center">save point G</td>
+		</tr>
+		<tr>
+			<td>正拳</td>
+		</tr>
+		<tr>
+			<td>正拳</td>
+		</tr>
+		<tr>
+			<td>正拳</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="5">学園長との戦い</td>
+			<td>
+			<center>load point G</center>
+			</td>
+		</tr>
+		<tr>
+			<td>同胞の為に</td>
+		</tr>
+		<tr>
+			<td>霞ノ杜神社</td>
+		</tr>
+		<tr>
+			<td>正拳</td>
+		</tr>
+		<tr>
+			<td>知られてしまった</td>
+		</tr>
+		<tr>
+			<td rowspan="2">なずなの心</td>
+			<td align="center">save point 2</td>
+		</tr>
+		<tr>
+			<td>なずなが顔を上げるのを待つ</td>
+		</tr>
+		<tr>
+			<td rowspan="3">特訓開始！</td>
+			<td>神社に向かう</td>
+		</tr>
+		<tr>
+			<td>公園に向かう</td>
+		</tr>
+		<tr>
+			<td>阿古耶会神殿へ</td>
+		</tr>
+		<tr>
+			<td rowspan="3">命がけの鬼ごっこ</td>
+			<td align="center">save point H</td>
+		</tr>
+		<tr>
+			<td>廊下に逃げる</td>
+		</tr>
+		<tr>
+			<td>廊下に逃げる</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">特訓開始！</td>
+			<td>
+			<center>load point H</center>
+			</td>
+		</tr>
+		<tr>
+			<td>教室に逃げる</td>
+		</tr>
+		<tr>
+			<td>教室に逃げる</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">特訓開始！</td>
+			<td>
+			<center>load point H</center>
+			</td>
+		</tr>
+		<tr>
+			<td>体育館に逃げる</td>
+		</tr>
+		<tr>
+			<td>体育館に逃げる</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="5">命がけの鬼ごっこ</td>
+			<td>
+			<center>load point H</center>
+			</td>
+		</tr>
+		<tr>
+			<td>廊下に逃げる</td>
+		</tr>
+		<tr>
+			<td>教室に逃げる</td>
+		</tr>
+		<tr>
+			<td>体育館に逃げる</td>
+		</tr>
+		<tr>
+			<td>屋上に逃げる</td>
+		</tr>
+		<tr>
+			<td>手伝いに行こう</td>
+			<td>いぶきと合流</td>
+		</tr>
+		<tr>
+			<td rowspan="4">神獣との戦い</td>
+			<td align="center">save point I</td>
+		</tr>
+		<tr>
+			<td>ここはどこ</td>
+		</tr>
+		<tr>
+			<td>お腹すいた</td>
+		</tr>
+		<tr>
+			<td>誰が起こした</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="5">神獣との戦い</td>
+			<td>
+			<center>load point I</center>
+			</td>
+		</tr>
+		<tr>
+			<td>動くのは敵</td>
+		</tr>
+		<tr>
+			<td>ここはどこ</td>
+		</tr>
+		<tr>
+			<td>お腹すいた</td>
+		</tr>
+		<tr>
+			<td>誰が起こした</td>
+		</tr>
+		<tr>
+			<td rowspan="3">いぶきから逃げろ！</td>
+			<td>繁華街に逃げる</td>
+		</tr>
+		<tr>
+			<td>神社に逃げる</td>
+		</tr>
+		<tr>
+			<td>通学路に逃げる</td>
+		</tr>
+		<tr>
+			<td rowspan="4">鶴城との戦い</td>
+			<td align="center">save point J</td>
+		</tr>
+		<tr>
+			<td>ハッタリ？</td>
+		</tr>
+		<tr>
+			<td>斬</td>
+		</tr>
+		<tr>
+			<td>殺</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="3">鶴城との戦い</td>
+			<td>
+			<center>load point J</center>
+			</td>
+		</tr>
+		<tr>
+			<td>何かマズイ</td>
+		</tr>
+		<tr>
+			<td>あの時の事</td>
+		</tr>
+		<tr>
+			<td>クリスマスの告白</td>
+			<td>唇にキスする</td>
+		</tr>
+		<tr>
+			<td rowspan="2">江坂との戦い</td>
+			<td align="center">save point K</td>
+		</tr>
+		<tr>
+			<td>罠</td>
+		</tr>
+		<tr>
+			<td> ;</td>
+			<td> ;</td>
+		</tr>
+		<tr>
+			<td rowspan="4">江坂との戦い</td>
+			<td>
+			<center>load point K</center>
+			</td>
+		</tr>
+		<tr>
+			<td>読まれる訳には…;</td>
+		</tr>
+		<tr>
+			<td>思考防御</td>
+		</tr>
+		<tr>
+			<td>負ける…;？</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<a name="02"></a>
+
+<table width="400">
+	<tbody>
+		<tr>
+			<td colspan="2">雷道なずなEND</td>
+		</tr>
+		<tr>
+			<td rowspan="2" width="35%">なずなの心</td>
+			<td>
+			<center>load point 2</center>
+			</td>
+		</tr>
+		<tr>
+			<td>なずなの顔を覗き込む</td>
+		</tr>
+		<tr>
+			<td rowspan="3">特訓開始！</td>
+			<td>神社に向かう</td>
+		</tr>
+		<tr>
+			<td>公園に向かう</td>
+		</tr>
+		<tr>
+			<td>阿古耶会神殿へ</td>
+		</tr>
+		<tr>
+			<td rowspan="4">命がけの鬼ごっこ</td>
+			<td>廊下に逃げる</td>
+		</tr>
+		<tr>
+			<td>教室に逃げる</td>
+		</tr>
+		<tr>
+			<td>体育館に逃げる</td>
+		</tr>
+		<tr>
+			<td>屋上に逃げる</td>
+		</tr>
+		<tr>
+			<td>手伝いに行こう</td>
+			<td>なずなと合流</td>
+		</tr>
+		<tr>
+			<td rowspan="4">神獣との戦い</td>
+			<td>動くのは敵</td>
+		</tr>
+		<tr>
+			<td>ここはどこ</td>
+		</tr>
+		<tr>
+			<td>お腹すいた</td>
+		</tr>
+		<tr>
+			<td>誰が起こした</td>
+		</tr>
+		<tr>
+			<td rowspan="3">いぶきから逃げろ！</td>
+			<td>繁華街に逃げる</td>
+		</tr>
+		<tr>
+			<td>神社に逃げる</td>
+		</tr>
+		<tr>
+			<td>通学路に逃げる</td>
+		</tr>
+		<tr>
+			<td rowspan="2">鶴城との戦い</td>
+			<td>何かマズイ</td>
+		</tr>
+		<tr>
+			<td>あの時の事</td>
+		</tr>
+		<tr>
+			<td rowspan="2">クリスマスの告白</td>
+			<td align="center">save point 3</td>
+		</tr>
+		<tr>
+			<td>額にキスする</td>
+		</tr>
+		<tr>
+			<td rowspan="3">江坂との戦い</td>
+			<td>読まれる訳には…;</td>
+		</tr>
+		<tr>
+			<td>思考防御</td>
+		</tr>
+		<tr>
+			<td>負ける…;？</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<a name="03"></a>
+
+<table width="400">
+	<tbody>
+		<tr>
+			<td colspan="2">秋月小春END</td>
+		</tr>
+		<tr>
+			<td rowspan="2" width="35%">偽装カップル解消</td>
+			<td>
+			<center>load point 1</center>
+			</td>
+		</tr>
+		<tr>
+			<td>小春をもらう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">行動選択</td>
+			<td>小春が心配だ</td>
+		</tr>
+		<tr>
+			<td>なずなはどうしているだろう</td>
+		</tr>
+		<tr>
+			<td>いぶきの様子を見に行こう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">木霊との戦い</td>
+			<td>手加減</td>
+		</tr>
+		<tr>
+			<td>お手並み拝見</td>
+		</tr>
+		<tr>
+			<td>音で攻撃</td>
+		</tr>
+		<tr>
+			<td rowspan="2">行動選択</td>
+			<td>屋内プール…;…;？</td>
+		</tr>
+		<tr>
+			<td>適当にぶらつこう</td>
+		</tr>
+		<tr>
+			<td rowspan="3">ザシキワラシ様の正体</td>
+			<td>試されている？</td>
+		</tr>
+		<tr>
+			<td>ヤバイっしょ</td>
+		</tr>
+		<tr>
+			<td>吹雪</td>
+		</tr>
+		<tr>
+			<td rowspan="2">崇との戦い</td>
+			<td>吹雪</td>
+		</tr>
+		<tr>
+			<td>友達</td>
+		</tr>
+		<tr>
+			<td>学園祭開始</td>
+			<td>小春を探す</td>
+		</tr>
+		<tr>
+			<td>学園長室の謎</td>
+			<td>教室に向かう</td>
+		</tr>
+		<tr>
+			<td rowspan="4">学園長との戦い</td>
+			<td>同胞の為に</td>
+		</tr>
+		<tr>
+			<td>霞ノ杜神社</td>
+		</tr>
+		<tr>
+			<td>正拳</td>
+		</tr>
+		<tr>
+			<td>知られてしまった</td>
+		</tr>
+		<tr>
+			<td>なずなの心</td>
+			<td>なずなが顔を上げるのを待つ</td>
+		</tr>
+		<tr>
+			<td rowspan="3">特訓開始！</td>
+			<td>神社に向かう</td>
+		</tr>
+		<tr>
+			<td>公園に向かう</td>
+		</tr>
+		<tr>
+			<td>阿古耶会神殿へ</td>
+		</tr>
+		<tr>
+			<td rowspan="4">命がけの鬼ごっこ</td>
+			<td>廊下に逃げる</td>
+		</tr>
+		<tr>
+			<td>教室に逃げる</td>
+		</tr>
+		<tr>
+			<td>体育館に逃げる</td>
+		</tr>
+		<tr>
+			<td>屋上に逃げる</td>
+		</tr>
+		<tr>
+			<td>手伝いに行こう</td>
+			<td>小春と合流</td>
+		</tr>
+		<tr>
+			<td rowspan="4">神獣との戦い</td>
+			<td>動くのは敵</td>
+		</tr>
+		<tr>
+			<td>ここはどこ</td>
+		</tr>
+		<tr>
+			<td>お腹すいた</td>
+		</tr>
+		<tr>
+			<td>誰が起こした</td>
+		</tr>
+		<tr>
+			<td rowspan="3">いぶきから逃げろ！</td>
+			<td>繁華街に逃げる</td>
+		</tr>
+		<tr>
+			<td>神社に逃げる</td>
+		</tr>
+		<tr>
+			<td>通学路に逃げる</td>
+		</tr>
+		<tr>
+			<td rowspan="2">鶴城との戦い</td>
+			<td>何かマズイ</td>
+		</tr>
+		<tr>
+			<td>あの時の事</td>
+		</tr>
+		<tr>
+			<td>クリスマスの告白</td>
+			<td>額にキスする</td>
+		</tr>
+		<tr>
+			<td rowspan="3">江坂との戦い</td>
+			<td>読まれる訳には…;</td>
+		</tr>
+		<tr>
+			<td>思考防御</td>
+		</tr>
+		<tr>
+			<td>負ける…;？</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<a name="04"></a>
+
+<table width="400">
+	<tbody>
+		<tr>
+			<td colspan="2">カルテットEND</td>
+		</tr>
+		<tr>
+			<td rowspan="2" width="35%">クリスマスの告白</td>
+			<td>
+			<center>load point 3</center>
+			</td>
+		</tr>
+		<tr>
+			<td>唇にキスする</td>
+		</tr>
+		<tr>
+			<td rowspan="3">江坂との戦い</td>
+			<td>読まれる訳には…;</td>
+		</tr>
+		<tr>
+			<td>思考防御</td>
+		</tr>
+		<tr>
+			<td>負ける…;？</td>
+		</tr>
+	</tbody>
+</table>
+
+              

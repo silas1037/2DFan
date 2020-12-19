@@ -1,0 +1,92 @@
+
+                
+<h3>故事简介：</h3>
+<p style="color: navy">【踏上旅途吧！为了将我杀死！】
+那是远离本土的南方小岛，其名为“浦岛”。小岛被丰富的自然资源所恩惠着，乃是宛如世外桃源一般的，乐土。<span style="color: navy">【如果真的能如同乐园一般，这样的光景，永远，永远的，持续下去。就好了】</span>
+然而，有着无法抹去复杂过去的小岛，却正是事与愿违的渐渐，从历史的轨迹上，失去踪影。
+因为岛上的乡土病“煤纹病”和本土所产生的争执。被放弃后已然成为废墟的“海上station”、五年前袭向“浦岛御三家”的三起事件、以及在孩童中间都已流传开来的，“神隐”传言。和，岛上所流传下来的，古老的，古老的——那个“传承”。
+<p style="color: navy">【来讲个故事吧，那是传承于这个岛上，关于三名少女，悲恋与命运的，物语。】
+能够拯救这个小岛的只有身为，物语之（关）键的，所属于御三家的“仅仅三名的少女”。然而少女却是无力的，青涩的，还未成长到，能够靠着自己改变整个岛命运，那般【残酷】的存在。
+<p style="color: navy">【没错，来听个故事吧，这座小岛，已经结束了。除非，对，除非出现了，令世界都大吃一惊的，大笨蛋。】
+某一日，一名少年漂流到了小岛之上。邋遢，的少年如此问到。
+<p style="color: navy">【……今年，是几几年来着？】
+荒唐无稽的少年如此主张道，我来自未来，所以我一定能拯救你们，所以，一起笑吧。滑稽无比的少年如此宣称道，岛上的传统习俗？和来自未来的我，有屁关系，吃屎去吧！唐突无理的少年如此奋发道，我一定拯救你们的未来，因为我来自未来，所以，擦干眼泪。
+<p style="color: navy">【久等了啊，不过我来了，你们就放一万个心吧！】
+只是这个大笨蛋却是远超世界想象的，连自己也忘记的真正的目的，少女，亦或世界，未来，还是幸福。少年手中，最终握住的，到底会是，何物呢——
+<h3>舞台</h3>
+<table width="96%" border="0">
+  <tbody>
+    <tr>
+      <td width="30%" valign="middle">
+        <img src="https://img.2dfan.com/old_source/1601/3057_s_1.jpg" alt="" />
+      </td>
+      <td valign="middle" align="left">
+        <dl style="line-height:150%; padding-left:10px">
+          <dt><strong>港口</strong></dt>
+          <dd>连接本土和岛上唯一的出入口。因而会定期进行物资的搬运，但并没有有任何游客访问利用。
+          </dd>
+        </dl>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3">
+        <hr style="border-style: dotted none none none; border-top-color:#CCCCCC; border-top-width: 1px; height: 1px;">
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle">
+        <img src="https://img.2dfan.com/old_source/1601/3057_s_2.jpg" alt="" />
+      </td>
+      <td valign="middle" align="left">
+        <dl style="line-height:150%; padding-left:10px">
+          <dt><strong>市中心</strong></dt>
+          <dd>离港口较近位置的街道。病院以及岛上的商业设施几乎都集中在这一片区，在这里基本上就可以将生活必需品全部买到。特别有名的乃是以货物齐全而著称的米花杂货店。
+          </dd>
+        </dl>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3">
+        <hr style="border-style: dotted none none none; border-top-color:#CCCCCC; border-top-width: 1px; height: 1px;">
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle">
+        <img src="https://img.2dfan.com/old_source/1601/3057_s_3.jpg" alt="" />
+      </td>
+      <td valign="middle" align="left">
+        <dl style="line-height:150%; padding-left:10px">
+          <dt><strong>浦岛神社</strong></dt>
+          <dd>岛中央位置的神社。被御三家之一的“伽蓝堂家”所管理着。现在因为参拜访问的人极少的原因。而处于半荒废状态。不知为何在神社背后深处的树林中，零星可见钉上了巨大钉子的大树。
+          </dd>
+        </dl>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3">
+        <hr style="border-style: dotted none none none; border-top-color:#CCCCCC; border-top-width: 1px; height: 1px;">
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="middle">
+        <img src="https://img.2dfan.com/old_source/1601/3057_s_4.jpg" alt="" />
+      </td>
+      <td valign="middle" align="left">
+        <dl style="line-height:150%; padding-left:10px">
+          <dt><strong>甜食店#龙宫</strong></dt>
+          <dd>浦岛高处小山丘上建立的和风甜食店。乃是岛上的人们休息闲谈之地。特色食物乃是，超级大碗的巨无霸刨冰，通称“鬼见愁”。
+          </dd>
+        </dl>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+派出所
+岛上唯一的派出所。作为可疑人物而被打上标记的主人公，几乎成为了这里的常客。
+森须诊所
+岛上唯一的医院，以大量的高龄病患和年轻可爱的护士而著称。
+本土
+远离浦岛的本土。从岛上出发的船要数小时航行才能到达的地方、据说是这样的但……？
+
+              

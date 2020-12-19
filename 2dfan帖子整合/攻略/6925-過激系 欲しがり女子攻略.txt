@@ -1,0 +1,3 @@
+
+                冬藤 アイラ 、橘 萌美<br><br>※名前設定<br>◆SAVE01<br>アイラさんに相談してみよう<br>◆SAVE02<br>いや…意味分かんないっす<br>◆SAVE03<br>アイラさんに相談だ<br>◆SAVE04<br>アイラさんの生き方を尊重<br><br>アイラ END1<br><br>◆SAVE04开始<br>俺は考えるのをやめた<br><br>アイラ END2<br><br>◆SAVE01开始<br>俺が、調べてあげようか<br><br>萌美 END<br><br>◆SAVE03开始<br>いや、仕事しよう<br><br>蘭 BAD END1<br><br>吉備津 爽香、美剣 蘭<br><br>◆SAVE02开始<br>ヤれるんなら、ハイ<br>◆SAVE05<br>萌美、気になる<br><br>爽香 END1<br><br>◆SAVE05开始<br>アイラさんに任せたんだ<br><br>爽香 END2(蘭)<br><br>◆SAVE03开始<br>やっぱり蘭が心配<br>ホホー知恵袋に相談する<br>◆SAVE06<br>１発やってく<br>◆SAVE07<br>花を持たせる<br><br>蘭 END<br><br>◆SAVE07开始<br>俺の勝ちだ<br><br>场景回收<br><br>◆SAVE06开始<br>いいから帰す<br><br>蘭BAD END2<br>----------------------------------------------------------------------------------------<br>原日文攻略刊载于誠也の部屋。<br>
+              

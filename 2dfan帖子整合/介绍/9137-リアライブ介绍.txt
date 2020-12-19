@@ -1,0 +1,42 @@
+
+                <ul class="breadcrumb">
+	<li class="active">故事简介 <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9137/page/2">女主角</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9137/page/3">副角色</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9137/page/4">世界观</a> <span class="divider">/</span></li>
+	<li><a href="http://www.2dfan.com/topics/9137/page/5">CG鉴赏</a></li>
+</ul>
+
+前言
+
+官方访谈过了一遍没发现有啥特别有意义的话，
+要说已公布的消息之外的就只有…;剧本最近特迷高分少女？
+男主有只妹妹但没立绘也没介绍。
+
+译注：官网补完，以后为了防卡将视频媒体折叠处理。
+
+<img alt="" src="https://img.2dfan.com/uploads/intro/2891/69b649050080f2a935c9d1dcf9d3bb06.jpg-watermark" style="width: 389px; height: 500px;" />
+
+故事介绍
+
+理想乡正如其名，是人们心中最理想的场所。
+然而也因如此，这世上也绝对不会存在这种地方。
+一边歌颂着理想，一边却又被迫每日和严苛的现实对峙的现状便是如今深受批判的现代社会。
+为此，理想乡这一概念便应运而生。
+就因为是个无论谁都会憧憬的世界，因此也绝对不会诞生于现实，人们只有在梦想中才能触及它的片鳞。
+<strong><span style="color:#FF0000;">其又名为，乌托邦（Utopia）&mdash;&mdash;</span></strong>
+
+某日，一个神秘的软件被安装进主人公们的手机里。
+那是一个名为「ALIVE（アライブ）」的社交游戏。
+一旦启动ALIVE，便会根据玩家的职业（class）安排不同的任务。
+只要能在现实世界中达成任务，玩家即会提升等级并习得技能。
+通过使用那些技能逐个通过任务，便能通关ALIVE。
+而在到达游戏结局的那一瞬间，玩家就能以自己理想中的姿态重生于这个世上。
+接下来便能以理想的自己，在理想的世界里幸福地生活下去。
+将想象转化为现实，让心理升华为真理，而这些都能够凭借ALIVE实现&mdash;&mdash;
+<strong><span style="color:#FF0000;">本作所讲述便是、一个奇妙的梦物语。</span></strong>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-parent="#accordion" data-toggle="collapse" href="#collapse01">OP视频（点击展开）</a>
+

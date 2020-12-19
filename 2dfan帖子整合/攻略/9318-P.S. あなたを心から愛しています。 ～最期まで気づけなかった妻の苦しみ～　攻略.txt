@@ -1,0 +1,14 @@
+
+                <font color="#fa0000">◆SAVE 01</font>
+確認すべきだ
+それでも事実を確認すべきだ
+<font color="#0000ff">　　END</font>
+
+<font color="#fa0000">◆SAVE 01</font>开始
+もう見たくない
+もう見たくない
+<font color="#0000ff">　　BADEND</font>
+
+※原日文攻略刊载于誠也の部屋。
+
+              

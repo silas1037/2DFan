@@ -1,0 +1,147 @@
+
+                一周目ですべてのルートに辿り着くことはできません。段階的に、各ルートが開放されるようになっています。以下のチャートでは、Step.1から順番に進めていってください。orで区切られた選択肢は、ルート進行上はどちらを選んでも構いません。差分は、回想からでも回収できます。
+
+<h3> ;</h3>
+
+<h2>攻略チャート</h2>
+
+ ;
+
+<h3>Step. 1</h3>
+
+<table>
+	<caption>城嶋編</caption>
+	<tbody>
+		<tr>
+			<td>いったん口を離した or さらに吸い上げた</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3> ;</h3>
+
+<h3>Step. 2</h3>
+
+“;はじめから”;開始してください。
+
+<table>
+	<caption>田沼編</caption>
+	<tbody>
+		<tr>
+			<td>save001</td>
+		</tr>
+		<tr>
+			<td>田沼たちを気遣う</td>
+		</tr>
+		<tr>
+			<td>肉棒を押し込んだ or 肉棒を引き抜いた</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3> ;</h3>
+
+<h3>Step. 3</h3>
+
+“;はじめから”;開始してください。猪狩編をクリア後、回想の猪狩ルートに「<strong>クリスマスイブの略奪</strong>」が開放されます。これを観ておかないと、画像の達成率が100％になりません。
+
+<table>
+	<caption>猪狩編</caption>
+	<tbody>
+		<tr>
+			<td>校外から先に見て回る</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3> ;</h3>
+
+<h3>Step. 4</h3>
+
+<table>
+	<caption>美優編</caption>
+	<tbody>
+		<tr>
+			<td>タイトル画面で「裏面」を選択</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<table>
+	<caption>レオ編</caption>
+	<tbody>
+		<tr>
+			<td>Load save001</td>
+		</tr>
+		<tr>
+			<td>城嶋たちに物申す</td>
+		</tr>
+		<tr>
+			<td>save002</td>
+		</tr>
+		<tr>
+			<td>城嶋追放について深追いしない</td>
+		</tr>
+		<tr>
+			<td>save003</td>
+		</tr>
+		<tr>
+			<td>生徒会室に戻る</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<table>
+	<caption>雅人編</caption>
+	<tbody>
+		<tr>
+			<td>Load save002</td>
+		</tr>
+		<tr>
+			<td>城嶋追放について真剣に考える</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<caption>シーン［023］の回収</caption>
+	<tbody>
+		<tr>
+			<td>Load save003</td>
+		</tr>
+		<tr>
+			<td>もう一度見回りに行く</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+ ;
+
+<h3>Step. 5</h3>
+
+“;はじめから”;開始してください。
+
+<table>
+	<caption>
+	 ;
+
+	抗命編
+	</caption>
+	<tbody>
+		<tr>
+			<td>夢を見る</td>
+		</tr>
+	</tbody>
+</table>
+
+              

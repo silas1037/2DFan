@@ -1,0 +1,85 @@
+
+                <head >
+<style>
+	html{overflow-x:hidden;background-color:#fff}blockquote,body,button,dd,dl,figure,h1,h2,h3,h4,h5,h6,input,p,pre{margin:0;-webkit-text-size-adjust:100%;-webkit-font-smoothing:subpixel-antialiased}*,:after,:before{box-sizing:border-box}.topic-content{position:relative;padding:35px;min-height:100px;border:none;background:#f6f6f6}h2{position:relative;display:inline-block;margin-left:-42px;padding:7px 11px 7px 32px;width:100%;border-color:#8aa9ae;border-radius:0 4px 4px 0;background-color:#59bee9;box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);color:#f8f8f8;font-size:16px;line-height:1;transition:all .3s;margin-top:5px;text-shadow:#9c9c9c 0 0 1px,#fffffb 0 0 1px,#fffffb 0 0 2px;margin-bottom:15px;font-weight:700}h2:after{position:absolute;top:100%;left:0;width:0;height:0;border-top:0 solid transparent;border-right-width:1em;border-right-style:solid;border-right-color:inherit;border-bottom:1em solid transparent;border-left:0 solid transparent;content:""}h2:hover{box-shadow:0 2px 2px 0 rgba(0,0,0,.2),0 3px 2px -2px rgba(0,0,0,.2),0 2px 6px 0 rgba(0,0,0,.2);transform:translateY(-1px)}.this_hr{margin:10px;border-top:4px double #a4d8fa;border-bottom:none;text-align:center}.this_hr:after{content:'\002665';display:inline-block;position:relative;top:-15px;padding:0 10px;background:#f6f6f6;color:#a4d8fa;font-size:18px}.this_content{font-weight:700;text-align:center;letter-spacing:4px;line-height:1.5rem}
+</style>
+</head>
+
+<p class="this_content">注：3人攻略完毕后，标题画面会追加Extra选项。完成Extra后，回想中会追加H场景，请务必进行回收。
+<strong><em>距离玩游戏有一段时间了，有的选项翻译可能不符合语境。</em></strong>
+
+<hr class="this_hr" />
+<h2>美汐 瑛莉</h2>
+<p class="this_content">苹果糖？
+可以直呼我的名字哦
+交给 美汐 吧
+为啥要把自己武装起来？
+先不管它，你想不想去上厕所啊
+◆<strong>SAVE01</strong>
+瑛莉 的座位就好
+◆<strong>SAVE02</strong>
+来一起玩儿点什么吧
+我开始喽
+这点东西我来搬吧
+想做
+想看
+挺大的哦
+就这么（）嘴里（（）外面）
+我明白哦
+我来回答
+Ａ キ
+佐藤 同学
+跟 瑛莉 一起（跟 美奈 一起)
+◆<strong>SAVE03</strong>
+不要
+瑛莉 END
+
+◆<strong>SAVE03开始</strong>
+好吧，我明白了
+BAD END
+<hr class="this_hr" />
+<h2>羽川原 いろは</h2>
+<p class="this_content">◆<strong>SAVE01开始</strong>
+羽川原 的座位就好
+来一起玩儿点什么吧
+该咋办才好嘞
+这点东西我来搬吧
+羽川原 就好
+戴着眼罩不会感觉不便吗？
+我会做的
+来接吻吧
+给我暖起来
+我来摸，OK吗？
+好想让你再穿一次啊（好像让你来我膝盖上啊）
+いろは END
+
+<hr class="this_hr" />
+<h2>広崎 美奈</h2>
+<p class="this_content">◆<strong>SAVE02开始</strong>
+我要回去喽
+该咋办才好嘞
+回家做烤肉的准备吧
+以温柔的哥哥的身份来处理
+我来请客
+总之先冷静下来
+要不要去商场
+好吧，我来擦掉
+明白了
+跟 羽川原 一起玩
+美奈
+谢谢了
+◆<strong>SAVE04</strong>
+还是先去找 美奈 吧
+要是啥都没有得话
+努力跨过去吧
+美奈 END
+
+<hr class="this_hr" />
+<h2>綾 麗華</h2>
+<p class="this_content">◆<strong >SAVE04开始</strong>
+跟 綾酱 两个人一起也好吧
+带着这孩子一起去比较好
+叫别人来吧
+麗華 END
+
+              

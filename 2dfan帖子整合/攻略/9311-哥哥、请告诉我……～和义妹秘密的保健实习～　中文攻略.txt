@@ -1,0 +1,12 @@
+
+                <font color="#fa0000">◆SAVE01</font>
+在自己的房间等待
+<font color="#0000ff">　　百合END1</font>
+
+<font color="#fa0000">◆SAVE01</font>
+拜访妹妹的房间
+<font color="#0000ff">　　百合END2</font>
+
+ ;
+
+              

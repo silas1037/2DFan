@@ -1,0 +1,82 @@
+
+                <strong>神凤 杏</strong>
+
+ ;
+
+帮忙
+
+ ;
+
+邀她去食堂
+
+ ;
+
+岔开话题
+
+ ;
+
+接受邀请
+
+ ;
+
+◆SAVE
+
+ ;
+
+听听学姐的请求
+
+<strong>杏 END</strong>
+
+ ;
+
+<strong>一之濑 美樱</strong>
+
+ ;
+
+◆SAVE开始
+
+ ;
+
+说去上厕所
+
+<strong>美樱 END</strong>
+
+ ;
+
+<strong>月岛 夕莉</strong>
+
+ ;
+
+◆SAVE开始
+
+ ;
+
+我也去买饮料
+
+<strong>夕莉 END</strong>
+
+ ;
+
+<strong>浅叶小奈美</strong>
+
+ ;
+
+◆SAVE开始
+
+交给爽，自己逃走
+
+口の中にぶちまける(颜を派手に汚す)
+
+ティナ
+
+ ;
+
+※杏攻略完毕后
+
+ ;
+
+标题画面选择【-Tina-恋が咲くころ】开始
+
+<strong>ティナ END</strong> ;  ;  ;  ;  ;  ;  ;
+
+              

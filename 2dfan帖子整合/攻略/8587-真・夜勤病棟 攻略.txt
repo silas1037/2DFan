@@ -1,0 +1,456 @@
+
+                <p align="left"><font color="#0000ff">实验事件的限制</font>
+　　要让护士们进入实验状态，必须处理许多事件。到那时，要做到每一回合完成一个事件。“;回合”;就是指“;12:00～13:00”;和“;17:00～18:00”;这两个时间段。由于这是进行实验事件的第一条件，要想高效率地完成全部角色的攻略，就得好好安排行动的计划。
+
+　　另外，关于事件发生的场所，并没有严格限制在“;角色配置一览表”;上所记的位置。就是说，在“;2F&middot;西館”;发生的事件，在“;2F”;的任何地方也会强制发生。
+　　
+<font color="#0000ff">关于好漢度</font>
+　　基本上通过实验时的选项来提升好漢度。一般来说上升了的好漢度是不会由于选错选项而降低的。
+
+<font color="#0000ff">实验开始前的选项</font>
+　　不会增加“;好漢度”;。“;性力”;或者“;性技”;増加1。好像有一定的法则，但每个人的差别不算大，不用理会也没关系。基本上是上面的选项升高“;性力”;，下面的选项升高“;性技”;。
+
+<font color="#0000ff">实验开始后的选项</font>
+　　如果对角色选择了凌辱性行为的选项，“;性力”;和“;性技”;会分别减少１。取而代之、好漢度会升高3。必须注意的是，当“;性力”;“;性技”;的点数没有时，好漢度会停止增加。另外，选择<a href="http://product.yesky.com/ultrabook/jingdian" target="_blank">普通</a>选项时，好漢度没有变化，而“;性力”;和“;性技”;会增加数点（角色、选项的不同，数值也有所不同）。
+
+<font color="#0000ff">“;神宮寺成美”;的选项</font>
+　　不增加好漢度。她的情况十分特殊，选项的結果也和攻略对象的４人不同。基本来说选择上面的选项增加“;性力”;；选择下面的选项会增加“;性技”;，而且都是增加5（可能有相反的情形）。这“;5”;点在序盘时十分重要，要充分利用。
+
+<font color="#0000ff">实验时的选项</font>
+　　不仅影响好漢度，还影响CG回收，要充分留意。尤其是由于选择的分岐所造成看到不同CG的场合。重复相同的实验，把未选的选项补选上去应该没什么问题…;…;。选项的不同，好漢度有３或５的上升。也有一部分上升４的选项（这时候无论选哪项都上升“;4”;）。另外，重复选择相同的选项会上升６。
+
+<font color="#0000ff">好漢度的降低</font>
+　　攻略的角色对主角的态度是“;服从”;时，整整一天不进行会话和实验的话，好漢度会自动降低10。反过来说，即使不做实验，只要定期进行普通会话，也能够防止好漢度下降。
+
+<p align="left"> ;
+
+2
+
+
+
+　　另外，就算在“;服从”;以前，长期对角色置之不理的话，就会发生突然擅自进主角診察室的事件。这时选择“;話を聞く”;是10，选择“;脅す”;是15，无论哪项都是降低好漢度…;…; 发生的确切条件还没完全搞清楚（4天左右？），紧记适当的会话是最好的防止办法。
+
+　　还有一项，如果连日对同一个角色进行试验，就会发生“;缺勤事件”;。在那一天里，无法对缺勤的角色下手；第二天，好漢度会下降15，要留意。
+
+<font color="#0000ff">关于“;约会事件”;</font>
+　　日曜日时，不用去医院上班，取而代之的是可以打<a href="http://product.yesky.com/telephone/" target="_blank">电话</a>给所攻略的对象，和她去约会。既然是主角提出的“;约会”;，当然是非同一般的了（笑）。
+
+　　约会事件的CG数目较多，条件也较为严格。数值上的要求如下
+　　① 好漢度达到50%以上。
+　　② 实验到达第2阶段才能实行。
+　　（恋：肛辱実験／亜子：注乳実験／ひかる：緊縛実験／礼美：悶絶実験）
+　　即使满足以上条件，实际上还是有进行不了的情形。
+
+　　怎么说呢，首先每隔一周的机会本来就不多的了，日曜日从第2周开始到第5周总共有4回，开始的第1回达到以上条件几乎不可能，还有第5周（第4回）的日曜日会強制进入结局，发生不了约会事件。换句话说，只有第2回和第3回是真正的机会。真是够严格的…;…;特别是第2回的日曜日，全部4人要满足上面的条件也是至难之极。这样就不得不重复游戏了。
+
+　　约会事件的重要之处，还在于每位角色有2次。为了回收CG就得进行两次。第3回也是可以的，不过内容和第2回一模一样，别浪费时间了。
+
+　　在本事件里，除了作为攻略对象的4位护士外，还有“;成美”;供选择，也有不打电话独自一人在医院闲逛的选项。无论选哪项都由事件发生，以回收CG为己任的你当然会义不容辞。由于不需特殊的条件，可以从第1回的日曜日入手。
+
+<font color="#0000ff">特殊事件“;茜和緑”;</font>
+　　这是相当特殊的事件，如果没有遇上CG回收率就达不到100%，是完美通关的必要条件。由于ショウさん提供的情报，终于知道了这个事件和发生的条件。真的很感谢^_^
+
+　　基本条件是平时移动没有遇上“;恋&middot;亜子&middot;ひかる&middot;礼美&middot;成美”;这5个人！
+
+　　别以为容易，如果不小心随时会碰上。所以请参照“;角色配置表”;慎重地进行。要是不让亜子&middot;ひかる&middot;礼美出现的话，3F将是“;无人区域”;，可以利用一下这里。　如果是所要求条件以外的时间，比如继续“;仕事”;，也不会造成影响。而日曜日的约会事件似乎只有成美没问题。另外，木曜日的“;定例会議”;事件、随机发生的“;急患”;事件也不会算在内，尽管放心好了。
+
+　　满足上面条件后，还要满足下表所记的事件发生条件。
+
+<table border="1" width="80%">
+	<colgroup>
+		<col align="middle" bgcolor="#b0e0ff" width="50" />
+		<col align="middle" bgcolor="#ccebff" width="80" />
+		<col bgcolor="#b0e0ff" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td rowspan="2"><b>茜</b></td>
+			<td>[时间]</td>
+			<td>“;第二周的火曜日”;以后。由于前天晚上会自动发生成美的事件，所以就拿这天为基准。如果只是单独考虑“;茜”;事件，也可以包含最后一天。场合的不同会引发下面的“;緑”;事件，要注意一下。</td>
+		</tr>
+		<tr>
+			<td>[条件]</td>
+			<td>从第1周算起第6次访问“;无人区域”;，事件就会发生。第1周里访问了5次的话，第2周火曜日的12:00～12:20应该会发生事件。</td>
+		</tr>
+		<tr>
+			<td rowspan="2"><b>緑</b></td>
+			<td>[时间]</td>
+			<td>没什么特别要求，因为必然在“;茜”;事件后发生…;…;不过“;茜”;事件在第3周发生的话，不作标志是不会发生的事件的。尽早完成“;茜”;再继续进行本事件吧…;…;</td>
+		</tr>
+		<tr>
+			<td>[条件]</td>
+			<td>从第1周算起第50次访问“;无人场所”;，事件就会发生。</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+3
+
+ ;
+
+　　第1周全部选择去“;无人区域”;有必要计算在内。另外可能还有访问相同场所的次数及连续性等条件，确实想看事件的人，请在第1周全部选择去“;3F&middot;東館”;。我玩的时候，在第2周也重复这个行动，就可以看到事件了…;…;
+
+　　不管是谁都有两枚CG供回收，总共得到4枚。事件中有选项出现，只是文字内容有变化，CG是一样的。
+
+<p align="left">　　看完条件就应该知道，必须忽略调教护士的一般流程才能进行事件，最好挑战打出全部结局（就是说不能兼顾一般的玩法…;…;）。
+　　
+<font color="#0000ff">关于结局的条件</font>
+　　…;…;目前还只是确定有以下结局（汗）。只是要注意的是在内容上个别END每人两个，共计有8个之多。
+
+<table border="1" width="80%">
+	<colgroup>
+		<col bgcolor="#b0e0ff" />
+		<col bgcolor="#ccebff" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td><b>个别END</b></td>
+			<td>和4位护士当中好漢度最高的人到达结局。好漢度有90%时内容发生变化（HAPPY END和BAD END）。有CG回收的只有“;HAPPY END”;，一口气把好漢度提升到90%以上迎接最后一天吧。</td>
+		</tr>
+		<tr>
+			<td><b>TRUE END</b></td>
+			<td>条件够厉害的。必须全员好漢度达到100%后，施行了全部的试验。试验到最后，好漢度很容易下降（下降的因素增多），所以要时常检查。</td>
+		</tr>
+		<tr>
+			<td><b>犯罪者 END</b></td>
+			<td>4位护士中连一位也调教不了的结局。必须没有到达开始实验的状态。由于是所谓的BAD END，没有回收的CG，结局也简单得令人扫兴…;…; 在本结局中，出示了“;東京都めいわく条例違反”;的罪状，由于这个原因“;聖ユリアンナ病院”;终于被判明在东京都里（笑）。</td>
+		</tr>
+	</tbody>
+</table>
+
+<font color="#0000ff">角色配置一览表</font>
+　　这个游戏当中，“;哪层楼有谁在那里”;都有人物的头像表示在屏幕上，但就没有说明在这一层的哪里。因此可能会错误移动到另外一个地方，找不到人，而且浪费了时间。
+
+ ;
+
+4
+
+
+
+　　我想这个配置表应该会派上一点用场…;…;不过真的很难把握规律（泪）。角色的配置随着主人公遇见角色的数目，曜日等因素的变化而变动。下面所作的“;一览表”;是和“;恋”;、“;亜子”;、“;ひかる”;、“;礼美”;４人相遇情况的数据。因此，具体情况的不同，有可能和“;一览表”;的情况有出入，请谅解…;…;例如，主角遇上“;礼美”;之前，12:00时“;ひかる”;应该在“;2F&middot;中央”;、“;2F&middot;西館”;。
+
+　　有的角色在相同时间段里配置在不同地方，分两种情况：
+　　① 同在一层楼时，无论去哪边都能遇上。
+　　② 不同在一层楼（场所）时，注意所作的“;<a href="http://product.yesky.com/gps/a/aigo/" target="_blank">A</a>”;或“;B”;标志。
+
+　　另外，有的角色连续占据两个时间段（如17:20～17:40亜子）。这是因为虽然是<a href="http://product.yesky.com/ultrabook/jingdian" target="_blank">普通</a>的对话，但会强制性经过40分钟。应当尽量避免这种情况（对话内容和20分钟的一样）。在这种情况里，前半段时间里去当然没问题；等到后半段时间才去的话就会见不到她。
+
+<table bgcolor="#f8f0ff" border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td>
+			<center>
+			<table border="0" cellspacing="3">
+				<tbody>
+					<tr>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+						<td>　</td>
+					</tr>
+					<tr>
+						<td align="middle" colspan="2"><font size="4"><strong>时间</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle"><font size="3"><strong>12:00</strong></font></td>
+						<td align="middle"><font size="3"><strong>12:20</strong></font></td>
+						<td align="middle"><font size="3"><strong>12:40</strong></font></td>
+						<td align="middle" width="10">　</td>
+						<td align="middle"><font size="3"><strong>17:00</strong></font></td>
+						<td align="middle"><font size="3"><strong>17:20</strong></font></td>
+						<td align="middle"><font size="3"><strong>17:40</strong></font></td>
+					</tr>
+					<tr>
+						<td colspan="10">
+						<hr noshade="noshade" /></td>
+					</tr>
+					<tr>
+						<td align="middle" bgcolor="#8080ff" colspan="2"><font color="#ffffff" size="4"><strong>屋上</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ffd2d2">恋</td>
+						<td align="middle" bgcolor="#ceceff">亜子A</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td colspan="10">
+						<hr noshade="noshade" /></td>
+					</tr>
+					<tr>
+						<td align="middle" bgcolor="#8080ff" rowspan="4"><font color="#ffffff" size="4"><strong>3F</strong></font></td>
+						<td align="middle"><font size="4"><strong>東館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffffb3">礼美</td>
+						<td align="middle" bgcolor="#ceceff">亜子</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ffe9df">ひかる</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td align="middle" rowspan="2"><font size="4"><strong>中央</strong></font></td>
+						<td rowspan="2" width="20">　</td>
+						<td align="middle" bgcolor="#ffe9df" rowspan="2">ひかる</td>
+						<td align="middle" bgcolor="#ffffb3" rowspan="2">礼美</td>
+						<td align="middle" rowspan="2">　</td>
+						<td align="middle" rowspan="2" width="10">　</td>
+						<td align="middle" rowspan="2">　</td>
+						<td align="middle" bgcolor="#ceceff" colspan="2">亜子</td>
+					</tr>
+					<tr>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+					</tr>
+					<tr>
+						<td align="middle"><font size="4"><strong>西館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ffe9df" colspan="2">ひかる</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ffe9df">ひかる</td>
+						<td align="middle" bgcolor="#ffffb3">礼美B</td>
+						<td align="middle" bgcolor="#ceceff">亜子</td>
+					</tr>
+					<tr>
+						<td colspan="10">
+						<hr noshade="noshade" /></td>
+					</tr>
+					<tr>
+						<td align="middle" bgcolor="#8080ff" rowspan="5"><font color="#ffffff" size="4"><strong>2F</strong></font></td>
+						<td align="middle" rowspan="2"><font size="4"><strong>東館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffe9df">ひかるB</td>
+						<td align="middle" bgcolor="#ffffb3">礼美</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ffffb3" colspan="2">礼美</td>
+						<td align="middle" bgcolor="#ffe9df">ひかる</td>
+					</tr>
+					<tr>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffd2d2">恋</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td align="middle" rowspan="2"><font size="4"><strong>中央</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ffffb3" colspan="2">礼美</td>
+						<td align="middle" bgcolor="#ffe9df">ひかる</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ffd2d2" colspan="2">恋</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffd2d2">恋</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffe9df" colspan="2">ひかる</td>
+					</tr>
+					<tr>
+						<td align="middle"><font size="4"><strong>西館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ffffb3">礼美</td>
+						<td align="middle" bgcolor="#ffd2d2" colspan="2">恋</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+						<td align="middle" bgcolor="#ffffb3">礼美</td>
+					</tr>
+					<tr>
+						<td colspan="10">
+						<hr noshade="noshade" /></td>
+					</tr>
+					<tr>
+						<td align="middle" bgcolor="#8080ff" rowspan="4"><font color="#ffffff" size="4"><strong>1F</strong></font></td>
+						<td align="middle"><font size="4"><strong>東館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+						<td align="middle" bgcolor="#ffd2d2">恋B</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ceceff">亜子</td>
+						<td align="middle" bgcolor="#ffffb3">礼美A</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td align="middle"><font size="4"><strong>中央</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ceceff">亜子</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffd2d2">恋</td>
+					</tr>
+					<tr>
+						<td align="middle" rowspan="2"><font size="4"><strong>西館</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle" bgcolor="#ceceff" colspan="2">亜子</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle" bgcolor="#ceceff">亜子</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffd2d2">恋</td>
+					</tr>
+					<tr>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ceceff">亜子B</td>
+						<td align="middle">　</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+						<td align="middle">　</td>
+					</tr>
+					<tr>
+						<td colspan="10">
+						<hr noshade="noshade" /></td>
+					</tr>
+					<tr>
+						<td align="middle" bgcolor="#8080ff" colspan="2"><font color="#ffffff" size="4"><strong>外</strong></font></td>
+						<td width="20">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#ffe9df">ひかるA</td>
+						<td align="middle" bgcolor="#ffd2d2">恋A</td>
+						<td align="middle" width="10">　</td>
+						<td align="middle">　</td>
+						<td align="middle" bgcolor="#bfffbf">成美</td>
+						<td align="middle">　</td>
+					</tr>
+				</tbody>
+			</table>
+			</center>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+　　“;A”;:第1周、第3周的月&middot;水&middot;金曜日／第2周、第4周的火&middot;木&middot;土曜日
+　　“;B”;:第1周、第3周的火&middot;木&middot;土曜日／第2周、第4周的月&middot;水&middot;金曜日
+
+ ;
+
+5
+
+　　
+<font color="#0000ff">各角色、实验事件攻略</font>
+　　这里有关于作为攻略对象的4位护士及进行“;实验”;所必须通过事件的攻略。事件的发生主要由（和攻略的角色）相遇的次数来决定，似乎相遇的时间和场所也很重要。的确，相遇的环境能够适当地给事件的发展渲染气氛。
+
+　　出乎意料之外，这个游戏进行事件的时间不算充裕。如果不周全的计划一下，可能会时间不知不觉的过去，还没完全攻略完就结束了。特别是日曜日约会事件（“;为攻略而准备的处方笺”;有详细叙述）。由于和“;实验”;的进行情况有联动作用，的确有点棘手。
+
+　　还要注意一下，条件里所说的“;相遇1次（会話）”;包括木曜日发生的“;定例会議”;事件、除开随机发生的“;急患”;事件，和主角谈话都算作一次。如果把这也计算进去的话，攻略的效率就更高了。特别是要善于利用木曜日的“;定例会議”;事件。
+
+ ;
+
+<font color="#990000">七瀬　恋</font>
+　　不敢公开声言，受伤的恋人在工作的医院里住院。现在恋只是关心着恋人直也。不是对手的竜二（主角）对此满怀着妒忌之心…;…;
+
+<font color="#0000ff">发现方法</font>
+　　自动遭遇的事件，没有特别要求。
+
+<font color="#0000ff">实验开始之前</font>
+　　① 对话2次后，在“;2F”;和恋相遇。
+　　在病院里转悠时，发现恋正在亲切地和一位患者交谈。他们像情侣一样直呼对方的名字。此情此景，主角的妒忌之火暗暗地燃烧起来…;…;
+　　② 完成①后，再在“;2F”;和恋谈话。
+　　无意识中，去了似乎是恋的恋人&mdash;&mdash;直也的病房。得知直也是职业拳击选手，还是在新人中十分有前途的优秀选手。为什么职业拳击选手会在这种病院里…;…;？
+　　③ 完成②后，17:00～18:00内到“;2F”;找恋。
+　　在病院里见到恋。注意到行动有些不自然，最后在屋顶上发现和流氓在一起。主角知道了恋和直也的真相。这样就可以拍摄下来作为胁迫的材料…;…;
+
+实验的进行条件 ;
+　　肛虐実験 好漢度达到21%以上，在“;2F”;和恋谈话。 ;
+　　肛辱実験 好漢度达到41%以上，在“;屋上”;和恋谈话。必然是12:00～12:20。　 ;
+　　肛交実験 好漢度达到81%以上，17:00～18:00在“;2F”;和恋谈话。
+
+　　 　 ;
+藤沢　亜子 ;
+　　大手制药会社社长的千金，为了进行社会学习而在这里工作。由于是大小姐出身，对男性没有免疫力。所以被竜二（主角）欺骗了…;…;
+
+发现方法 ;
+　　去“;屋上”;3次，就会发生遇上亜子的事件。 ;
+　　实验开始之前 ;
+　　① 对话2次后，去“;3F”;见亜子。 ;
+　　趁着紧急召集护士的时机，主角去更衣室物色对象（笑）。忽然发现不知为何亜子在换衣服。从外线<a href="http://product.yesky.com/telephone/" target="_blank">电话</a>的内容里，推定亜子是富士沢製薬的大小姐。 ;
+
+6
+
+ ;
+
+　　② 完成①后，去“;1F”;和亜子谈话。 ;
+　　不过在同一回合内相遇2次是不会发生事件的。 ;
+　　打听有关亜子的消息时，从多嘴的护士那里得知大都製薬和富士沢製薬之间开发新药的竞争。而且形势对大都製薬有利。在医院里知道亜子真正身份的只有主角…;…; 似乎可以利用一下。 ;
+　　③ 完成②后，再去“;1F”;找亜子。这里也是在同一回合内相遇2次不会发生事件。 ;
+　　接到新药样品送到的通知后，亜子遵照指示来了。连自己跌入圈套也不知的亜子为了见到新药带主角去没有人的药店…;…; 这样，事情就发生了。
+
+进行试验的条件 ;
+　　排泄実験 好漢度达到21%以上，到“;3F”;和亜子谈话。 ;
+　　注乳実験 好漢度达到41%以上，17:00～18:00内到“;3F”;和亜子谈话。 ;
+　　妊耐実験 好漢度达到81%以上，17:00～18:00内到“;3F”;和亜子谈话。
+
+児玉　ひかる ;
+　　作为小孩子们的大姐姐，ひかる十分重视孩子们的信赖。不过对她那高傲的态度很反感的竜二（主角）打算教训她一下…;…;
+
+发现方法 ;
+　　去“;外”;3次就会发生遇上ひかる的事件。 ;
+　　实验开始之前 ;
+　　① 对话2次后，到“;2F”;去见ひかる。 ;
+　　不过，在12:00～12:40内，即使满足以上条件也不会发生事件。 ;
+　　孩子们在病院里跑来跑去，主角一不小心被撞个满怀。这时候来庇护孩子的就是护士ひかる。ひかる对待主角的态度就象对待傻瓜一样，不过当听到名为“;悟”;患者的事情后又匆忙离开。发生什么事了？…;…; ;
+　　② 完成①后，和在“;3F”;的ひかる谈话。 ;
+　　去找ひかる时，悟的脸色骤变。从喜欢乱七八糟传闻的护士那里，主角听到了有关悟的事情。这样就得到了ひかる和悟并非真正的姐弟关系的情报。这也许能作为胁迫的把柄…;…; ;
+　　③ 完成②后，在17:00～18:00内去“;2F”;找ひかる。 ;
+　　和亜子不同，17:00～18:00即使相遇两次，也会发生事件。 ;
+　　主角鼓励悟去看看ひかる。作为姐姐（毫不怀疑）的ひかる似乎是悟对抗病魔的唯一支柱。但是他的身体状况很差，稍微受到刺激，病情都有可能恶化。抓住ひかる致命弱点的主角，下一步的行动应该就是…;…;！
+
+进行实验的条件 ;
+　　拡張実験 好漢度达到21%以上，和在“;2F”;的ひかる谈话。 ;
+　　緊縛実験 好漢度达到41%以上，17:00～18:00内和在“;2F”;的ひかる谈话。 ;
+　　産卵実験 好漢度达到81%以上，和在“;3F”;的ひかる谈话。
+
+新城　礼美 ;
+　　讨厌散漫的人，无论对自己还是对别人的要求都很严格，这就是新城礼美。品行<a href="http://product.yesky.com/product/921/921264/" target="_blank">方正</a>的她十分注意不修边幅的竜二（主角），换来的是互相的怨恨…;…;
+
+ ;
+
+7
+
+
+发现方法 ;
+　　去“;2F&middot;西館”;3次，就会发生遇上礼美的事件。 ;
+　　实验开始之前 ;
+　　① 对话2次后，和在“;2F”;的礼美相遇。不过，在12:00～12:40内即使满足以上条件，也不会发生事件。 ;
+　　病室里传来礼美的声音，原来是新来的护士犯了一点小错，正在被礼美高声斥责。不过主角注意到礼美的态度不像平时的严格，而是失去冷静的愤怒。这也许和礼美的弱点有关。 ;
+　　② 完成①后，去“;2F”;和礼美谈话。 ;
+　　同样，在12:00～12:40内即使满足以上条件，也不会发生事件。 ;
+　　主角到无人的护士站台随便转转，见到礼美匆忙回来出诊，不管怎么说都已经迟到了。对礼美来说这是很稀奇的事情，主角亲眼看到礼美向集中治療室的患者谢罪。这到底是…;…;？ ;
+　　③ 完成②后，去“;2F”;找礼美。 ;
+　　追查集中治療室的患者死亡的原因，去找似乎有关系的礼美，正如当初所料想的，那通常的护理十分可疑。这样的话，主角的行动只有一个，拿这个伤疤来威胁她…;…;
+
+ ;
+
+
+进行实验的条件 ;
+　　催淫実験 好漢度达到21%以上，12:00～13:00内去“;2F”;和礼美谈话。 ;
+　　悶絶実験 好漢度达到41%以上，12:00～13:00内去“;3F”;和礼美谈话。 ;
+　　汚染実験 好漢度达到81%以上，12:00～13:00内去“;3F”;和礼美谈话。
+
+              

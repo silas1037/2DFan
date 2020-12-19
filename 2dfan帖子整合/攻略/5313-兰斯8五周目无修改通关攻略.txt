@@ -1,0 +1,265 @@
+
+                兰斯8五周目完结，因为这个游戏太花时间，无修改打起来非常的累，而且因为坑爹的初始技能随机和转生吸收特殊物品，导致我重开了3次，第三次才顺利的一口气打到五周目并且通关。
+  虽然现在估计有爱的人早就都通关了，不过还是把这份心得放了出来，希望对还没有开动并且不打算修改的人有所帮助。
+一：基本常识
+1：存档位置
+  我的文档》ALICESOFT
+  SAVE下001的三个文件是平时存档，999的三个文件是迷宫内的中断存档。
+  S/L就靠复制粘贴这几个文件来实现。
+2：怪物强度
+  二周目1.5倍
+  三周目2倍
+  四周目3倍
+  五周目5倍
+  <strong>注意：随着周回升高，怪物的强度增长越来越高，但是经验值的增长是跟不上怪物强度的增长的（比如说二周目怪物强度1.5倍，经验值只有1.2倍），因此最好的练级转生周回是第三周目，此周目可以轻松秒怪，经验又比较多。</strong>
+3：寄付
+  即使在1.1版本，寄付其实也是可以刷的。方法如下：
+  1：存物品到24或24的倍数，SAVE1。
+  2：存第25个或25的倍数的物品，SAVE2。
+  3：确认刷出了什么物品，如果不是想要的物品，读SAVE1，如果是想要的物品，读SAVE2。
+  4：再捐24个物品后，确认上一个特殊物品厚（之后不要进出店或做任务），重复1~3。
+  这是利用下一个特殊物品是在确认了上个特殊物品后，再次进店或者执行任务后确定这一规则，实现每25个物品刷一个特殊A。
+  <strong>注意：血A，攻击A，魔力A和速度A，一个周目店里最多刷出2个，之后就不会出了。所以每次前往下个周回之前，记得把这4类特殊道具刷出2个再走。尤其是速度！</strong>
+4：初始技能
+  请注意，一旦初始技能确定了，那么即使周回也不会改变，因此一周目时请花时间刷好主力的初始技能！
+  根据WIKI的情报，各职业的技能搭配类型一般来说有3种，人物生成时从3套模板内抽一套。
+  ファイター（战士）:
+  捕获（短剣2）　お宝（凶戦士、槌2）　両方なし（枪2）　※胜子とバーナードは他テーブルでも凶戦士がつく场合有？ 
+ガード(肉盾)　
+  捕获（武器壊し2反らし4枪3）　お宝（武器壊し3反らし2枪3） 両方なし（武器壊し3反らし4枪2）　※香姫は反らし6固定？ 
+ガンナー（射手）
+  捕获　お宝　両方なし　の违いのみ ※イージスは捕获固定？
+ソーサラー（法师）
+  捕获（氷炎光）　お宝(雷氷光)　両方なし(炎光暗)　※各キャラ固定、生成キャラとファイターのウィチタとランはテーブル依存 
+ヒーラー（牧师）
+  捕获（完全复活3全体加护4）　お宝（完全复活1全体加护4）　両方なし（完全复活3全体加护3） 
+レンジャー（忍者）
+  捕获（短剣2）　お宝（短剣3）　両方なし（短剣3） 
+スパルタ（格斗家）
+  捕获（格闘知识2）　お宝（格闘知识3）　両方なし（格闘知识3） 
+シビリアン（平民）
+  全员捕获お宝持ちで固定
+除了一些特殊人物是例外(香、胜子、巴纳德)，其他人都遵守这个规则。
+  例如盾娘如果带有宝物鉴定技能的话，她的盾反技能就只需要2点而不是4点。
+  战士如果带狂战士的话，锤知识就需要2点。
+  另外，根据我的实际经验，番茄同学即使両方なし，也没有狂战士的情况下，也不一定是枪2，想要枪2的话，需要练到10级看一看。
+刷初始技能的方法：
+  1：无战斗任务加入的角色可以依靠平时存档来刷。
+  2：战斗任务加入的角色，可以在完成前通过中断存档来刷。
+  备注：铃女在游戏一开始就决定了技能，所以刷铃女的技能必须初始化游戏而不能靠中断存档。
+比较有刷的价值的是战士的盾反2，战士的狂战士或需要的武器技能。
+5：幸福兔子出没地点
+  A1        A2        A3        A4
+  B1        B2        B3        B4
+  C1        C2        C3        C4
+  D1        D2        D3        D4
+  地图编号规则见上
+原稿回収と人捜し、D2
+  コパンドン護衛、B3
+  勝虎街道マラソン 、B3
+  汚染人間、C2
+  クレインの隠れ家、
+  歴代女王の墓、
+  魔物女王、
+  マルグリッド迷宮1層、
+  マルグリッド迷宮4層、
+マルグリッド迷宮6層
+6：初始能力较高的角色
+  这些角色的初始属性比同职业的普通人高一些：
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#a4b6d7" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td width="98" align="center">角色名称</td>
+      <td width="32" align="center">HP</td>
+      <td width="36" align="center">攻撃</td>
+      <td width="41" align="center">防御</td>
+      <td width="40" align="center">魔法</td>
+      <td width="37" align="center">魔抵</td>
+      <td width="35" align="center">命中</td>
+      <td width="41" align="center">回避</td>
+      <td width="41" align="center">衝撃</td>
+      <td width="39" align="center">耐性</td>
+      <td width="39" align="center">必殺</td>
+      <td width="36" align="center">素早</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">ランス</td>
+      <td width="32" align="center">80</td>
+      <td width="36" align="center">10</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">アルカネーゼ</td>
+      <td width="32" align="center">100</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35" align="center">40</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">謙信</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41" align="center">15</td>
+      <td width="41" align="center">30</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36" align="center">5</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">チルディ</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36" align="center">3</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">沖田のぞみ</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36" align="center">3</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">バーナード</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39" align="center">80</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">イージス</td>
+      <td width="32"> ;</td>
+      <td width="36" align="center">15</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35" align="center">15</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">ウルザ</td>
+      <td width="32"> ;</td>
+      <td width="36" align="center">30</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35" align="center">20</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">ジーマ</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41"> ;</td>
+      <td width="41" align="center">20</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">鈴女</td>
+      <td width="32"> ;</td>
+      <td width="36"> ;</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35"> ;</td>
+      <td width="41" align="center">10</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36" align="center">3</td>
+    </tr>
+    <tr>
+      <td width="98" align="center">あてな</td>
+      <td width="32" align="center">700</td>
+      <td width="36" align="center">250</td>
+      <td width="41"> ;</td>
+      <td width="40"> ;</td>
+      <td width="37"> ;</td>
+      <td width="35" align="center">50</td>
+      <td width="41"> ;</td>
+      <td width="41"> ;</td>
+      <td width="39"> ;</td>
+      <td width="39"> ;</td>
+      <td width="36"> ;</td>
+    </tr>
+  </tbody>
+</table>
+7：地图
+  每个格子的地图在第一次生成时地形会固定下来，因此重要的地图（女王墓，迷宫4和迷宫6）建议第一次去刷SL出一个好地形来。
+每个格子里有几个宝箱点，红星点的数量是固定的，不会因为SL而改变。
+二：主力队员
+目标是五周目的话，从一周目开始就要好好培养有潜力的队员了。另外收人，全任务制霸等等建议也在一周目完成，后面的周目无任何追加。
+  A级特殊物品数量有限，建议非主力队员不要吃A级特殊物品，我在一周目时全角色全任务制霸时，所有剧情转的角色都吃了A级物品（大概有10几个吧），结果后期A级物品不足额外花了大量时间去刷•••
+名字确认：
+  幼狮女：新的亲卫队员，这个家伙好像有些人喜欢叫兔女，不过我觉得她挑战蕾拉的志向很远大，是一头尚在成长中的幼狮。
+2.1:队伍安排
+  前期培养队伍：
+  JJ  胜子  幼狮女 
+  虎子 乌鲁泽
+刷宝练级队伍：
+  上杉JJ  屠龙女 幼狮女
+  番茄女   乌鲁泽
+  可替换队员有——胜子，虎子，魔想，玛吉克，怪力女，卡拉队长，艾米
+脚底抹油队伍：
+  自创忍者*2+奇袭军师+任意二位主力（如果是开箱子就带2个开运的角色）
+五周目挑战真奈落队伍：
+  上杉JJ  屠龙女 幼狮女
+  怪力女   乌鲁泽
+2.2育成方针
+  刷怪就是火爆光爆一齐射击~出了好东西换上逃跑队伍幢绿门，没好东西直接断念。
+
+              

@@ -1,0 +1,128 @@
+
+                <table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla" colspan="2">HAPPY END路线</th></tr>
+<tr><th>選択肢&#12288;回想</th><th>分岐・回収</th></tr>
+<tr></tr><tr></tr>
+<tr><td>1-01</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSクローバー&;ダイヤ<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;2-13,BADEND No.01</td></tr>
+<tr><td>1-02</td></tr>
+<tr><td>「リリカをイヤらしい目で見る」,「口射」&#12288;1-03</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSチャンピオンヒヒ<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;2-14,BADEND No.02</td></tr>
+<tr><td>1-04&#12288;「優しく」&#12288;1-05</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSスペード<br>「戦闘結果を勝利でスキップする」&#12288;2-15</td></tr>
+<tr><td>「リリカを気遣う」</td></tr>
+<tr><td>「優しく」&#12288;1-07</td></tr>
+<tr><td>「止めておこう」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSザリガニキング<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;2-16,BADEND No.03</td></tr>
+<tr><td>「優しく」&#12288;1-10</td></tr>
+<tr><td>「自分で考える」&#12288;1-13</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSナメクジ大王<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;3-01,BADEND No.04</td></tr>
+<tr><td>「優しく」&#12288;1-14</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS白ウサギ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>
+「中出し」&#12288;1-16<br>
+「中出し」&#12288;2-01</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSクローバー<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「トドメを刺さない」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSイモムシ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」,「中出し」&#12288;2-02</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSハンプティー<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;3-02,3-03,BADEND No.05</td></tr>
+<tr><td>「優しく」,「中出し」&#12288;2-04</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSダイヤ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」,「口内」&#12288;2-06</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS帽子屋<br>「戦闘結果を勝利でスキップする」</td><td><br>回収&#12288;「戦闘結果を敗北でスキップする」&#12288;3-04,3-05,BADEND No.06</td></tr>
+<tr><td>「優しく」,「中出し」&#12288;2-08</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS白ウサギ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSスペード<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td colspan="2"><b>戦闘</b>&#12288;VSジョーカー<br>「戦闘結果を勝利でスキップする」&#12288;2-10,2-11,リリカ HAPPY END</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla" colspan="2">BAD END路线</th></tr>
+<tr><th>選択肢&#12288;回想</th><th>分岐・回収</th></tr>
+<tr></tr><tr></tr>
+<tr><td>1-01</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSクローバー&;ダイヤ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>1-02</td></tr>
+<tr><td>「リリカをイヤらしい目で見る」,「顔射」&#12288;1-03</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSチャンピオンヒヒ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>1-04&#12288;「いやらしく」&#12288;1-06</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSスペード<br>「戦闘結果を勝利でスキップする」&#12288;2-15</td></tr>
+<tr><td>「稲葉さんを気遣う」&#12288;5-11</td></tr>
+<tr><td>「いやらしく」&#12288;1-08</td></tr>
+<tr><td>「やってみよう」&#12288;1-09</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSザリガニキング<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「いやらしく」&#12288;1-11</td></tr>
+<tr><td>「自分で考える」&#12288;1-13</td><td>分岐&#12288;「稲葉さんに相談」&#12288;1-12,<a href="#w"><b>白ウサギ編へ</b></a></td></tr>
+<tr><td><b>戦闘</b>&#12288;VSナメクジ大王<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「いやらしく」&#12288;1-15</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS白ウサギ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>
+「外だし」&#12288;1-16<br>
+「外だし」&#12288;2-01</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSクローバー<br>「戦闘結果を勝利でスキップする」</td><td><br>分岐&#12288;「戦闘結果を敗北でスキップする」&#12288;<a href="#c"><b>クローバー編へ</b></a></td></tr>
+<tr><td>「トドメを刺さない」</td><td>分岐&#12288;「説得する」&#12288;<a href="#d"><b>ダイヤ編へ</b></a></td></tr>
+<tr><td><b>戦闘</b>&#12288;VSイモムシ<br>「戦闘結果を勝利でスキップする」</td><td><br>分岐&#12288;「戦闘結果を敗北でスキップする」&#12288;<a href="#i"><b>イモムシ編へ</b></a></td></tr>
+<tr><td>「いやらしく」<br>「口射」&#12288;2-03</td><td><br>差分回収&#12288;「顔射」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSハンプティー<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「いやらしく」&#12288;2-05</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSダイヤ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「いやらしく」&#12288;2-07</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS帽子屋<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「いやらしく」&#12288;2-09</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS白ウサギ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSスペード<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSジョーカー<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「中出し」&#12288;2-12,リリカ BADEND 幸太編</td><td>差分回収&#12288;「外だし」</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla" colspan="2"><a name="c">クローバー編</a></th></tr>
+<tr><th>選択肢&#12288;回想</th><th>分岐・回収</th></tr>
+<tr></tr><tr></tr>
+<tr><td>3-07,3-08,3-09,3-10,3-11</td></tr>
+<tr><td>
+「このまま見届ける」&#12288;3-12,3-13,3-14,リリカ BADEND クローバー編</td><td>回収&#12288;「部屋を出る」&#12288;BADEND No.08</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla"><a name="w">白ウサギ編</a></th></tr>
+<tr><th>選択肢&#12288;回想</th></tr>
+<tr></tr><tr></tr>
+<tr><td><b>戦闘</b>&#12288;VSナメクジ大王<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」&#12288;1-14</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS白ウサギ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>
+「中出し」&#12288;1-16<br>
+「中出し」&#12288;2-01</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSクローバー<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>4-05,4-06,4-07,リリカ BADEND 白ウサギ編</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla" colspan="2"><a name="d">ダイヤ編</a></th></tr>
+<tr><th>選択肢&#12288;回想</th><th>分岐・回収</th></tr>
+<tr></tr><tr></tr>
+<tr><td><b>戦闘</b>&#12288;VSイモムシ<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」,「外だし」&#12288;2-02</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSハンプティー<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」,「外だし」&#12288;2-04</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSダイヤ<br>「戦闘結果を勝利でスキップする」</td><td><br>分岐&#12288;「戦闘結果を敗北でスキップする」&#12288;<a href="#s"><b>スペード編へ</b></a></td></tr>
+<tr><td>「優しく」,「顔射」&#12288;2-06</td></tr>
+<tr><td><b>戦闘</b>&#12288;VS帽子屋<br>「戦闘結果を勝利でスキップする」</td></tr>
+<tr><td>「優しく」,「外だし」&#12288;2-08</td></tr>
+<tr><td><b>戦闘</b>&#12288;VSスペード<br>「戦闘結果を敗北でスキップする」</td><td><br>回収&#12288;「戦闘結果を勝利でスキップする」&#12288;3-06,BADEND No.07</td></tr>
+<tr><td colspan="2">4-08,4-09,4-10,4-11,4-12,4-13,4-14,リリカ BADEND ダイヤ編</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla"><a name="i">イモムシ編</a></th></tr>
+<tr><th>選択肢&#12288;回想</th></tr>
+<tr></tr><tr></tr>
+<tr><td>3-15,3-16,4-01,4-02,4-03,4-04,リリカ BADEND イモムシ編</td></tr>
+</tbody></table><br>
+<table width="99%" cellspacing="0" cellpadding="4" bordercolor="#e3e3e3" border="1" bgcolor="#ffffff" style="border-collapse: collapse;">
+<tbody><tr><th class="bla" colspan="2"><a name="s">スペード編</a></th></tr>
+<tr><th>選択肢&#12288;回想</th><th>分岐・回収</th></tr>
+<tr></tr><tr></tr>
+<tr><td>4-15,4-16,5-01</td></tr>
+<tr>
+<td>「戦闘結果を勝利でスキップする」<br>5-02,5-03,5-04,5-05,5-06,リリカ BADEND スペード編</td>
+<td>分岐&#12288;「戦闘結果を敗北でスキップする」<br>5-07,5-08,5-09,5-10,リリカ BADEND ジョーカー編</td></tr>
+</tbody></table>
+              

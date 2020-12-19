@@ -1,0 +1,30 @@
+
+                <font color="#fa0000">◆SAVE 01</font>　留在家中
+<font color="#fa0000">◆SAVE 02</font>　去七海身边
+等会再和七海说　／　拜托岳母－＞只能直接当面去问了
+进入浴室
+接受誘惑
+
+<font color="#0000ff">　　七海 END</font>
+
+<font color="#fa0000">◆SAVE 02</font>　给岳母搭把手
+拜托岳母－＞过一阵子再说吧
+<font color="#fa0000">◆SAVE 03</font>　委婉地拒绝
+不受誘惑
+
+<font color="#0000ff">　　八重子 END</font>
+
+<font color="#fa0000">◆SAVE 03</font>　进入浴室
+接受誘惑
+
+<font color="#0000ff">　　八重子＆七海 END</font>
+
+<font color="#fa0000">◆SAVE 01</font>　一起散歩
+拜托岳母－＞找江美商量吧
+进入浴室－＞锁上浴室门
+不受誘惑
+開门之前出声问一下
+
+<font color="#0000ff">　　Normal END (有CG回収)</font>
+
+              

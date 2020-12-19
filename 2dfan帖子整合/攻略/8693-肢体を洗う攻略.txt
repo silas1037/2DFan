@@ -1,0 +1,785 @@
+
+                 ;
+
+<b>御堂悠紀ルート</b>
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１日目</td>
+			<td>【セーブ１】
+			ごねてもクビになるだけか…;…;</td>
+		</tr>
+		<tr>
+			<td>２日目</td>
+			<td>…;…;素直に謝ろう</td>
+		</tr>
+		<tr>
+			<td>３日目</td>
+			<td>【セーブ２】
+			さっさと洗って、早く終わらせてしまおう
+			助け舟を出す</td>
+		</tr>
+		<tr>
+			<td>４日目</td>
+			<td>ロビーで喧噪に身を委ねる
+			それでも交換してもらう
+			後を追ってみる</td>
+		</tr>
+		<tr>
+			<td>５日目</td>
+			<td>そのまま続ける
+			【セーブ３】
+			夜も仕事があるからだと言う
+			薬を飲む
+			たぶん空耳だろう</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			食欲がないので…;…;
+			御堂さんのことが気になる
+			それでも僕は信じたい…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>答える</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ３</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ３から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>５日目</td>
+			<td>余計な心配はかけたくない
+			薬を飲む
+			たぶん空耳だろう</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			食欲がないので…;…;
+			御堂さんのことが気になる
+			それでも僕は信じたい…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>答えない</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>こんなに目立ってたらマズくないか？</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>虎穴に入らずんば虎子を得ず
+			確かに心配だ
+			手分けして探そう</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>…;…;覚えておきます
+			【セーブ４】（２回使用）
+			自分の身を守ることだけを考えて</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>多少早いが、食事にしよう</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ５</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ４から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１０日目</td>
+			<td>何とかして院長の行方を…;…;</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>多少早いが、食事にしよう</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ４</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ４から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１０日目</td>
+			<td>絶対に動きを見せないで</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>【セーブ５】
+			多少早いが、食事にしよう</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ８</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ５から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１１日目</td>
+			<td>ロビーで時間を潰そう
+			もう少しここにいる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１０</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b>佐伯真魚ルート</b>
+ ;
+
+セーブ２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目</td>
+			<td>２体目に取りかかる前に、少し休もう
+			【セーブ６】
+			助け舟を出す</td>
+		</tr>
+		<tr>
+			<td>４日目</td>
+			<td>【セーブ７】
+			ロビーで喧噪に身を委ねる
+			仕事が終わってからでいい
+			見なかったことにする</td>
+		</tr>
+		<tr>
+			<td>５日目</td>
+			<td>先に目を閉じさせる
+			余計な心配はかけたくない
+			【セーブ８】
+			やっぱり気になる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ２</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ８から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>５日目</td>
+			<td>たぶん空耳だろう</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			食欲がないので…;…;
+			御堂さんのことが気になる
+			それでも僕は信じたい…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>答えない</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ７から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>４日目</td>
+			<td>食堂で食事する
+			【セーブ９】
+			僕なら安全だと思ったから？
+			仕事が終わってからでいい
+			後を追ってみる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ９から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>４日目</td>
+			<td>二人きりになりたかったから？
+			仕事が終わってからでいい
+			後を追ってみる</td>
+		</tr>
+		<tr>
+			<td>５日目</td>
+			<td>先に目を閉じさせる
+			【セーブ１０】
+			余計な心配はかけたくない
+			飲んだフリだけする
+			たぶん空耳だろう</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			【セーブ１１】
+			食欲がないので…;…;
+			御堂さんのことが気になる
+			それでも僕は信じたい…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>答える
+			このまま連絡を待つ</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>諦める</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>素直に謝る</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１３</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１１から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>６日目</td>
+			<td>ごちそうになります
+			約束はしたけど…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>誰かに聞いたんですか？
+			このまま連絡を待つ</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>さらにしつこく聞く</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>言い返す</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>素直に承諾する
+			明日になったら出て行く</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１６</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１０から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>５日目</td>
+			<td>夜も仕事があるからだと言う
+			薬を飲む
+			やっぱり気になる</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			好意はあります</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>良かったです</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>真魚には教えても構わないだろう…;…;</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>君子危うきに近寄らず
+			確かに心配だ
+			【セーブ１２】
+			手分けして探そう</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>…;…;覚えておきます
+			絶対に動きを見せないで</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>【セーブ１３】
+			ロビーで時間を潰そう
+			もう少しここにいる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ９</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１３から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１１日目</td>
+			<td>多少早いが、食事にしよう</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ７</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１２から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>９日目</td>
+			<td>一緒に探そうか？</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>いや、そんなことより…;…;
+			自分の身を守ることだけを考えて</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>ロビーで時間を潰そう
+			もう少しここにいる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ６</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b>真田美和子ルート</b>
+ ;
+
+セーブ６から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>３日目</td>
+			<td>静観する</td>
+		</tr>
+		<tr>
+			<td>４日目</td>
+			<td>ロビーで喧噪に身を委ねる
+			仕事が終わってからでいい
+			見なかったことにする</td>
+		</tr>
+		<tr>
+			<td>５日目</td>
+			<td>先に目を閉じさせる
+			余計な心配はかけたくない
+			たぶん空耳だろう</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>【セーブ１４】
+			鏑木さんを頼る
+			食欲がないので…;…;
+			今は一人になりたい
+			信じたいのは山々だけど…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>やっぱり、監視してるんじゃ…;…;</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>少し中庭で休んでいく</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>さっさと診察室を出る</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１２</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１４から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>６日目</td>
+			<td>自分でどうにかする
+			食欲がないので…;…;
+			今は一人になりたい
+			それでも僕は信じたい…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>答えない</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>少し中庭で休んでいく</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>君子危うきに近寄らず
+			後をつけてみる</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>分からないふりをする
+			声の主を探してみる</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>色気より食い気
+			聞きたくない
+			諦めて真田さんに謝りに行こう
+			事態解決のために努力する
+			鏑木さんに電話する
+			早く服を着よう</td>
+		</tr>
+		<tr>
+			<td>１２日目</td>
+			<td>今すぐ返そう
+			勉強する</td>
+		</tr>
+		<tr>
+			<td>１３日目</td>
+			<td>自分の部屋に誘ってみる</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１９</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b>狂気ルート</b>
+ ;
+
+セーブ１から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１日目</td>
+			<td>そんな仕事、できません</td>
+		</tr>
+		<tr>
+			<td>２日目</td>
+			<td>なんとかして誤魔化そう</td>
+		</tr>
+		<tr>
+			<td>３日目</td>
+			<td>さっさと洗って、早く終わらせてしまおう
+			静観する</td>
+		</tr>
+		<tr>
+			<td>４日目</td>
+			<td>食堂で食事する
+			それでも交換してもらう
+			後を追ってみる</td>
+		</tr>
+		<tr>
+			<td>５日目</td>
+			<td>先に目を閉じさせる
+			夜も仕事があるからだと言う
+			【セーブ１５】
+			飲んだフリだけする
+			やっぱり気になる</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			好意はあります</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>良かったです</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>少し中庭で休んでいく</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>副院長の様子を窺う</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>もう一度確認をしてから呼ぶ
+			毒を食らわば皿までだ</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１４</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１５から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>５日目</td>
+			<td>薬を飲む
+			やっぱり気になる</td>
+		</tr>
+		<tr>
+			<td>６日目</td>
+			<td>鏑木さんを頼る
+			【セーブ１６】
+			好意はあります</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>良かったです</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>少し中庭で休んでいく</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>副院長の様子を窺う</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>もう一度確認をしてから呼ぶ
+			毒を食らわば皿までだ</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１５</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１６から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>６日目</td>
+			<td>副院長や御堂さんの方が…;…;
+			約束はしたけど…;…;</td>
+		</tr>
+		<tr>
+			<td>７日目</td>
+			<td>…;…;分かりません
+			いったん部屋に戻る</td>
+		</tr>
+		<tr>
+			<td>８日目</td>
+			<td>さらにしつこく聞く</td>
+		</tr>
+		<tr>
+			<td>９日目</td>
+			<td>言い返す</td>
+		</tr>
+		<tr>
+			<td>１０日目</td>
+			<td>イヤイヤ承諾する
+			【セーブ１７】
+			明日になったら出て行く</td>
+		</tr>
+		<tr>
+			<td>１１日目</td>
+			<td>【セーブ１８】
+			今回は副院長を…;…;
+			好きなように使ってください</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１７</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１８から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１１日目</td>
+			<td>副院長ともヤリたいけど…;…;
+			こればかりはちょっと…;…;</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ１８</th>
+		</tr>
+	</tbody>
+</table>
+
+
+セーブ１７から
+ ;
+
+<table border="1" cellpadding="3" cellspacing="0">
+	<colgroup>
+		<col align="center" width="80" />
+		<col width="280" />
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>１０日目</td>
+			<td>本当のことを教える</td>
+		</tr>
+		<tr align="center">
+			<th colspan="2">ＥＮＤ２０</th>
+		</tr>
+	</tbody>
+</table>
+
+              

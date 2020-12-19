@@ -1,0 +1,226 @@
+
+                <h2 id="content_1_0">女の子モンスター</h2>
+
+<div class="ie5">
+<table border="0" cellspacing="1" class="style_table">
+	<thead>
+		<tr>
+			<th class="style_th">No.</th>
+			<th class="style_th">名称</th>
+			<th class="style_th">場所</th>
+			<th class="style_th">効果</th>
+			<th class="style_th">説明</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="style_td">001</td>
+			<td class="style_td">きゃんきゃん</td>
+			<td class="style_td">イカナーゴ周辺</td>
+			<td class="style_td">HP最大+50</td>
+			<td class="style_td">誰にでも遊びをねだってくる警戒心0の女の子モンスター。</td>
+		</tr>
+		<tr>
+			<td class="style_td">002</td>
+			<td class="style_td">89式チイ</td>
+			<td class="style_td">ヒナアラレ周辺</td>
+			<td class="style_td">攻撃力+10<br class="spacer" />
+			衝撃率+3</td>
+			<td class="style_td">弱いけど威勢だけは良く根性論で動く。</td>
+		</tr>
+		<tr>
+			<td class="style_td">003</td>
+			<td class="style_td">97式チハ</td>
+			<td class="style_td">カラーの森</td>
+			<td class="style_td">攻撃力+20<br class="spacer" />
+			衝撃率+5</td>
+			<td class="style_td">頭のにほん兵が砲撃を担当。紙装甲がチャームポイント。</td>
+		</tr>
+		<tr>
+			<td class="style_td">004</td>
+			<td class="style_td">3式チヌ</td>
+			<td class="style_td">ホワイト周辺</td>
+			<td class="style_td">攻撃力+30<br class="spacer" />
+			命中率+10</td>
+			<td class="style_td">箱入りのお嬢様。ヤスリが苦手。</td>
+		</tr>
+		<tr>
+			<td class="style_td">005</td>
+			<td class="style_td">とりたま</td>
+			<td class="style_td">火山の神殿周辺</td>
+			<td class="style_td">素早さ+3<br class="spacer" />
+			回避率+5</td>
+			<td class="style_td">空を飛べる珍しいタイプ。好き嫌いしないよいこ。</td>
+		</tr>
+		<tr>
+			<td class="style_td">006</td>
+			<td class="style_td">ちゃぷちゃぷ</td>
+			<td class="style_td">ポピンズの難民街周辺（マン湖周辺）</td>
+			<td class="style_td">魔抵率+10<br class="spacer" />
+			衝撃率+5</td>
+			<td class="style_td">水辺に棲む代表的な女の子M。何を考えているのかよくわからない陰の者。</td>
+		</tr>
+		<tr>
+			<td class="style_td">007</td>
+			<td class="style_td">かにちゃん</td>
+			<td class="style_td">ポピンズの難民街周辺（ヤシマ湿原周辺）</td>
+			<td class="style_td">防御力+20<br class="spacer" />
+			耐性率+10</td>
+			<td class="style_td">両手のはさみで攻撃してくる。恥ずかしがり屋でどんくさい。よく転ぶ。</td>
+		</tr>
+		<tr>
+			<td class="style_td">008</td>
+			<td class="style_td">うしうしバンバン</td>
+			<td class="style_td">ブラック周辺</td>
+			<td class="style_td">必殺率+5<br class="spacer" />
+			連撃率+5</td>
+			<td class="style_td">うし使いという女の子モンスターの上位種。うしパワーであほ元気。</td>
+		</tr>
+		<tr>
+			<td class="style_td">009</td>
+			<td class="style_td">クワイ＝ゲン</td>
+			<td class="style_td">ウツシヨ周辺</td>
+			<td class="style_td">経験率+3</td>
+			<td class="style_td">風の神様を自称しているが そこまで大きな力はない</td>
+		</tr>
+		<tr>
+			<td class="style_td">010</td>
+			<td class="style_td">金魚使い</td>
+			<td class="style_td">蔵握侯爵家領セイカントンネル</td>
+			<td class="style_td">HP最大+100<br class="spacer" />
+			連撃率+5</td>
+			<td class="style_td">育てた金魚を操って戦う いつも躾には苦労している</td>
+		</tr>
+		<tr>
+			<td class="style_td">011</td>
+			<td class="style_td">クラーケン</td>
+			<td class="style_td">蔵握領冬エリア</td>
+			<td class="style_td">攻撃力+50<br class="spacer" />
+			魔抵率+10</td>
+			<td class="style_td">股間の給水口がみっともなく いつもいじめられている すぐパニックになっちゃう</td>
+		</tr>
+		<tr>
+			<td class="style_td">012</td>
+			<td class="style_td">キャプテンバニラ</td>
+			<td class="style_td">外洋（船必須）</td>
+			<td class="style_td">衝撃率+10％<br class="spacer" />
+			耐性率+10％</td>
+			<td class="style_td">海に生きる リーダー気質の女の子M うなれ必殺まぐろアッパー！</td>
+		</tr>
+		<tr>
+			<td class="style_td">013</td>
+			<td class="style_td">しらたま</td>
+			<td class="style_td">シンラン周辺<br class="spacer" />
+			エス周辺</td>
+			<td class="style_td">雷ダメージ20％カット<br class="spacer" />
+			光ダメージ20％カット</td>
+			<td class="style_td">気性が荒く喧嘩っ早いが それは臆病の裏返し 警戒心も強い</td>
+		</tr>
+		<tr>
+			<td class="style_td">014</td>
+			<td class="style_td">サワー</td>
+			<td class="style_td">エス周辺<br class="spacer" />
+			ブッダ周辺</td>
+			<td class="style_td">氷ダメージ20％カット<br class="spacer" />
+			闇ダメージ20％カット</td>
+			<td class="style_td">さまざまな魔法が使える 万能型の魔法使い 人間社会にも溶け込んでいる</td>
+		</tr>
+		<tr>
+			<td class="style_td">015</td>
+			<td class="style_td">オクトパス</td>
+			<td class="style_td">宗教大陸(排水後)<br class="spacer" />
+			フィールドマップ最南西の島（百景No.092 クラゲビーチ）</td>
+			<td class="style_td">HP最大+200<br class="spacer" />
+			防御力+50</td>
+			<td class="style_td">キレやすい性格 真っ赤になって暴れるが暴れ終わると 素になって恥ずかしがる</td>
+		</tr>
+		<tr>
+			<td class="style_td">016</td>
+			<td class="style_td">キャプテンアボラ</td>
+			<td class="style_td">宗教大陸近海</td>
+			<td class="style_td">衝撃率+12％<br class="spacer" />
+			耐性率+12％</td>
+			<td class="style_td">キャプテンバニラの変異種 生真面目な女軍人 蹴り技が得意</td>
+		</tr>
+		<tr>
+			<td class="style_td">017</td>
+			<td class="style_td">ボンテージ増田</td>
+			<td class="style_td">ブルーサークル 井戸の洞窟内</td>
+			<td class="style_td">攻撃+80<br class="spacer" />
+			必殺率+10</td>
+			<td class="style_td">いじわるな性格の鞭使い 人間の女性を攫って 調教してしまう</td>
+		</tr>
+		<tr>
+			<td class="style_td">018</td>
+			<td class="style_td">フローズン</td>
+			<td class="style_td">国王直轄領北部</td>
+			<td class="style_td">魔法力+80<br class="spacer" />
+			炎ダメージ30％カット</td>
+			<td class="style_td">氷系の魔法を探る 雪山で男たちを誘惑し 精気を吸ってしまう</td>
+		</tr>
+		<tr>
+			<td class="style_td">019</td>
+			<td class="style_td">デス子</td>
+			<td class="style_td">グリーンスクエア周辺</td>
+			<td class="style_td">魔抵率+15<br class="spacer" />
+			経験率+6</td>
+			<td class="style_td">死を司り魂を刈り取る 恐ろしい女の子モンスター</td>
+		</tr>
+		<tr>
+			<td class="style_td">020</td>
+			<td class="style_td">おてて</td>
+			<td class="style_td">聖騎士神殿</td>
+			<td class="style_td">HP最大+300<br class="spacer" />
+			攻撃力+100</td>
+			<td class="style_td">その巨大な手は ビンタやデコピンでも 人が殺せる</td>
+		</tr>
+		<tr>
+			<td class="style_td">021</td>
+			<td class="style_td">くろねこまたまた</td>
+			<td class="style_td">在 タクワン镇 东北部坐气球(貌似要到三章末还是第四章才能用气球)飞上山顶，在山顶的湖边可随机遇到）</td>
+			<td class="style_td">素早さ+5<br class="spacer" />
+			回避率+10</td>
+			<td class="style_td">気ままな怠け者。やれば出来るのにやらない子。</td>
+		</tr>
+		<tr>
+			<td class="style_td">022</td>
+			<td class="style_td">雷太鼓</td>
+			<td class="style_td">廃棄迷宮の奥 魔王のダンジョン</td>
+			<td class="style_td">攻撃力+100<br class="spacer" />
+			魔法力+100</td>
+			<td class="style_td">クワイ=ゲンの上位種 高い戦闘力を持つ いなせな姉御肌</td>
+		</tr>
+		<tr>
+			<td class="style_td">023</td>
+			<td class="style_td">エンジェルナイト</td>
+			<td class="style_td">廃棄迷宮の奥 魔王のダンジョン</td>
+			<td class="style_td">防御力+80<br class="spacer" />
+			耐性率+15</td>
+			<td class="style_td">聖母イブの従者として 神話に現れる存在 のコスプレをしたモンスター</td>
+		</tr>
+		<tr>
+			<td class="style_td">024</td>
+			<td class="style_td">ソードマスター</td>
+			<td class="style_td">ハイライン侯爵領の南東離島</td>
+			<td class="style_td">必殺率+10<br class="spacer" />
+			連撃率+10</td>
+			<td class="style_td">剣の道を究めた恐るべき戦士 あらゆる剣技を使いこなし最強種に数えらえる女の子</td>
+		</tr>
+		<tr>
+			<td class="style_td">025</td>
+			<td class="style_td">桜花</td>
+			<td class="style_td">ハイライン侯爵領の南東離島</td>
+			<td class="style_td">攻撃力+150<br class="spacer" />
+			命中率+50</td>
+			<td class="style_td">神風というなの女の子Mの上位種たおやかな大和撫子だがどこか芋っぽい</td>
+		</tr>
+		<tr>
+			<td class="style_td">026</td>
+			<td class="style_td">幸福きゃんきゃん</td>
+			<td class="style_td">大地图随机出现</td>
+			<td class="style_td">経験率+20</td>
+			<td class="style_td">経験値を運んでくれる。出会えた人はとっても幸せ！捕まえた人はもっと幸せ！！</td>
+		</tr>
+	</tbody>
+</table>
+

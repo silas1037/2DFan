@@ -1,0 +1,488 @@
+
+                <b><font size="+1">音無南月</font></b>
+
+<b>最初から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香　「いえ、お気になさらず」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香　「悩みでもあるんですか？」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香　「随分とお忙しいようで…;」</td>
+			<td bgcolor="#ffffff">綾香場面１、２　動画１２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月　</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE１</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「押し留まる」</td>
+			<td bgcolor="#ffffff">南月場面１　動画２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff">南月場面２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff">南月場面３　動画３</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>南月その後…;</b></td>
+			<td bgcolor="#ffffff">南月場面４</td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE１から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「誘いに乗る」</td>
+			<td bgcolor="#ffffff">綾香場面１１　動画１２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff">綾香場面１２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：南月</td>
+			<td bgcolor="#ffffff">南月場面５</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ccccff">「ぶん殴る」（GAMEOVER）
+			→;「それも面白いか…;」</td>
+			<td bgcolor="#ffffff">南月場面６、動画１
+			→;南月場面７</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b><font size="+1">春日保奈美＆春日加代子</font></b>
+
+<b>最初から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美　「恋人に謝らずにすみますね」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美　「だったらやめなさい」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：加代子</td>
+			<td bgcolor="#ffffff">保奈美場面１１</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美　「うまくいってなによりです」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「泣いてしまいなさい」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE２</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「助けてやる」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「最後の夜、大切にお過しなさい」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「自分を信じることです」</td>
+			<td bgcolor="#ffffff">保奈美場面１　動画４</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面３　動画５</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面４</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面５</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>保奈美その後…;</b></td>
+			<td bgcolor="#ffffff">保奈美場面６　動画６</td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE２から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「放っておく」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「最後の夜、大切にお過しなさい」</td>
+			<td bgcolor="#ffffff">保奈美場面１２、７</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：加代子</td>
+			<td bgcolor="#ffffff">保奈美場面１３　動画７</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面８</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：保奈美</td>
+			<td bgcolor="#ffffff">保奈美場面９</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>春日家その後…;</b></td>
+			<td bgcolor="#ffffff">保奈美場面１０</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b><font size="+1">長谷川綾香</font></b>
+
+<b>最初から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香　「いえ、お気になさらず」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香　「悩みでもあるんですか？」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE３</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「随分とお忙しいようで…;」</td>
+			<td bgcolor="#ffffff">綾香場面１、２　動画１２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面３</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面４</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面５　動画１３</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>綾香その後…;</b></td>
+			<td bgcolor="#ffffff">綾香場面６　動画１４</td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE３から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「音無さん、失礼ですよ」</td>
+			<td bgcolor="#ffffff">綾香場面１、７</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面８</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面９</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：綾香</td>
+			<td bgcolor="#ffffff">綾香場面１０　動画１５</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ccccff" colspan="2"><b>GAME OVER</b></td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<b><font size="+1">紺野美恵＆紺野亜里沙</font></b>
+
+<b>最初から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵　「ご主人も心配してると思いますよ」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵　「亜里沙ちゃんにとっても…;」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面１</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵　「亜里沙ちゃんのためにも…;」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵　「どうしようもないことですよ」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE４</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE５</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「あなたのために」</td>
+			<td bgcolor="#ffffff">美恵場面１０</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffff00" colspan="2"><b>SAVE６</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「別にいいよ」</td>
+			<td bgcolor="#ffffff">美恵場面８</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff">美恵場面９　動画１１</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面１１</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面１２</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>紺野家その後…;</b></td>
+			<td bgcolor="#ffffff">美恵場面１３　動画１０</td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE４から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵　「あなたのために」</td>
+			<td bgcolor="#ffffff">美恵場面２</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面３　動画８</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">画像弐頁２０</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面４</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面５</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffcccc"><b>美恵その後…;</b></td>
+			<td bgcolor="#ffffff">美恵場面６　動画９</td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE５から</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「ご主人のために」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：美恵</td>
+			<td bgcolor="#ffffff">美恵場面７</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ccccff" colspan="2"><b>GAME OVER</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<b>SAVE６から（場面回想回収）</b>
+
+<table bgcolor="#666666" border="1">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#00ffff"><b>選択肢</b></td>
+			<td align="center" bgcolor="#00ffff"><b>画像・場面・動画</b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">「やなこった」</td>
+			<td bgcolor="#ffffff"> ;</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff">キャラクター選択：亜里沙</td>
+			<td bgcolor="#ffffff">美穂場面８</td>
+		</tr>
+	</tbody>
+</table>
+
+              

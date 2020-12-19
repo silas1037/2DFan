@@ -1,0 +1,48 @@
+
+                寻求帮助
+考虑名为Ein的少女的事情
+出声叫住她
+出声叫她
+询问她关于今天的事
+威力大的枪
+弹数多的枪
+COLT PYTHON 357 Magnum 4inch Model
+Ein/克劳蒂娅（回收CG）
+不知道
+COLT PYTHON 357 Magnum 4inch Model
+再想一想
+【SAVE1】
+逃跑
+
+END 逃跑者的安眠
+
+SAVE1开始
+
+开枪
+试着驾驶
+再试一次
+COLT PYTHON 357 Magnum 4inch Model
+能行
+【SAVE2】
+独自逃走
+
+END 无尽噩梦
+
+SAVE2开始
+
+无论如何也要救Ein
+【SAVE3】
+返回组织
+无视她
+COLT PYTHON 357 Magnum 4inch Model
+去克劳蒂娅的家
+阻止他
+MATEBA MODEL 2006M
+确认一下
+MATEBA MODEL 2006M
+任由事态发展
+
+END 梦的终焉
+
+
+              

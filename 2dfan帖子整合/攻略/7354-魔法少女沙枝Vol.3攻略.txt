@@ -1,0 +1,50 @@
+
+                <p abp="224">【攻略】　
+
+<table abp="237" border="1" width="450">
+	<tbody abp="238">
+		<tr abp="239">
+			<td abp="240" bgcolor="#ffdab4">ルート</td>
+		</tr>
+		<tr abp="241">
+			<td abp="242"><span abp="243" style="color: rgb(255, 0, 255);">【セーブ①】シーン回収</span><br abp="244" />
+			「翔子に連絡する」<br abp="245" />
+			<span abp="246" style="color: rgb(255, 0, 255);">【セーブ②】シーン回収</span><br abp="247" />
+			「翔子の名を呼ぶ」<br abp="248" />
+			<span abp="249" style="color: rgb(255, 0, 255);">【セーブ③】シーン回収</span><br abp="250" />
+			「エミットに注意を向ける」<br abp="251" />
+			～END～</td>
+		</tr>
+		<tr abp="253">
+			<td abp="254" bgcolor="#ffdab4">シーン回収</td>
+		</tr>
+		<tr abp="255">
+			<td abp="256">【セーブ①】から<br abp="257" />
+			「翔子に連絡しない」<br abp="258" />
+			～BADEND～
+			<hr abp="259" size="1" />【セーブ②】から<br abp="260" />
+			「亜久斗の名を呼ぶ」<br abp="261" />
+			～BADEND～
+			<hr abp="262" size="1" />【セーブ③】から<br abp="263" />
+			「トラップよ！　戦いに専念！」<br abp="264" />
+			<span abp="265" style="color: rgb(255, 0, 255);">【セーブ④】シーン回収</span><br abp="266" />
+			「何とか耐える」<br abp="267" />
+			「それでも耐える」<br abp="268" />
+			<span abp="269" style="color: rgb(255, 0, 255);">【セーブ⑤】シーン回収</span><br abp="270" />
+			「それでも何とか我慢！」<br abp="271" />
+			～BADEND～
+			<hr abp="272" size="1" />【セーブ⑤】から<br abp="273" />
+			「逆転のために芝居を打とう」<br abp="274" />
+			～BADEND～
+			<hr abp="275" size="1" />【セーブ④】から<br abp="276" />
+			「もうだめ…;…;陥落する」<br abp="277" />
+			<span abp="278" style="color: rgb(255, 0, 255);">【セーブ⑥】シーン回収</span><br abp="279" />
+			「誓う」<br abp="280" />
+			～BADEND～
+			<hr abp="281" size="1" />【セーブ⑥】から<br abp="282" />
+			「ためらう」<br abp="283" />
+			～BADEND～</td>
+		</tr>
+	</tbody>
+</table>
+              

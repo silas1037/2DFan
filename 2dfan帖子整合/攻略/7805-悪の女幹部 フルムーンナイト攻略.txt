@@ -1,0 +1,104 @@
+
+                <table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100.0%;" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<p align="center"><strong>■</strong><strong>追加回想シーン</strong>
+			主に前作からカットされたシーン。本編では使われてないが特定エンド後に回想に登録される。
+			つきみエンド後の、<strong>4-01</strong>,<strong>4-02</strong>
+			ルナルバースエンド後の、<strong>4-05</strong>,<strong>4-06</strong>,<strong>5-11</strong>
+			これらは一度回想モードで見ないとCGギャラリーには登録されない。
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center"><strong>■</strong><strong>差分CG</strong>
+			Hシーンの……場所選択はシーン回想、エンディング回想内で回収可能(選んでいない選択肢も含む)。
+			日焼け差分は見てない方も登録される。
+			日焼け差分と、どちらの弱点を使ったかのテキスト差分も、回想で選択できる。
+			
+			……場所選択のあるシーンは以下の通り(シーン回想6ページ目とエンディング回想2ページ目は割愛)
+
+			<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100.0%;" width="100%">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:100.0%;" width="100%">
+							<tbody>
+								<tr>
+									<td colspan="5">
+									<p align="center"><strong>シーン回想　1/6</strong>
+									</td>
+								</tr>
+								<tr>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center">1-03
+									</td>
+									<td>
+									<p align="center">1-04
+									</td>
+									<td>
+									<p align="center">1-05
+									</td>
+								</tr>
+								<tr>
+									<td>
+									<p align="center">1-06
+									</td>
+									<td>
+									<p align="center">1-07
+									</td>
+									<td>
+									<p align="center">1-08
+									</td>
+									<td>
+									<p align="center">1-09
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+								</tr>
+								<tr>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center">1-12
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center">1-14
+									</td>
+									<td>
+									<p align="center">1-15
+									</td>
+								</tr>
+								<tr>
+									<td>
+									<p align="center">1-16
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center">1-18
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+									<td>
+									<p align="center"> ;
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<div style="clear:both;"> ;

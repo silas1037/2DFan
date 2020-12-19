@@ -1,0 +1,13 @@
+
+                歌穂の演技を拒絶するsave001やっぱり言えない……save002それでも明日奈を信じてまつsave003それでも最後まで諦めない
+GOOD END
+Load save002歌穂に従う
+BAD END（1）
+Load save003諦めて眠る
+BAD END（2）
+母娘路线
+Load save001お母さんに打ち明けるsave004逃げない
+BAD END（3）
+Load save004逃げる
+BAD END（4）
+              

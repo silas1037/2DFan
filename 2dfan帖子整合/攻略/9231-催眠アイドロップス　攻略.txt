@@ -1,0 +1,22 @@
+
+                <font color="#fa0000">◆SAVE01</font>
+愛美さんに慰めてもらう
+<font color="#fa0000">◆SAVE02</font>
+華恋を誤魔化す
+<font color="#0000ff">　　END1(愛美)</font>
+
+<font color="#fa0000">◆SAVE01</font>开始
+華恋に償わせてやる
+<font color="#fa0000">◆SAVE03</font>
+愛美を誤魔化す
+<font color="#0000ff">　　END2(華恋)</font>
+
+<font color="#fa0000">◆SAVE02</font>开始
+華恋を巻き込む
+<font color="#0000ff">　　END3(愛美＆華恋)</font>
+
+<font color="#fa0000">◆SAVE03</font>开始
+愛美を巻き込む
+<font color="#0000ff">　　END4(愛美＆華恋)</font>
+
+              

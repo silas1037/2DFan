@@ -1,0 +1,182 @@
+
+                <table background="http://www5d.biglobe.ne.jp/~rodemass/images/bg.jpg" border="1" cellspacing="1" width="80%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#CCFFCC" colspan="3"><b><font color="#663300" size="2">選択肢</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">とりあえず、蹴飛ばす</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(1日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(2日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(3日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(4日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(5日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)と話す(6日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">水鈴(ミレイ)と話す(8日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+			<td align="center" bgcolor="#FFCCCC" rowspan="14" width="237"><b><font color="#663300" size="2">ケンコEND</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)と話す(9日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)と話す(10日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)と話す(11日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">怪しい行動は慎む</font></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#0000FF" colspan="2"><b><font color="#FFFFFF" size="2">《SAVE 1》</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">いや。やっぱ無理無理。帰って</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+		</tr>
+		<tr>
+			<td align="center" width="236"><font color="#663300" size="2">オヤジの妨害をする(16日目)</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">水鈴(ミレイ)を弄ぶ</font></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#FFCC66" width="236"><b><font color="#663300" size="2">水鈴寝取られEND</font></b></td>
+			<td align="center" bgcolor="#FFCCCC" width="237"><b><font color="#663300" size="2">水鈴END</font></b></td>
+		</tr>
+	</tbody>
+</table>
+
+　
+
+<table background="http://www5d.biglobe.ne.jp/~rodemass/images/bg.jpg" border="1" cellspacing="1" width="80%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#CCFFCC" colspan="3"><b><font color="#663300" size="2">選択肢</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#0000FF" colspan="3"><b><font color="#FFFFFF" size="2">《LOAD 1》</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">解決に、協力するよ</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="3"><font color="#663300" size="2">…;…;何かしたい</font></td>
+		</tr>
+		<tr>
+			<td align="center" width="236"><font color="#663300" size="2">ケンコと話す</font></td>
+			<td align="center" colspan="2"><font color="#663300" size="2">オヤジを邪魔する</font></td>
+		</tr>
+		<tr>
+			<td align="center" width="236"><font color="#663300" size="2">寝て過ごす(14日目)</font></td>
+			<td align="center" colspan="2"><font color="#663300" size="2">…;…;何かしたい</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">ケンコと話す</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">満月(ミツキ)と逢う(14日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">寝て過ごす(15日目)</font></td>
+			<td align="center" width="237"><font color="#663300" size="2">…;…;何かしたい</font></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#FFCC66" width="236"><b><font color="#663300" size="2">満月寝取られEND</font></b></td>
+			<td align="center" bgcolor="#FFCCCC" width="237"><b><font color="#663300" size="2">融合END</font></b></td>
+			<td align="center" bgcolor="#FFCCCC" width="237"><b><font color="#663300" size="2">満月END</font></b></td>
+		</tr>
+	</tbody>
+</table>
+
+　
+
+<table background="http://www5d.biglobe.ne.jp/~rodemass/images/bg.jpg" border="1" cellspacing="1" width="80%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#CCFFCC" colspan="2"><b><font color="#663300" size="2">選択肢</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#0000FF" colspan="2"><b><font color="#FFFFFF" size="2">《LOAD 1》</font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">じゃ、このままウチにいなよ</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">オヤジの妨害をする</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)とスる(14日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">水鈴(ミレイ)とスる(15日目)</font></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><font color="#663300" size="2">満月(ミツキ)をヤる</font></td>
+		</tr>
+		<tr>
+			<td align="center" width="355"><font color="#663300" size="2">オヤジの妨害をする</font></td>
+			<td align="center" width="355"><font color="#663300" size="2">満月(ミツキ)をヤる</font></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#FFCC66" width="355"><b><font color="#663300" size="2">水鈴＆満月寝取られEND</font></b></td>
+			<td align="center" bgcolor="#FFCCFF" width="355"><b><font color="#663300" size="2">水鈴＆満月END</font></b></td>
+		</tr>
+	</tbody>
+</table>
+
+              

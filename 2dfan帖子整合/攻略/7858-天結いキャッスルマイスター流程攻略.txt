@@ -1,0 +1,11 @@
+
+                <div class="well well-small">
+    <ul class="breadcrumb">
+        <li class="active">基础&战斗说明 <span class="divider">/</span></li>
+        <li><a href="http://www.2dfan.com/topics/7858/page/2">人物分析</a> <span class="divider">/</span></li>
+        <li><a href="http://www.2dfan.com/topics/7858/page/3">城砦效果</a> <span class="divider">/</span></li>
+        <li><a href="http://www.2dfan.com/topics/7858/page/4">章节攻略</a> <span class="divider">/</span></li>
+        <li><a href="http://www.2dfan.com/topics/7858/page/7">二周目内容</a> <span class="divider">/</span></li>
+        <li><a href="http://www.2dfan.com/topics/7858/page/8">BE流程</a> </li>
+    </ul>
+

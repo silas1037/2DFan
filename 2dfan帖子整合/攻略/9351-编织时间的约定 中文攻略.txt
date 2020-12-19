@@ -1,0 +1,51 @@
+
+                <head >
+<style>
+	html{overflow-x:hidden;background-color:#fff}blockquote,body,button,dd,dl,figure,h1,h2,h3,h4,h5,h6,input,p,pre{margin:0;-webkit-text-size-adjust:100%;-webkit-font-smoothing:subpixel-antialiased}*,:after,:before{box-sizing:border-box}.topic-content{position:relative;padding:35px;min-height:100px;border:none;background:#f6f6f6}h2{position:relative;display:inline-block;margin-left:-42px;padding:7px 11px 7px 32px;width:100%;border-color:#8aa9ae;border-radius:0 4px 4px 0;background-color:#59bee9;box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);color:#f8f8f8;font-size:16px;line-height:1;transition:all .3s;margin-top:5px;text-shadow:#9c9c9c 0 0 1px,#fffffb 0 0 1px,#fffffb 0 0 2px;margin-bottom:15px;font-weight:700}h2:after{position:absolute;top:100%;left:0;width:0;height:0;border-top:0 solid transparent;border-right-width:1em;border-right-style:solid;border-right-color:inherit;border-bottom:1em solid transparent;border-left:0 solid transparent;content:""}h2:hover{box-shadow:0 2px 2px 0 rgba(0,0,0,.2),0 3px 2px -2px rgba(0,0,0,.2),0 2px 6px 0 rgba(0,0,0,.2);transform:translateY(-1px)}.this_hr{margin:10px;border-top:4px double #a4d8fa;border-bottom:none;text-align:center}.this_hr:after{content:'\002665';display:inline-block;position:relative;top:-15px;padding:0 10px;background:#f6f6f6;color:#a4d8fa;font-size:18px}.this_content{font-weight:700;text-align:center;letter-spacing:4px;line-height:1.5rem}
+</style>
+</head>
+
+<p class="this_content">注：( )标注的选项，为了回收フローチャート (flow chart)或者CG，请自行选择。
+<strong><em>距离玩游戏有一段时间了，有的选项翻译可能不符合语境。</em></strong>
+
+
+<blockquote>其他3人攻略完毕后，才可攻略美咲路线。
+1周目也可直接进入，但是需要通过路线解锁选项进入。
+通过路线解锁进行时，选择【はい】（是）可进入路线。选择【いいえ】（否）的话，会返回标题画面。</blockquote>
+
+<hr class="this_hr" />
+<p class="this_content">※启动后自动开始序章
+下次再找机会吧（我想挺难的）
+话说你喜欢看漫画是吧（现在我还是专心去找藤重吧）
+看看心春排第几名（对心春的排名没兴趣）
+<hr class="this_hr" />
+<h2>水野 心春</h2>
+
+<p class="this_content">◆<strong>SAVE01</strong>
+去跟 水野 搭话
+心春 END
+
+<hr class="this_hr" />
+<h2>碓氷 穂乃香</h2>
+<p class="this_content"><strong>◆SAVE01开始</strong>
+去跟 碓氷前辈 搭话
+穂乃香 END
+
+<hr class="this_hr" />
+<h2>沢村 唯依</h2>
+<p class="this_content">◆<strong>SAVE01开始</strong>
+去跟 唯依酱 搭话
+读（不读）
+唯依 END
+
+<hr class="this_hr" />
+<h2>神宮 美咲</h2>
+<p class="this_content">※<strong>其他3人攻略后</strong>
+◆<strong>SAVE01开始</strong>
+回去工作
+★是
+把眼镜摘下来吧（戴着眼镜也不错啊）
+仔细看（随便看看）
+美咲 END
+
+              

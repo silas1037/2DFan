@@ -1,0 +1,42 @@
+
+                转<a data-href="http://seiya-saiga.com/game/bluegale/nazotoki.html" href="https://www.google.co.jp/url?sa=t&;rct=j&;q=&;esrc=s&;source=web&;cd=1&;ved=0ahUKEwjz4djypt7UAhXKfbwKHbepA9MQFggnMAA&;url=http%3A%2F%2Fseiya-saiga.com%2Fgame%2Fbluegale%2Fnazotoki.html&;usg=AFQjCNEeV55t2FUsh5D7Nyr0hDs6V10vlA" onmousedown="return rwt(this,'','','','1','AFQjCNEeV55t2FUsh5D7Nyr0hDs6V10vlA','','0ahUKEwjz4djypt7UAhXKfbwKHbepA9MQFggnMAA','','',event)">誠也の部屋</a>
+
+本身游戏盒子里就能找到答案
+
+●No.1　
+ヒント：<a href="http://seiya-saiga.com/game/bluegale/nazotoki_hint1.JPG">■五十音表</a>　
+答え：【<font color="#ffffff">おとめ</font>】
+
+●No.2　
+ヒント：<a href="http://seiya-saiga.com/game/bluegale/nazotoki_hint2.JPG">■方位</a>　北はN　
+答え：【<font color="#ffffff">ひつじ</font>】【<font color="#ffffff">さそり</font>】
+
+●No.3　
+ヒント：カードイラストの上下を<a href="http://seiya-saiga.com/game/bluegale/nazotoki_hint3.JPG">■英語比較</a>して
+1文字違う場所があるので
+下の違う場所6文字を左からローマ字読み
+答え：<font color="#ffffff">FUTAGO⇒;</font>【<font color="#ffffff">ふたご</font>】
+
+●No.4　
+ヒント：カードを元に<a href="http://seiya-saiga.com/game/bluegale/nazotoki_hint4.JPG">■１～９の数字を振り分けて</a>
+DISKの乙女座マークと星座表の乙女座マークを合わせて
+赤の数値の星座と青の数値の星座に該当する文字を読む。
+
+答え：【<font color="#ffffff">やぎ</font>】【<font color="#ffffff">かに</font>】
+
+●No.5　
+ヒント：DISKの乙女座マークと星座表の双子座を合わせて
+No.2とNo4のキーワードの星座の文字を順番に読む
+答え：【<font color="#ffffff">はんにんはわたし</font>】
+
+●No.6
+ヒント：DISKの乙女座マークと星座表のうお座を合わせて
+No.1:～No.3のヒント写真にある記号から
+星座表に対応した星座の文字を読む。
+4つめの記号は２種類あって
+どちらを選んで読んで入力するかでEND分岐
+DISKのレーベル面 or 4枚目のカードのNo表記と同じ記号
+答え：【<font color="#ffffff">あなたがすきです</font>】<font color="#0000ff">TRUE END</font>
+　　　【<font color="#ffffff">あなたがすきかも</font>】<font color="#0000ff">END2　</font>
+
+              

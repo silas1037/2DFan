@@ -1,0 +1,31 @@
+
+                注：因为全局Flag的关系，为了保证CG/回想100％回收，一定要按照下面攻略顺序进行攻略。游戏本身存在BUG，在打开动画的情况下，会导致CG差别无法回收，而关掉动画，则会导致「秘密の図書館」不能完全回收。不过这一问题只会影响到攻略中END14的部分。所以这部分请自行开关动画进行二次回收。
+END1
+save point 1ひかりのマンコを
+END2
+load point 1屋上で抱き合ってるのをあなただったらどんな気分になります？左腕だsave point 2襲うなら今だこれ見よがしに口の中へ含んだsave point 3ひかりの家に決まってる
+END3
+load point 3学校に決まってるその気持ち悪いオッパイを？save point 4いいよ嫌いだから
+END4
+load point 4いいよ、と言いつつ、行かないsave point 5嘘つきには鉄槌をsave point 6取れるよ
+END5
+load point 6取れないよ
+END6
+load point 5ひかりと話をするsave point 7一緒に行くわけない
+END7
+load point 7ひかりと一緒に行くsave point 8専守防衛save point 9もしかしてセックスしたいの？
+END8
+load point 9もしかして僕とセックスしたいの？
+END9
+load point 8目には目を、歯には歯をsave point 10どうして？
+END10
+load point 10僕も当事者なのに？
+END11
+load point 2やっぱりやめたsave point 11手に噛み付く
+END12
+load point 11振り払うのを続行新体操部室の窓谷でコスモスを摘み・・・山で矢車草を摘み・・・save point 12３７４５・・・
+END13
+load point 12４５３７・・・３７４５・・・save point 13せーじの妄想小説に書いてあった・・・
+END14
+load point 13バスの中で伊勢崎さんが言った・・・ 
+              

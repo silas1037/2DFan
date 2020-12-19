@@ -1,0 +1,31 @@
+
+                注：标记※号的选项为二周目才会出现的选项，初次游戏时无视即可。
+橘歩美/END１
+少しくらいなら、バレないよな……。貧乳が良い「むぅ……自力で帰る」save point 1やっぱめんどくさい…save point 2歩美ちゃんにお願いするでも、ちゃんと確認しておくか。save point 3歩美と留守番する※諭す
+橘歩美/END２
+load point 3歩美と留守番する見守る
+小島茜/END１
+load point 2雪乃にお願いする雪乃と会って、気疲れしちゃったのかな？まぁ、起きたのならいいか。save A茜と調子を合わせるsave point 4あくまで従兄妹同士だと強調する。save point 5茜と椿さんのことを第一に考える
+小島茜/END２
+load point 5叔父に話して理解を深める
+小島茜/END３
+load point 4茜の誤解を解くために話を進める。
+長谷川雪乃/END１
+load point 1雪乃を起こす雪乃にお願いする雪乃が苦手な訳じゃないよな？分からないでも、ちゃんと確認しておくか。save point 6雪乃の気持ちを察すると何も言えないsave point 7「行きません」save point 8まぁ、息抜き程度ならいいか。save point 9こうなりゃ思う存分やってやる！
+長谷川雪乃/END２
+load point 9ダメだ……雪乃を見世物にはできない。
+長谷川雪乃/END３
+load point 8やっぱやめた。真面目に勉強しよう。save point 10雪乃を抱く
+萩原今日子END
+load point 10雪乃の気持ちには応えられないsave point 11今日子を選ぶ
+３Ｐ
+load point 11雪乃を選ぶ
+緒川悠依
+load point 6言い返して悠依の見舞いに行く居てやる「行きません」
+ExtraScenario
+标题右上角选～ExtraScenario开始
+BAD
+load point 7「じゃあ今度」
+回收
+load A歩美ちゃんにお願いする
+              

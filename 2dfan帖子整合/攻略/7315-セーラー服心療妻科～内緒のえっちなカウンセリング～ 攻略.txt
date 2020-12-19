@@ -1,0 +1,622 @@
+
+                <p align="center"><font size="6">セーラー服心療妻科　攻略チャート</font>
+
+<p align="center">　
+
+<center>
+<table bgcolor="#FFFFFF" border="2" bordercolor="#000000" bordercolorlight="#000000" cellpadding="6">
+	<tbody>
+		<tr>
+			<td>
+			<p align="center"><font size="2"><strong>攻略というよりはただのイベント配置の一覧表です。</strong></font>
+
+			<p align="center"><font size="2"><strong>ほとんどの選択肢は……場所の選択だけですが、</strong></font>
+			<font color="#FF0000" size="2"><strong>回想モードの鑑賞ではＣＧの差分回収は出来ません。</strong></font>
+			<font size="2"><strong>柴崎鏡夏チャートで記録したセーブポイントを活用して、
+			ハーレム以外のキャラ別チャートを２周ずつまわってください。</strong></font>
+
+			<p align="center"><font size="2"><strong>なお、妊娠フラグなどは一切設定されていないので、
+			初回プレイでは「出す」か「かける」（選択肢の上か下）で、
+			どちらか一方に選択を絞ってプレイしておくと、
+			あとの回収がわかりやすくて楽になると思います。</strong></font>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<p align="center">　
+
+<center>
+<table bgcolor="#FFFFFF" border="2" bordercolor="#0080FF" bordercolorlight="#0080FF" cellpadding="6">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#C1E0FF" colspan="3"><font size="6">柴崎鏡夏チャート</font></td>
+		</tr>
+		<tr>
+			<td bgcolor="#0080FF">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>日付</strong></font>
+			</td>
+			<td bgcolor="#0080FF">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>イベントタイトル（回想登録）</strong></font>
+			</td>
+			<td bgcolor="#0080FF">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>選択肢</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">３　ｄａｙ
+			</td>
+			<td>
+			<p align="center">若妻のしてみたかったこと
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">４　ｄａｙ
+			</td>
+			<td>
+			<p align="center">母がしてもらいたかったこと
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">５　ｄａｙ
+			</td>
+			<td>
+			<p align="center">幼馴染みがしてみたかったこと
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFF80">
+			<p align="center">６　ｄａｙ
+			</td>
+			<td bgcolor="#FFFF80" colspan="2">
+			<p align="center"><font color="#FF0000" size="4"><strong>セーブポイント（キャラ選択画面でセーブ）</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">６　ｄａｙ
+			</td>
+			<td>
+			<p align="center">理想の恋人って？
+			</td>
+			<td>
+			<p align="center">柴崎鏡夏を選択
+
+			<p align="center">口に出す／顔にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">７　ｄａｙ
+			</td>
+			<td>
+			<p align="center">私を魅力的と思うなら…;…;
+			</td>
+			<td>
+			<p align="center">柴崎鏡夏を選択
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　１日目
+			</td>
+			<td>
+			<p align="center">受け止めて…;…;私の気持ち
+			</td>
+			<td>
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　２日目
+			</td>
+			<td>
+			<p align="center">体操着でエクササイズ
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　３日目
+			</td>
+			<td>
+			<p align="center">恋人みたいなこと、する？
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　４日目
+			</td>
+			<td>
+			<p align="center">先物買い、してみませんか？
+			</td>
+			<td>
+			<p align="center">口に出す／顔にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　５日目
+			</td>
+			<td>
+			<p align="center">裸エプロンは男のロマン！！
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">鏡夏ルート　６日目
+			</td>
+			<td>
+			<p align="center">こういうプレイ、好きでしょ？
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#0080FF">
+			<p align="center"><font color="#FFFFFF" size="5">鏡夏エンディング</font>
+			</td>
+			<td>
+			<p align="center">論文も忘れずに
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<p align="center">　
+
+<center>
+<table bgcolor="#FFFFFF" border="2" bordercolor="#808000" bordercolorlight="#808000" cellpadding="6">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#DADAB4" colspan="3"><font size="6">蓮城未来チャート</font></td>
+		</tr>
+		<tr>
+			<td bgcolor="#808000">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>日付</strong></font>
+			</td>
+			<td bgcolor="#808000">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>イベントタイトル（回想登録）</strong></font>
+			</td>
+			<td bgcolor="#808000">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>選択肢</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFF80">
+			<p align="center">６　ｄａｙ
+			</td>
+			<td bgcolor="#FFFF80" colspan="2">
+			<p align="center"><font color="#FF0000" size="4"><strong>セーブポイントをロード</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">６　ｄａｙ
+			</td>
+			<td>
+			<p align="center">父への嫉妬
+			</td>
+			<td>
+			<p align="center">蓮城未来を選択
+
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">口に出す／顔にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">７　ｄａｙ
+			</td>
+			<td>
+			<p align="center">ずっと一緒にいるよ
+			</td>
+			<td>
+			<p align="center">蓮城未来を選択
+
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　１日目
+			</td>
+			<td>
+			<p align="center">－
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　２日目
+			</td>
+			<td>
+			<p align="center">電車の中なのに
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　３日目
+			</td>
+			<td>
+			<p align="center">俺が支えて行く
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　４日目
+			</td>
+			<td>
+			<p align="center">母が嫉妬する時
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　５日目
+			</td>
+			<td>
+			<p align="center">深夜のスイミングスクール
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　６日目
+			</td>
+			<td>
+			<p align="center">たまにはイメクラっぽく
+			</td>
+			<td>
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">未来ルート　７日目
+			</td>
+			<td>
+			<p align="center">母のお尻は俺のモノ！
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#808000">
+			<p align="center"><font color="#FFFFFF" size="5">未来エンディング</font>
+			</td>
+			<td>
+			<p align="center">謎の作家の新生活
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<p align="center">　
+
+<center>
+<table bgcolor="#FFFFFF" border="2" bordercolor="#FF4D4D" bordercolorlight="#FF4D4D" cellpadding="6">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#FFD0D0" colspan="3"><font size="6">添田いずみチャート</font></td>
+		</tr>
+		<tr>
+			<td bgcolor="#FF4D4D">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>日付</strong></font>
+			</td>
+			<td bgcolor="#FF4D4D">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>イベントタイトル（回想登録）</strong></font>
+			</td>
+			<td bgcolor="#FF4D4D">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>選択肢</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFF80">
+			<p align="center">６　ｄａｙ
+			</td>
+			<td bgcolor="#FFFF80" colspan="2">
+			<p align="center"><font color="#FF0000" size="4"><strong>セーブポイントをロード</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">６　ｄａｙ
+			</td>
+			<td>
+			<p align="center">前のコーチの代わりに
+			</td>
+			<td>
+			<p align="center">添田いずみを選択
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">７　ｄａｙ
+			</td>
+			<td>
+			<p align="center">好きでしょ、このカッコ
+			</td>
+			<td>
+			<p align="center">添田いずみを選択
+
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　１日目
+			</td>
+			<td>
+			<p align="center">青春、追体験
+			</td>
+			<td>
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　２日目
+			</td>
+			<td>
+			<p align="center">デートらしいこと、しよ？
+			</td>
+			<td>
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　３日目
+			</td>
+			<td>
+			<p align="center">あの時のこと…;…;
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　４日目
+			</td>
+			<td>
+			<p align="center">釣り合う男になれるように
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　５日目
+			</td>
+			<td>
+			<p align="center">ネコ耳・やり過ぎ・悪ふざけ
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">いずみルート　６日目
+			</td>
+			<td>
+			<p align="center">ブルマはダメなんて偏見です
+			</td>
+			<td>
+			<p align="center">中に出す／体にかける
+
+			<p align="center">中に出す／体にかける
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FF4D4D">
+			<p align="center"><font color="#FFFFFF" size="5">いずみエンディング</font>
+			</td>
+			<td>
+			<p align="center">－
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<p align="center">　
+
+<center>
+<table bgcolor="#FFFFFF" border="2" bordercolor="#FF0080" bordercolorlight="#FF0080" cellpadding="6">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#FFDFEF" colspan="3"><font size="6">ハーレムチャート</font></td>
+		</tr>
+		<tr>
+			<td bgcolor="#FF0080">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>日付</strong></font>
+			</td>
+			<td bgcolor="#FF0080">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>イベントタイトル（回想登録）</strong></font>
+			</td>
+			<td bgcolor="#FF0080">
+			<p align="center"><font color="#FFFFFF" size="3"><strong>選択肢</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FFFF80">
+			<p align="center">６　ｄａｙ
+			</td>
+			<td bgcolor="#FFFF80" colspan="2">
+			<p align="center"><font color="#FF0000" size="4"><strong>セーブポイントをロード</strong></font>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">６　ｄａｙ
+			</td>
+			<td>
+			<p align="center">理想の恋人って？
+			</td>
+			<td>
+			<p align="center">柴崎鏡夏を選択
+
+			<p align="center">口に出す／顔にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">７　ｄａｙ
+			</td>
+			<td>
+			<p align="center">父への嫉妬
+			</td>
+			<td>
+			<p align="center">蓮城未来を選択
+
+			<p align="center">口に出す／顔にかける
+
+			<p align="center">口に出す／顔にかける
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">８　ｄａｙ
+			</td>
+			<td>
+			<p align="center">前のコーチの代わりに
+			</td>
+			<td>
+			<p align="center">添田いずみを選択
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">ハーレムルート　１日目
+			</td>
+			<td>
+			<p align="center">お風呂はみんなで
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">ハーレムルート　２日目
+			</td>
+			<td>
+			<p align="center">食事の前に
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">ハーレムルート　３日目
+			</td>
+			<td>
+			<p align="center">潮騒を聞きながら
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+		<tr>
+			<td bgcolor="#FF0080">
+			<p align="center"><font color="#FFFFFF" size="5">ハーレムエンディング</font>
+			</td>
+			<td>
+			<p align="center">－
+			</td>
+			<td>
+			<p align="center">　
+			　</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+              

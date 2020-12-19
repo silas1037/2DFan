@@ -1,0 +1,17 @@
+
+                深沢 清華
+母とする母とするSAVE１母とするSAVE２承諾する
+清華 END１
+SAVE１开始母としない
+清華 END２
+SAVE２开始拒否するSAVE３仕返しする
+清華 END３
+SAVE３开始放っておく
+清華 END４
+母としない母としない母としないSAVE４承諾する
+清華 END５
+芹沢 茜SAVE４开始拒否するSAVE５助ける
+茜 END１
+SAVE５开始助けない
+茜 END２
+              

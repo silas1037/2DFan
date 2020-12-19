@@ -1,0 +1,1158 @@
+
+                <h2 id="content_1_0">フィールド百景</h2>
+
+随着百景发现数的增加得到的道具类型如下：
+
+<ul class="list1" style="padding-left:16px;margin-left:16px">
+	<li>010個:鎖帷子</li>
+	<li>020個:完熟マンゴー</li>
+	<li>030個:アホ毛</li>
+	<li>040個:鋼鉄ベアー</li>
+	<li>050個:専属看護婦さん</li>
+	<li>060個:おんぶちゃん</li>
+	<li>070個:懐中時計</li>
+	<li>080個:ママみかん</li>
+	<li>090個:ゲーモッチ</li>
+	<li>100個:掛け軸</li>
+	<li>103個:防饅頭</li>
+</ul>
+
+<div class="ie5">
+<table border="0" cellspacing="1" class="style_table">
+	<thead>
+		<tr>
+			<th class="style_th" style="text-align:center;">No</th>
+			<th class="style_th" style="text-align:center;">名称</th>
+			<th class="style_th" style="text-align:center;">詳細</th>
+			<th class="style_th" style="text-align:center;">地域</th>
+			<th class="style_th">場所</th>
+			<th class="style_th">備考</th>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=2&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="style_td" style="text-align:center;">001</td>
+			<td class="style_td" style="text-align:center;">厳しい世界</td>
+			<td class="style_td" style="text-align:center;">ツクダニ付近<br class="spacer" />
+			キノコとタケノコの<br class="spacer" />
+			強烈な戦い</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">自宅から北東</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=3&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">002</td>
+			<td class="style_td" style="text-align:center;">のりまき岬</td>
+			<td class="style_td" style="text-align:center;">ツクダニ付近<br class="spacer" />
+			見下ろせば今日も元気に<br class="spacer" />
+			海苔巻きが泳いでいる</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">↑;のすぐ東</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=4&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">003</td>
+			<td class="style_td" style="text-align:center;">大目玉</td>
+			<td class="style_td" style="text-align:center;">イカナーゴ付近<br class="spacer" />
+			日々進化する<br class="spacer" />
+			鳥避けグッズ</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">ヒダリガエルの北東の畑</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=5&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">004</td>
+			<td class="style_td" style="text-align:center;">キャベージ畑</td>
+			<td class="style_td" style="text-align:center;">イカナーゴ付近<br class="spacer" />
+			人が入れるほど<br class="spacer" />
+			でかい野菜</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">イカナーゴのすぐ北</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=6&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">005</td>
+			<td class="style_td" style="text-align:center;">ヒダリガエル</td>
+			<td class="style_td" style="text-align:center;">イカナーゴ付近<br class="spacer" />
+			右のがヒダリガエル<br class="spacer" />
+			左にいるのはミギガエル</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">ツクダニとイカナーゴの間の池</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=7&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">006</td>
+			<td class="style_td" style="text-align:center;">人力エレベーター</td>
+			<td class="style_td" style="text-align:center;">イカナーゴ付近<br class="spacer" />
+			村唯一の名物<br class="spacer" />
+			老朽化が怖い</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">ツクダニのすぐ南</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=8&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">007</td>
+			<td class="style_td" style="text-align:center;">飛び込み石</td>
+			<td class="style_td" style="text-align:center;">ツクダニ付近<br class="spacer" />
+			景色に見とれる人々を<br class="spacer" />
+			驚かせる巧妙なトラップ</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">ツクダニ霊園</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=9&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">008</td>
+			<td class="style_td" style="text-align:center;">オーラの泉</td>
+			<td class="style_td" style="text-align:center;">タクワン付近<br class="spacer" />
+			効能は特にない</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワンから東の泉</td>
+			<td class="style_td">第1章BOSS撃破後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=10&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">009</td>
+			<td class="style_td" style="text-align:center;">Iピラミッド</td>
+			<td class="style_td" style="text-align:center;">タクワン左<br class="spacer" />
+			タクワン寄りだけど<br class="spacer" />
+			イカナーゴピラミッド</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワンから東に行ったところにあるピラミッド</td>
+			<td class="style_td">第1章BOSS撃破後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=11&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">010</td>
+			<td class="style_td" style="text-align:center;">水シメジ</td>
+			<td class="style_td" style="text-align:center;">タクワン付近<br class="spacer" />
+			香り松たけ子味水シメジ<br class="spacer" />
+			語呂が悪い…;…;</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワン北東</td>
+			<td class="style_td">第1章BOSS撃破後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=12&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">011</td>
+			<td class="style_td" style="text-align:center;">愛のメモリー</td>
+			<td class="style_td" style="text-align:center;">タクワン付近<br class="spacer" />
+			公共施設への落書きは<br class="spacer" />
+			やめましょう</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワン南のダム</td>
+			<td class="style_td">第1章BOSS撃破後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=13&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">012</td>
+			<td class="style_td" style="text-align:center;">ヒダリダム</td>
+			<td class="style_td" style="text-align:center;">タクワン付近<br class="spacer" />
+			見晴らしの良い崖から<br class="spacer" />
+			悠然とダムを見下ろした</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワン西</td>
+			<td class="style_td">第1章BOSS撃破後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=14&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">013</td>
+			<td class="style_td" style="text-align:center;">水車</td>
+			<td class="style_td" style="text-align:center;">ヒナアラレ付近<br class="spacer" />
+			風情を感じる<br class="spacer" />
+			モーター音がする</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">ヒナアラレ北東の水車</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=15&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">014</td>
+			<td class="style_td" style="text-align:center;">石キノコ</td>
+			<td class="style_td" style="text-align:center;">ヒナアラレ付近<br class="spacer" />
+			石ころのような姿をした<br class="spacer" />
+			珍しいキノコ</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワン南のダム付近(ヒナアラレ側)</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=16&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">015</td>
+			<td class="style_td" style="text-align:center;">大湧き水</td>
+			<td class="style_td" style="text-align:center;">レフトハンド北部<br class="spacer" />
+			レフトハンドの<br class="spacer" />
+			豊富な水量を物語る池</td>
+			<td class="style_td" style="text-align:center;">レフトハンド辺境伯領</td>
+			<td class="style_td">タクワン北</td>
+			<td class="style_td">第3章しゃぼん玉入手後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=17&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">016</td>
+			<td class="style_td" style="text-align:center;">砂浜</td>
+			<td class="style_td" style="text-align:center;">海の家付近<br class="spacer" />
+			ハイラインが誇る<br class="spacer" />
+			美しいリゾートビーチ</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">ハイラインビーチ</td>
+			<td class="style_td">緑化病治療後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=18&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">017</td>
+			<td class="style_td" style="text-align:center;">南国フルーツ</td>
+			<td class="style_td" style="text-align:center;">ハイライン東部<br class="spacer" />
+			目に楽しく舌に美味しい南国の恵みを楽しいんだ</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">東側</td>
+			<td class="style_td">緑化病治療後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=19&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">018</td>
+			<td class="style_td" style="text-align:center;">競うし場</td>
+			<td class="style_td" style="text-align:center;">ハイライン東部<br class="spacer" />
+			勝負の世界は常に過酷…;</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">公営競うし場</td>
+			<td class="style_td">緑化病治療後</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=20&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">019</td>
+			<td class="style_td" style="text-align:center;">玉もどき</td>
+			<td class="style_td" style="text-align:center;">ゴーリング場<br class="spacer" />
+			ゴーリングの玉に<br class="spacer" />
+			擬態したモンスター</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">ゴーリング場の池付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=21&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">020</td>
+			<td class="style_td" style="text-align:center;">ゴーリングの穴</td>
+			<td class="style_td" style="text-align:center;">ゴーリング場<br class="spacer" />
+			穴にはもぐらの親子が<br class="spacer" />
+			住んでいた</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">ゴーリング場東部</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=22&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">021</td>
+			<td class="style_td" style="text-align:center;">カラーの水浴び場</td>
+			<td class="style_td" style="text-align:center;">森の野営地付近<br class="spacer" />
+			カラーは綺麗好きらしい<br class="spacer" />
+			最高級の絶景スポットだ</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">森の野営地付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=23&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">022</td>
+			<td class="style_td" style="text-align:center;">地獄草</td>
+			<td class="style_td" style="text-align:center;">森の野営地付近<br class="spacer" />
+			みんなでチューチューと<br class="spacer" />
+			甘い蜜をすった</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラーの森</td>
+			<td class="style_td">墓地のそば</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=24&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">023</td>
+			<td class="style_td" style="text-align:center;">オウムの歓迎</td>
+			<td class="style_td" style="text-align:center;">森の野営地付近<br class="spacer" />
+			色とりどりのオウムが<br class="spacer" />
+			プラチナを歓迎した</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラーの森</td>
+			<td class="style_td">森の野営地の南辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=25&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">024</td>
+			<td class="style_td" style="text-align:center;">スコール</td>
+			<td class="style_td" style="text-align:center;">森の野営地付近<br class="spacer" />
+			突如降り、突如止む<br class="spacer" />
+			南国の雨を体験した</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラーの森</td>
+			<td class="style_td">認証装置手前</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=26&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">025</td>
+			<td class="style_td" style="text-align:center;">ホルス来航</td>
+			<td class="style_td" style="text-align:center;">カラーの里付近<br class="spacer" />
+			ホルスが初めて降りた地<br class="spacer" />
+			という設定の地</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">火山の神殿付近</td>
+			<td class="style_td">カラーの里の北東辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=27&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">026</td>
+			<td class="style_td" style="text-align:center;">雪解けハニー</td>
+			<td class="style_td" style="text-align:center;">ハイライン火山地帯<br class="spacer" />
+			氷漬けで越冬したハニー<br class="spacer" />
+			なぜ生きてる…;</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">火山の神殿付近</td>
+			<td class="style_td">中央部</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=28&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">027</td>
+			<td class="style_td" style="text-align:center;">火山トンビ</td>
+			<td class="style_td" style="text-align:center;">ハイライン火山地帯<br class="spacer" />
+			炎の矢も受け付けず<br class="spacer" />
+			お弁当をさらっていった</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラカウア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=29&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">028</td>
+			<td class="style_td" style="text-align:center;">ハニハニハ大王</td>
+			<td class="style_td" style="text-align:center;">カラカウア付近<br class="spacer" />
+			偉大なような、そうでも<br class="spacer" />
+			ないようなハニーの像</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラカウア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=30&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">029</td>
+			<td class="style_td" style="text-align:center;">コンラカンラの群れ</td>
+			<td class="style_td" style="text-align:center;">カラカウア付近<br class="spacer" />
+			旅の安全を象徴する<br class="spacer" />
+			縁起の良い渡り鳥</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラカウア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=31&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">030</td>
+			<td class="style_td" style="text-align:center;">火山ホタル</td>
+			<td class="style_td" style="text-align:center;">ハイライン火山地帯<br class="spacer" />
+			火山ホタルを見た恋人は<br class="spacer" />
+			幸せになれる</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">カラカウア付近</td>
+			<td class="style_td">火山の頂上</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=32&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">031</td>
+			<td class="style_td" style="text-align:center;">灼熱岩</td>
+			<td class="style_td" style="text-align:center;">ブラック周辺<br class="spacer" />
+			きわめて保温力の高い<br class="spacer" />
+			料理にも便利な石</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">ブラック周辺</td>
+			<td class="style_td">ブラックからパイプを挟んで東側。</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=33&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">032</td>
+			<td class="style_td" style="text-align:center;">ホワイトキャッスル</td>
+			<td class="style_td" style="text-align:center;">ホワイト付近<br class="spacer" />
+			豪華絢爛なお城<br class="spacer" />
+			とてもカッコいい</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ホワイト付近</td>
+			<td class="style_td">ホワイトの東辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=34&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">033</td>
+			<td class="style_td" style="text-align:center;">アジモフの魚</td>
+			<td class="style_td" style="text-align:center;">イエロー付近<br class="spacer" />
+			工業廃水で汚染された魚<br class="spacer" />
+			食べれません</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">イエロー付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=35&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">034</td>
+			<td class="style_td" style="text-align:center;">もぐら</td>
+			<td class="style_td" style="text-align:center;">ホワイト付近<br class="spacer" />
+			アジモフ定番の動物<br class="spacer" />
+			可愛いけど悪質な害獣</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ホワイト付近</td>
+			<td class="style_td">ホワイトの南西辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=36&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">035</td>
+			<td class="style_td" style="text-align:center;">不法投棄ゴミ</td>
+			<td class="style_td" style="text-align:center;">イエロー付近<br class="spacer" />
+			拾う者有りとて<br class="spacer" />
+			駄目、ポイ捨て</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">イエロー付近</td>
+			<td class="style_td">イエローの東辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=37&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">036</td>
+			<td class="style_td" style="text-align:center;">マン湖掃除</td>
+			<td class="style_td" style="text-align:center;">イエロー付近<br class="spacer" />
+			マン湖は常に美しく</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">イエローから西側</td>
+			<td class="style_td">第3章マン湖のマンゲ以降</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=38&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">037</td>
+			<td class="style_td" style="text-align:center;">アジモフカラス</td>
+			<td class="style_td" style="text-align:center;">アジモフ西部<br class="spacer" />
+			都会のカラスは<br class="spacer" />
+			たくましかった</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">マン湖西側</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=39&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">038</td>
+			<td class="style_td" style="text-align:center;">霧</td>
+			<td class="style_td" style="text-align:center;">ヤシマ<br class="spacer" />
+			ヤシマを一望する高地<br class="spacer" />
+			だが何も見えなかった</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ヤシマ</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=40&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">039</td>
+			<td class="style_td" style="text-align:center;">湿度100%</td>
+			<td class="style_td" style="text-align:center;">ヤシマ<br class="spacer" />
+			湿地帯の不愉指数は<br class="spacer" />
+			凄まじかった</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ヤシマ</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=41&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">040</td>
+			<td class="style_td" style="text-align:center;">熱中症</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			暑い所では<br class="spacer" />
+			こまめに水分を摂ろう</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=42&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">041</td>
+			<td class="style_td" style="text-align:center;">熱湯の海水</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			まさかの海水の水で<br class="spacer" />
+			火傷するとは…;…;</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=43&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">042</td>
+			<td class="style_td" style="text-align:center;">聖騎士の炎</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			吹き上げる炎が<br class="spacer" />
+			鍋すら灰にしてしまった</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=44&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">043</td>
+			<td class="style_td" style="text-align:center;">ピラミッドの落書き</td>
+			<td class="style_td" style="text-align:center;">ピラミッド付近<br class="spacer" />
+			歴史を感じさせない<br class="spacer" />
+			歴史的な落書き</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ピラミッド付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=45&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">044</td>
+			<td class="style_td" style="text-align:center;">砂風呂仙人</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			砂風呂を究めんとする<br class="spacer" />
+			不思議な老人と出会った</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td">ブラックからパイプを挟んで南</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=46&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">045</td>
+			<td class="style_td" style="text-align:center;">見下ろすホワイト</td>
+			<td class="style_td" style="text-align:center;">ホワイト付近<br class="spacer" />
+			パイプラインの上から<br class="spacer" />
+			ホワイトの街を一望した</td>
+			<td class="style_td" style="text-align:center;">アジモフ公爵家領</td>
+			<td class="style_td">ホワイト付近のパイプライン上</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=47&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">046</td>
+			<td class="style_td" style="text-align:center;">桜並木</td>
+			<td class="style_td" style="text-align:center;">ウツシヨ付近<br class="spacer" />
+			蔵握が誇る美しい花の道</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ウツシヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=48&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">047</td>
+			<td class="style_td" style="text-align:center;">春ゾーン</td>
+			<td class="style_td" style="text-align:center;">ウツシヨ付近<br class="spacer" />
+			うららかな地域<br class="spacer" />
+			皆でまどろんだ</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ウツシヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=49&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">048</td>
+			<td class="style_td" style="text-align:center;">釣り仙人</td>
+			<td class="style_td" style="text-align:center;">ジングウ付近<br class="spacer" />
+			釣り道を究めんとする<br class="spacer" />
+			謎の爺と出会った</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ジングウ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=50&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">049</td>
+			<td class="style_td" style="text-align:center;">夏ゾーン</td>
+			<td class="style_td" style="text-align:center;">ジングウ付近<br class="spacer" />
+			じっとりと暑い地域<br class="spacer" />
+			涼やかな心霊体験…;…;</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ジングウ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=51&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">050</td>
+			<td class="style_td" style="text-align:center;">秋ゾーン</td>
+			<td class="style_td" style="text-align:center;">カクリヨ付近<br class="spacer" />
+			燃える紅葉が<br class="spacer" />
+			四季の変化を感じさせる</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">カクリヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=52&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">051</td>
+			<td class="style_td" style="text-align:center;">大鳥居</td>
+			<td class="style_td" style="text-align:center;">カクリヨ付近<br class="spacer" />
+			雄大な鳥居は蔵握の<br class="spacer" />
+			歴史と予算を感じさせた</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">カクリヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=53&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">052</td>
+			<td class="style_td" style="text-align:center;">秋の味覚</td>
+			<td class="style_td" style="text-align:center;">カクリヨ付近<br class="spacer" />
+			食材が豊富といわれる<br class="spacer" />
+			蔵握の秋を味わった</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">カクリヨ南の鳥居付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=54&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">053</td>
+			<td class="style_td" style="text-align:center;">天国と地獄</td>
+			<td class="style_td" style="text-align:center;">カクリヨ付近<br class="spacer" />
+			地獄の名も今は昔<br class="spacer" />
+			今はのどかな場所</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">カクリヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=55&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">054</td>
+			<td class="style_td" style="text-align:center;">フジ山</td>
+			<td class="style_td" style="text-align:center;">カクリヨ付近<br class="spacer" />
+			今は裏が寂しいが<br class="spacer" />
+			人々に愛される名山</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">カクリヨ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=56&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">055</td>
+			<td class="style_td" style="text-align:center;">ぼたんの群れ</td>
+			<td class="style_td" style="text-align:center;">蔵握西部<br class="spacer" />
+			危うく潰されかけた<br class="spacer" />
+			野生生物の脅威</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">蔵握西部</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=57&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">056</td>
+			<td class="style_td" style="text-align:center;">ジングウ断崖</td>
+			<td class="style_td" style="text-align:center;">ジングウ付近<br class="spacer" />
+			にゃーにゃー鳴くのは<br class="spacer" />
+			海猫だ</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ジングウ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=58&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">057</td>
+			<td class="style_td" style="text-align:center;">冬ゾーン</td>
+			<td class="style_td" style="text-align:center;">セキシキ付近<br class="spacer" />
+			白銀の世界が美しい地域<br class="spacer" />
+			寒い</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">冬ゾーン入ってすぐの辺り。</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=59&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">058</td>
+			<td class="style_td" style="text-align:center;">ホワイトアウト</td>
+			<td class="style_td" style="text-align:center;">セキシキ付近<br class="spacer" />
+			視界が真っ白に覆われた<br class="spacer" />
+			※超危険です</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">セキシキ付近、雪中行軍花の近く</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=60&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">059</td>
+			<td class="style_td" style="text-align:center;">温泉</td>
+			<td class="style_td" style="text-align:center;">ヨミ付近<br class="spacer" />
+			混浴じゃなかった…;…;</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ヨミ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=61&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">060</td>
+			<td class="style_td" style="text-align:center;">鉱山の入り口</td>
+			<td class="style_td" style="text-align:center;">ヨミ付近<br class="spacer" />
+			何かワクワクする廃坑<br class="spacer" />
+			崩落の危険有り</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">ヨミ付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=62&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">061</td>
+			<td class="style_td" style="text-align:center;">釣り竿</td>
+			<td class="style_td" style="text-align:center;">賢者の庵付近<br class="spacer" />
+			釣り糸を垂らし<br class="spacer" />
+			思索に耽る</td>
+			<td class="style_td" style="text-align:center;">蔵握公爵家領</td>
+			<td class="style_td">賢者の庵付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=63&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">062</td>
+			<td class="style_td" style="text-align:center;">宗教大陸の旗</td>
+			<td class="style_td" style="text-align:center;">シンラン付近<br class="spacer" />
+			聖母イブに<br class="spacer" />
+			見てもらうための旗</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">シンラン付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=64&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">063</td>
+			<td class="style_td" style="text-align:center;">旧遺跡</td>
+			<td class="style_td" style="text-align:center;">シンラン付近<br class="spacer" />
+			宗教大陸の遺跡では<br class="spacer" />
+			ユラギが楽しそう</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">シンラン付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=65&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">064</td>
+			<td class="style_td" style="text-align:center;">ピクニック</td>
+			<td class="style_td" style="text-align:center;">シンラン付近<br class="spacer" />
+			虹とゴマプリンを眺めて<br class="spacer" />
+			昼食をとった</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">シンラン付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=66&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">065</td>
+			<td class="style_td" style="text-align:center;">うっぴー像</td>
+			<td class="style_td" style="text-align:center;">ハニーの集落付近<br class="spacer" />
+			睨み合ううっぴーの像<br class="spacer" />
+			恋のバトルの最中らしい</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">ハニーの集落付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=67&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">066</td>
+			<td class="style_td" style="text-align:center;">電波塔</td>
+			<td class="style_td" style="text-align:center;">ハニーの集落付近<br class="spacer" />
+			ハニーが建造した<br class="spacer" />
+			無用の長物</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">ハニーの集落付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=68&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">067</td>
+			<td class="style_td" style="text-align:center;">若返りの泉</td>
+			<td class="style_td" style="text-align:center;">エス付近<br class="spacer" />
+			食べ物が新鮮になる泉</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">エス付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=69&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">068</td>
+			<td class="style_td" style="text-align:center;">知恵の実</td>
+			<td class="style_td" style="text-align:center;">宗教大陸東部<br class="spacer" />
+			ぷにぷにな木の実<br class="spacer" />
+			いつまでも揉んでいられる</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">宗教大陸東部</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=70&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">069</td>
+			<td class="style_td" style="text-align:center;">カエル様</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			宗教大陸を何度も救った<br class="spacer" />
+			偉大なるカエル様の像</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">ブッダ周辺</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=71&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">070</td>
+			<td class="style_td" style="text-align:center;">大岩</td>
+			<td class="style_td" style="text-align:center;">ブッダ付近<br class="spacer" />
+			まっぷたつに割れて<br class="spacer" />
+			新たなる歴をを刻んだ大岩</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の海底、イベント中に割った岩の場所</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=72&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">071</td>
+			<td class="style_td" style="text-align:center;">隙間仙人</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			隙間道を究めんとする<br class="spacer" />
+			奇妙な爺さんと出会った</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の海底、ブッダから南東側</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=73&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">072</td>
+			<td class="style_td" style="text-align:center;">虹の下</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			世にも珍しい<br class="spacer" />
+			真下から見上げる虹</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の虹の橋</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=74&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">073</td>
+			<td class="style_td" style="text-align:center;">角くじら</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			くじらの中には<br class="spacer" />
+			人が住んでいた</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の角くじら</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=75&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">074</td>
+			<td class="style_td" style="text-align:center;">巨大門</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			廃棄迷宮を塞ぐ門<br class="spacer" />
+			正面から見るとすごい圧力</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の海底北側の門</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=76&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">075</td>
+			<td class="style_td" style="text-align:center;">海底都市</td>
+			<td class="style_td" style="text-align:center;">ブッダ周辺<br class="spacer" />
+			はるか昔<br class="spacer" />
+			海の沈んだ都市の遺跡</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の海底北東側</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=77&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">076</td>
+			<td class="style_td" style="text-align:center;">魚の群れ</td>
+			<td class="style_td" style="text-align:center;">戦士の丘周辺<br class="spacer" />
+			排水から逃れたトビウオ<br class="spacer" />
+			美味しくいただきました</td>
+			<td class="style_td" style="text-align:center;">宗教大陸</td>
+			<td class="style_td">排水後の海底の戦士の丘周辺</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=78&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">077</td>
+			<td class="style_td" style="text-align:center;">王魚</td>
+			<td class="style_td" style="text-align:center;">レッドクロス付近<br class="spacer" />
+			美しい金色の鱗を持つ王領の象徴的なお魚</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">レッドクロス付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=79&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">078</td>
+			<td class="style_td" style="text-align:center;">井戸の水</td>
+			<td class="style_td" style="text-align:center;">ブルーサークル付近<br class="spacer" />
+			遊泳場としても<br class="spacer" />
+			親しまれている井戸の水</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">ブルーサークル付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=80&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">079</td>
+			<td class="style_td" style="text-align:center;">謎のボタン</td>
+			<td class="style_td" style="text-align:center;">ブルーサークル付近<br class="spacer" />
+			なぜかぽつりとあった<br class="spacer" />
+			何かのボタンスイッチ</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">ブルーサークル付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=81&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">080</td>
+			<td class="style_td" style="text-align:center;">飛び込み台</td>
+			<td class="style_td" style="text-align:center;">ブルーサークル付近<br class="spacer" />
+			聖母イブが飛び込みを<br class="spacer" />
+			エンジョイしたらしい</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">ブルーサークル付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=82&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">081</td>
+			<td class="style_td" style="text-align:center;">トキドキ</td>
+			<td class="style_td" style="text-align:center;">ブルーサークル付近<br class="spacer" />
+			乱獲されて数が減り<br class="spacer" />
+			時々しか見られない鳥</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">ブルーサークル付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=83&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">082</td>
+			<td class="style_td" style="text-align:center;">ラブホテル</td>
+			<td class="style_td" style="text-align:center;">グリーンスクエア付近<br class="spacer" />
+			フリータイムと宿泊は<br class="spacer" />
+			時間帯とかが違う</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">グリーンスクエア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=84&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">083</td>
+			<td class="style_td" style="text-align:center;">ロック仙人</td>
+			<td class="style_td" style="text-align:center;">グリーンスクエア付近<br class="spacer" />
+			ロックに命を懸ける<br class="spacer" />
+			ワイルドな爺と出会った</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">グリーンスクエア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=85&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">084</td>
+			<td class="style_td" style="text-align:center;">越後屋別館</td>
+			<td class="style_td" style="text-align:center;">グリーンスクエア付近<br class="spacer" />
+			例の館</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">グリーンスクエア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=86&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">085</td>
+			<td class="style_td" style="text-align:center;">聖騎士の果実</td>
+			<td class="style_td" style="text-align:center;">グリーンスクエア付近<br class="spacer" />
+			聖騎士の好物らしい<br class="spacer" />
+			あまりピンとこない味だ</td>
+			<td class="style_td" style="text-align:center;">国王直轄領</td>
+			<td class="style_td">グリーンスクエア付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=87&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">086</td>
+			<td class="style_td" style="text-align:center;">ホルスの落書き</td>
+			<td class="style_td" style="text-align:center;">ホルスの宇宙船付近<br class="spacer" />
+			ギガ子ちゃんの<br class="spacer" />
+			おっぱい大きい</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">ホルスの宇宙船付近</td>
+			<td class="style_td"> ;</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=88&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">087</td>
+			<td class="style_td" style="text-align:center;">百合カラー</td>
+			<td class="style_td" style="text-align:center;">ハイライン西端<br class="spacer" />
+			カラーとカラーの<br class="spacer" />
+			許されざる逢瀬の場</td>
+			<td class="style_td" style="text-align:center;">ハイライン公爵家領</td>
+			<td class="style_td">ハイライン西端</td>
+			<td class="style_td">ハイライン領南側の海から上陸した場所</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=89&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">088</td>
+			<td class="style_td" style="text-align:center;">ハニーの店</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			特に買うべきものもない<br class="spacer" />
+			ハニーのお店ごっこ</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">イエロー付近</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=90&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">089</td>
+			<td class="style_td" style="text-align:center;">街角アート</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			こんな場所にどうやって<br class="spacer" />
+			落書きしたんだろう</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td">ブラック東の海</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=91&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">090</td>
+			<td class="style_td" style="text-align:center;">魔王のカップ</td>
+			<td class="style_td" style="text-align:center;">ブラック付近<br class="spacer" />
+			大きなコップ<br class="spacer" />
+			の取っ手のような岩</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">ブラック付近</td>
+			<td class="style_td">ブラック南の海</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=92&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">091</td>
+			<td class="style_td" style="text-align:center;">還元水</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			戻ってきたから還元水<br class="spacer" />
+			水素がどうとかではない</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">オクトキングがいる土管地帯右</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=93&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">092</td>
+			<td class="style_td" style="text-align:center;">クラゲビーチ</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			世界の果てにある<br class="spacer" />
+			最高級のピーチ</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">南西の端</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=94&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">093</td>
+			<td class="style_td" style="text-align:center;">さんま</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			海をたゆたう巨大なサカナ<br class="spacer" />
+			こんがりと香ばしい</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">ブラック南東</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=95&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">094</td>
+			<td class="style_td" style="text-align:center;">無人島</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			忘れ去られた男の思いを<br class="spacer" />
+			30年越しに受け取った</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">ヤシマの隠れ里西</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=96&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">095</td>
+			<td class="style_td" style="text-align:center;">世界のへそ</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			どこに通じているのか<br class="spacer" />
+			誰にも分らない謎の穴</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">カクリヨ北</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=97&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">096</td>
+			<td class="style_td" style="text-align:center;">海の裏側</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			滝のように落ちる海を<br class="spacer" />
+			裏側から眺めた</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">レッドクロス南</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=98&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">097</td>
+			<td class="style_td" style="text-align:center;">巨大真珠</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			真珠と嫁の心の美しさに<br class="spacer" />
+			心が洗われた</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">レッドクロス南</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=99&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">098</td>
+			<td class="style_td" style="text-align:center;">軍艦巻き</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			本日ネタ新鮮ナレドモ<br class="spacer" />
+			シャリハ無シ</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">巨大真珠の下辺り</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=100&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">099</td>
+			<td class="style_td" style="text-align:center;">青い巨人</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			海にたたずむ謎の巨人を<br class="spacer" />
+			間近かで見ることができた</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">セキシキの北東沖</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=101&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">100</td>
+			<td class="style_td" style="text-align:center;">広い背中</td>
+			<td class="style_td" style="text-align:center;">エス付近<br class="spacer" />
+			堤防となった角くじらを<br class="spacer" />
+			背中から眺めた</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">海側角くじら裏側</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=102&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">101</td>
+			<td class="style_td" style="text-align:center;">福井県</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			眼鏡好きが祈りをささげる<br class="spacer" />
+			眼鏡好きの聖地</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">ハニーの集落北部海域，魔王的右足西面还是西南面，总之仔细找找就能找到。</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=103&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">102</td>
+			<td class="style_td" style="text-align:center;">漂流海</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			　<br class="spacer" />
+			　　　　…;海</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">百景103的旁边</td>
+			<td class="style_td"><a href="https://wikiwiki7-r.net/Evenicle2/index.php?plugin=table_edit2&;refer=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF&;edit_mod=show&;table_num=1&;table_sub_num=&;line_count=104&;cell_count="><img alt="" height="9" src="file:///D:/ISO/ALICE%20SOFT/%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB2/%E6%94%BB%E7%95%A5%E7%9B%B8%E5%85%B3/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E7%99%BE%E6%99%AF_files/paraedit_002.png" title="edit" width="9" /></a></td>
+		</tr>
+		<tr>
+			<td class="style_td" style="text-align:center;">103</td>
+			<td class="style_td" style="text-align:center;">隠しボーナス</td>
+			<td class="style_td" style="text-align:center;">海<br class="spacer" />
+			100万点もらった</td>
+			<td class="style_td" style="text-align:center;"> ;</td>
+			<td class="style_td">海</td>
+			<td class="style_td">右上角</td>
+		</tr>
+	</tbody>
+</table>
+

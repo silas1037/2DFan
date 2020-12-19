@@ -1,0 +1,23 @@
+
+                ※对应汉化补丁的翻译
+
+同情／幸灾乐祸
+<font color="#fa0000">◆SAVE 01</font>　觉得无所谓
+
+<font color="#0000ff">　　BADEND 01</font>
+
+<font color="#fa0000">◆SAVE 01</font>　生气
+<font color="#fa0000">◆SAVE 02</font>　你应该很恨你的母親吧
+指使她偷别人的手机，好让她失去信用
+
+<font color="#0000ff">　　BADEND 02</font>
+
+<font color="#fa0000">◆SAVE 02</font>　没想到，我对上坂很有兴趣呢
+<font color="#fa0000">◆SAVE 03</font>　指使她偷别人的手机，好让她失去信用
+
+<font color="#0000ff">　　上坂END</font>
+
+【※以上全部END後，回收分支剧情】
+<font color="#fa0000">◆SAVE 03</font>　指使她装好人，好让她觉得羞耻
+
+              

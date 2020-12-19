@@ -1,0 +1,371 @@
+
+                <ol>
+	<li><b>全てのエンディング（ＢＡＤＥＮＤも含む）を見ること（但し、遼子純愛エンドは沙由香純愛ノーマルエンドとＣＧは同じなので、見る必要はない）。</b></li>
+	<li><b>全ての調教メニューを実行すること。</b></li>
+	<li><b>ダイラストの怪人（フラスト系＋フーナイト）に２回ずつ負けること。</b></li>
+	<li><b>上記チャート内の<font color="#0000FF">青字</font>の箇所でもう一方の選択肢を選ぶこと。</b></li>
+	<li><b>イガロに負けること。</b></li>
+</ol>
+
+ ;
+
+<table background="http://www5d.biglobe.ne.jp/~rodemass/images/bg.jpg" border="1" cellspacing="1" id="AutoNumber2" width="90%">
+	<caption><b>【<a name="沙由香純愛トゥルーエンド">沙由香純愛トゥルーエンド</a>】</b></caption>
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#CCFFFF" width="8%"><font size="2"><b>日付</b></font></td>
+			<td align="center" bgcolor="#CCFFFF" width="42%"><font size="2"><b>行動</b></font></td>
+			<td align="center" bgcolor="#CCFFFF" width="8%"><font size="2"><b>日付</b></font></td>
+			<td align="center" bgcolor="#CCFFFF" width="42%"><font size="2"><b>行動</b></font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>7/29</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「部屋においでよＬｖ１」
+			「サイコロ数：１個」
+			「中に出す」
+			「閂市街：フーマンと戦う」
+			「いいぜ」
+			「どきどきＨ」
+			「部屋においでよＬｖ２」
+			「サイコロ数：１個」
+			「中に出す」
+			「オレは彼氏じゃなかったから」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/16</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「卑怯者め」
+			「出撃中止」
+			「出撃しない」
+			「どきどきＨ」
+			「浜辺でヌルヌルＬｖ２」
+			「サイコロ数：２個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>7/30</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「索敵」
+			「食べるな、水を飲め」
+			「半田医院：ドクターフラストと戦う」→;<font color="#FF0000">敗北</font>
+			「どきどきＨ」
+			「部屋においでよＬｖ３」
+			「サイコロ数：１個」
+			｢中に出す｣</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/17</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「浜辺でヌルヌルＬｖ３」
+			「サイコロ数：２個」
+			「閂市街：ミストレーヌと戦う」
+			「どきどきＨ」
+			「ヒミツの朗読会Ｌｖ３」
+			「サイコロ数：１個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>7/31</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「強化」
+			「シールド＋５、攻撃力＋７、防御力＋５、反応力＋９」
+			｢パワードゲインＬＶ１｣
+			「閂市街：フーマンと戦う」
+			「どきどきＨ」
+			「お店の人気者Ｌｖ１」
+			「サイコロ数：２個」
+			「良かった」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/18</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「エロゲー」
+			「顔を見て友達になる方がいい」
+			｢千羽公園：フーマンと戦う」
+			「情報」
+			「エロゲー」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/1</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「半分こしようぜ」
+			「半田医院：ドクターフラストと戦う」→;<font color="#FF0000">敗北</font>
+			「どきどきＨ」
+			「魅惑のブルマＬｖ１」
+			「サイコロ数２個」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/19</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報｣
+			｢エロゲー｣
+			「閂市街：エスカレイヤー？と戦う」
+			「休憩」
+			「断る」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/2</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「魅惑のブルマＬｖ２」
+			「サイコロ数：２個」
+			「成長期だもんな、いたしかたない」
+			「出撃中止」
+			「出撃しない」
+			「強化」
+			「シールド＋５、攻撃力＋６、防御力＋５、反応力＋６」
+			「そうかもな」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/20</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「痴女しちゃうぞＬｖ１」
+			「サイコロ数：３個」
+			「オレは旦那さま」
+			「出撃中止」
+			「出撃しない」
+			「強化」
+			「攻撃力＋５、防御力＋５、反応力＋１５」
+			「リレーションパルサー」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/3</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「お店の人気者Ｌｖ２」
+			「サイコロ数：１個」
+			「オレも信じる」
+			「半田医院：ドクターフラストと戦う」
+			「休憩」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/21</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「特訓でハッスルＬｖ１」
+			「サイコロ数：３個」
+			「閂市街：ＦＭ７７と戦う」
+			「どきどきＨ」
+			「痴女しちゃうぞＬｖ２」
+			「サイコロ数：２個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/4</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「お店の人気者Ｌｖ３」
+			「サイコロ数：１個」
+			「トウバンジャン」
+			「電車：レールフラストと戦う」
+			「どきどきＨ」
+			「魅惑のブルマＬｖ３」
+			「サイコロ数：１個」
+			「遠慮する」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/22</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「奉仕活動」
+			「閂市街：イガロと戦う」
+			「どきどきＨ」
+			「痴女しちゃうぞＬｖ３」
+			「サイコロ数：３個」
+			「中に出す」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/5</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「三人でドキドキＬｖ１」
+			「サイコロ数：１個」
+			「オレは旦那さま」
+			「三棒会館：ウェーブフラストと戦う」→;<font color="#FF0000">敗北</font>
+			「強化」
+			「シールド＋５、攻撃力＋１１、防御力＋５、反応力＋５」
+			｢パワードゲインＬＶ２｣</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/23</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「確かにそうかも」
+			「喫茶店：ドリンクフラストと戦う」
+			「どきどきＨ」
+			「自室でイメクラＬｖ１」
+			「サイコロ数：３個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/6</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「ホテルであわアワＬｖ１」
+			「サイコロ数：１個」
+			「同感だ、なんとかしたい」
+			「三棒会館：ウェーブフラストと戦う」
+			「どきどきＨ」
+			「三人でドキドキＬｖ２」
+			「サイコロ数：１個」
+			「沙由香の中に出す」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/24</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「自室でイメクラＬｖ２」
+			「サイコロ数：３個」
+			「口に出す」
+			「中に出す」
+			「ハンバーグ」
+			「綺羅浜海岸：レッドフーマンと戦う」
+			「どきどきＨ」
+			「特訓でハッスルＬｖ２」
+			「サイコロ数：３個」
+			「中に出す」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/7</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「エロゲー」
+			「男が寄ってくるからやめとけ」
+			「お前のことなんか忘れてるよ」
+			「閂市街：ルーイと戦う」
+			「Ｈさせない」
+			「どきどきＨ」
+			「男のユメＬｖ１」
+			「サイコロ数：１個」
+			「中に出す」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/25</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「もっと良く嗅ぐ」
+			「綺羅浜海岸：レッドフーマンと戦う」
+			「情報」
+			「索敵」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/8</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「オレもお嫁さん」
+			「出撃中止」
+			「出撃しない」
+			「どきどきＨ」
+			「ホテルであわアワＬｖ２」
+			「サイコロ数：１個」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/26</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「自室でイメクラＬｖ３」
+			「サイコロ数：２個」
+			「中に出す」
+			「オレがしてやろうか？」
+			「閂市街：テイマーフラストと戦う」→;<font color="#FF0000">敗北</font>
+			「強化」
+			「シールド＋５、攻撃力＋７、防御力＋５、反応力＋５」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/9</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「索敵」
+			「寒いぞ･･･」
+			「金山神社：ジシャフラストと戦う｣→;<font color="#FF0000">敗北</font>
+			「どきどきＨ」
+			「男のユメＬｖ２」
+			「サイコロ数：１個」
+			「中に出す」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/27</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「特訓でハッスルＬｖ３」
+			「サイコロ数：２個」
+			｢中に出す｣
+			「Hをしないからだ」
+			「千羽公園：サイエンフラストと戦う」
+			「どきどきＨ」
+			「名コーチ沙由香Ｌｖ１」
+			「サイコロ数：３個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/10</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「強化」
+			「シールド＋５、攻撃力＋１１、防御力＋５、反応力＋５」
+			「わかるわかる」
+			「卑怯者め」
+			「金山神社：ジシャフラストと戦う｣
+			「どきどきＨ」
+			「男のユメＬｖ３」
+			「サイコロ数：１個」
+			｢中に出す」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/28</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「強化」
+			「シールド＋３、攻撃力＋５、防御力＋５」
+			「サボテンには心があるんだろ？」
+			「閂市街：テイマーフラストと戦う」
+			「休憩」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/11</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「三人でドキドキＬｖ３」
+			「サイコロ数：１個」
+			「沙由香の中に出す」
+			「で、謝礼はいかほど？」
+			「閂市街：イガロと戦う｣
+			「情報」
+			「エロゲー」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/29</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「名コーチ沙由香Ｌｖ２」
+			「サイコロ数：３個」
+			「中に出す」
+			「熟読しているのか？」
+			「繁華街：レッドフーマンと戦う」
+			「どきどきＨ」
+			「個人的に参上Ｌｖ１」
+			「サイコロ数：３個」
+			「中に出す」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/12</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「そうだな」
+			「テニスコート：フーマンと戦う」
+			「どきどきＨ」
+			「ホテルであわアワＬｖ３」
+			「サイコロ数：１個」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/30</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「休憩」
+			「熟読しているのか？」
+			「繁華街：フーマンと戦う」
+			「どきどきＨ」
+			「個人的に参上Ｌｖ２」
+			「サイコロ数：３個」
+			「中に出す」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/13</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「浜辺でヌルヌルＬｖ１」
+			「サイコロ数：２個」
+			「熟読しているのか？」
+			「出撃中止」
+			「出撃しない」
+			「どきどきＨ」
+			「ヒミツの朗読会Ｌｖ１」
+			「サイコロ数：１個」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/31</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「個人的に参上Ｌｖ２」
+			「サイコロ数：２個」
+			「中に出す」
+			「肩を抱いて」
+			「出撃中止」
+			「出撃しない」
+			「どきどきＨ」
+			「ＧＯＧＯ遊園地Ｌｖ３」
+			「サイコロ数：１個」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/14</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「ＯＫする」
+			「強化」
+			「シールド＋５、攻撃力＋１０、防御力＋５、反応力＋５」
+			「あのハリは使えそうだ。」
+			「映画館前：ムービーフラストと戦う」
+			「どきどきＨ」
+			「ヒミツの朗読会Ｌｖ２」
+			「サイコロ数：２個」</font></td>
+			<td align="center" valign="top" width="8%"><font size="2"><b>9/1</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「情報」
+			「奉仕活動」
+			「男が寄ってくるからやめとけ」
+			「どきどきＨ」
+			「名コーチ沙由香Ｌｖ３」
+			「サイコロ数：３個」
+			「中に出す」</font></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="8%"><font size="2"><b>8/15</b></font></td>
+			<td align="left" valign="top" width="42%"><font size="2">「どきどきＨ」
+			「ヒミツの朗読会Ｌｖ３」
+			「サイコロ数：１個」※失敗
+			「いいぜ」
+			「チョップ」
+			「ロッキーアイランド：ジョイフラストと戦う」
+			「情報」
+			「エロゲー」</font></td>
+			<td align="center" background="http://www5d.biglobe.ne.jp/~rodemass/images/sozai72.jpg" valign="top" width="8%">　</td>
+			<td align="left" background="http://www5d.biglobe.ne.jp/~rodemass/images/sozai72.jpg" valign="top" width="42%">　</td>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+              

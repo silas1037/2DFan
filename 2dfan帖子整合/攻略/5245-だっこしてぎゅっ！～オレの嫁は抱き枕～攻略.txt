@@ -1,0 +1,29 @@
+
+                灯
+SAVE1愛してる！やめておくAKARIAKARISAVE2夢の中に連れて来れる？AKARIもっと色っぽい方が良い＆パジャマなら男物の上だけ！AKARIAKARIAKARIAKARISAVE3俺もモフモフされたい……そっとしておくじゃあ俺も引き上げるよ俺の嫁だ！のぞきに行ってみる灯に話しかける公園連れて帰る
+灯 END
+こよい
+SAVE3开始俺もモフモフしたい！話しかけてみる送っていこうか？部長が作ったハイテク枕なんだじっと我慢するSAVE4こよいに話しかけるこよいを支える
+こよい END
+とばり
+SAVE4开始とばりに話しかける部長の顔を思い浮かべる
+とばり END
+枕子
+SAVE1开始初めまして枕子も貸して！MAKURAKOMAKURAKO夢の中に連れて来れる？MAKURAKOMAKURAKOMAKURAKOMAKURAKOMAKURAKO
+枕子 END
+蛍
+SAVE2开始蛍さんのモニターもぜひ俺が！HOTARUHOTARUHOTARUHOTARUHOTARUHOTARUHOTARU
+蛍 END
+后宫
+SAVE1开始君、抱き枕なんだよね？枕子も貸して！AKARIMAKURAKO蛍さんのモニターもぜひ俺が！HOTARUAKARIMAKURAKOHOTARUAKARIもっと色っぽい方が良いMAKURAKOHOTARUAKARISAVE5SAVE5灯と蛍を両方抱いて寝るMAKURAKOHOTARUAKARIMAKURAKO3人とも抱いて寝てみる愛の力で受け止める
+后宫 END
+后宫
+SAVE6开始とばりに調整してもらう
+后宫 END2
+后宫BAD
+SAVE5开始やっぱりやめとくMAKURAKOHOTARUAKARIMAKURAKOやっぱりやめとくHOTARU枕子と蛍を両方抱いて寝る灯と枕子を両方抱いて寝る
+BAD END
+CG＆场景回收
+SAVE5开始やっぱりやめとくAKARIAKARIAKARI俺もモフモフされたい……
+选项“そっとしておく”出现后结束
+              

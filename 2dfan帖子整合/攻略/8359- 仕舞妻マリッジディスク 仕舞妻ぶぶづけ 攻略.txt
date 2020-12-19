@@ -1,0 +1,118 @@
+
+                <table border="1" cellpadding="3" width="300">
+	<tbody>
+		<tr>
+			<th>＜葵１＞</th>
+		</tr>
+		<tr>
+			<td>（もちろん葵一筋）※最初は表示されない</td>
+		</tr>
+		<tr>
+			<td>葵との甘い一夜を回想する</td>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ１＞</font></b>※理路１分岐</td>
+		</tr>
+		<tr>
+			<td>快感に身を任せる</td>
+		</tr>
+		<tr>
+			<td>不謹慎な事を考える</td>
+		</tr>
+		<tr>
+			<td>旦那との馴れ初めを聞いてみる</td>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ２＞</font></b>※BAD分岐</td>
+		</tr>
+		<tr>
+			<td>葵を探しに行く</td>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ３＞</font></b>※葵２（＋葵３）分岐</td>
+		</tr>
+		<tr>
+			<td>葵の様子を伺う</td>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ４＞</font></b>※理路２分岐</td>
+		</tr>
+		<tr>
+			<td>葵をデートに誘う</td>
+		</tr>
+		<tr>
+			<th>＜葵エンド１＞</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<table border="1" cellpadding="3" width="300">
+	<tbody>
+		<tr>
+			<th>＜葵２＞</th>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ３から＞</font></b>※葵１より</td>
+		</tr>
+		<tr>
+			<td>葵を騙す</td>
+		</tr>
+		<tr>
+			<td>それでもやる</td>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ５＞</font></b>※葵３分岐</td>
+		</tr>
+		<tr>
+			<td>葵を押し倒す</td>
+		</tr>
+		<tr>
+			<th>
+			＜葵エンド２＞
+			</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<table border="1" cellpadding="3" width="300">
+	<tbody>
+		<tr>
+			<th>＜葵３＞</th>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ５から＞</font></b>※葵１より</td>
+		</tr>
+		<tr>
+			<td>我慢する</td>
+		</tr>
+		<tr>
+			<th>＜葵エンド３＞</th>
+		</tr>
+	</tbody>
+</table>
+
+ ;
+
+<table border="1" cellpadding="3" width="300">
+	<tbody>
+		<tr>
+			<th>＜葵BAD＞</th>
+		</tr>
+		<tr>
+			<td><b><font color="#ff9999">＜セーブ２から＞</font></b>※葵１より</td>
+		</tr>
+		<tr>
+			<td>そのまま家で時間を潰す</td>
+		</tr>
+		<tr>
+			<th>＜葵BADエンド＞</th>
+		</tr>
+	</tbody>
+</table>
+
+
+              

@@ -1,0 +1,26 @@
+
+                本地图对应版本1.0.0.（1.0.1中增加了新区域，同时传送门也进行了标注）
+
+打了几天终于抗不住了。最终还是差2个强化没找到，OTL。。。
+
+因此有发现不同于本地图的  ;<span style="color:#FF0000;">DEF</span>  ;和  ;<span style="color:#FF0000;">CP</span>  ;强化的人，请务必留下评论告知，非常感谢。
+
+游戏本身不难，没有特别注意的地方。极个别地图有不好走的几个点，需要考验手了。
+
+本地图自带简单流程攻略，因为传送门的字母顺序就是我的攻略流程。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+字母+箭头：传送门以及地图中对应的方向
+
+HP等：强化道具，共计85个，其中HP，DEF，ATK,SHT各13个，其他各11个
+
+箭头：一般在隐藏房间的<span style="color:#FF0000;">入口</span>标注，注明隐藏房间从哪里进入。
+
+文字：一般为宝箱获得的矿石，个别为重要道具
+
+黑色房间：重要道具所在地
+
+<img alt="" src="https://img.2dfan.com/uploads/intro/807/301c38c15facd439740aa6842fbaf0f2.jpg?imageMogr2/quality/85!/thumbnail/1080x810>;" style="width: 1080px; height: 660px;" /><img alt="" src="https://img.2dfan.com/uploads/intro/807/eaad17ed7fcb19ea70b68e411c33c286.jpg?imageMogr2/quality/85!/thumbnail/1080x810>;" style="width: 1080px; height: 628px;" /><img alt="" src="https://img.2dfan.com/uploads/intro/807/443905192bcd89399b09b8b1ddd3f0d9.jpg?imageMogr2/quality/85!/thumbnail/1080x810>;" style="width: 1080px; height: 628px;" />不要吐槽难度。。。
+
+              
